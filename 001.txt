@@ -1,0 +1,2180 @@
+Research
+
+Open Access
+
+Implications Of Ai Innovation On Economic Growth: A Panel Data Study
+
+Julius Tan Gonzales1
+
+Correspondence: julius-gonzales-gz@ynu.jp 1 Yokohama National University, 79-1 Tokiwadai, Hodogaya Ward, Yokohama, Kanagawa 240-0067, Japan
+
+Abstract
+
+The application of artifcial intelligence (AI) across frms and industries warrants a line of research focused on determining its overall efect on economic variables. As a general-purpose technology (GPT), for example, AI helps in the production, marketing, and customer acquisition of frms, increasing their productivity and consumer reach. Aside from these, other efects of AI include enhanced quality of services, improved work accuracy and efciency, and increased customer satisfaction. Hence, this study aims to gauge the impact of AI on the economy, specifcally on long-run economic growth. This study conjectures a positive relationship between AI and economic growth. To test this hypothesis, this study makes use of a panel dataset of countries from 1970 to 2019, and the number of AI patents as a measure of AI. A text search query is performed to distinguish AI patents from other types of innovations in a public database. Employing fxed efects and generalized method of moments (GMM) estimation, this paper fnds a positive relationship between AI and economic growth, which is higher than the efect of the total population of patents on growth. Furthermore, other results indicate that AI's infuence on growth is more robust among advanced economies, and more evident towards the latter periods of the dataset.
+
+Keywords: Artifcial intelligence, Patents, Economic growth, GMM
+
+1 
+
+Introduction
+
+Te developments in computer science and digital technology, including artifcial intelligence (AI) and machine learning, naturally led to their application in key sectors such as healthcare, fnance, manufacturing, and transport.1 Teir increasing use in industries has opened up questions as to whether these technologies may have an impact on economic variables. In neoclassical and endogenous economic growth models, for example, technical change brings about increases in productivity, leading to economic growth. 
+
+Hence, breakthroughs in computing technology should also entail increases in growth rates.
+
+In particular, the last 60  years have witnessed a shift in production from traditional inputs to more information and communications technology (ICT)-based, 
+© The Author(s) 2023. 
+
+Open Access
+
+ This article is licensed under a Creative Commons Attribution 4.0 International License, which permits 
+
+use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http:// creativecommons.org/licenses/by/4.0/.
+
+capital-intensive tools. Te introduction of modern computers and the Internet in the early 1990s, and more recently, AI, led to changes in the methods of production. In keeping with the rise of new technologies, Zeira (1998) proposed an economic growth model adopting technological innovations that reduce labor inputs but require more capital.2 Furthermore, more recent empirical studies on the subject have found these technologies as potential sources of economies of scale (e.g., Nightingale 2000; Wang et al. 2011; Nchake and Shuaibu 2022). Tus, it is only expected that advancements in ICT may have a positive efect on overall productivity and economic growth.
+
+Tis study continues this line of research by exploring the relationship between technical change, as manifested by modern developments in science and technology, and economic growth. Several economic papers have been published on the subject, of proxying technology with various forms of knowledge and ICT measures (e.g., patents and scientifc journals, Internet penetration, computer ownership, etc.). Tis paper is similar to past academic papers, yet with a special focus on AI as a newer form of technology.
+
+Estimation results reveal a positive and signifcant impact of AI on long-run economic growth in a cross-country panel dataset. Te magnitude of AI's efect on growth is also higher than that of total patents. Furthermore, the contribution of AI to growth is more robust both for advanced economies and for the latter half of the period considered in the estimation.
+
+2 Literature Review
+
+Endogenous growth models are central to much of the existing literature on technology and economic growth. Arrow (1962) associates technology as a "by-product of ordinary production" through knowledge accumulation, aptly termed "learning-by-doing." Te process of learning through repetition and experience should manifest itself in increases in productivity, thus creating opportunities for economic growth.3 Arrow (1962) 
+assumes that technical change, born out of knowledge and experience, is embodied in new physical capital, which then enters the production process and improves "productive efciency."4 Te literature on technology and growth follows this line of thought, assuming that technological change increases capital productivity. In line with the Schumpeterian tradition, Zeira (1998) presents a theoretical framework involving intermediate goods in production. Technology adoption increases the intensity of capital and replaces labor in the production process. Technology is then adopted if it increases output; however, as technology requires more capital input, not all countries can keep up with the technological frontier.5 Te disparities in the levels of technology across countries then result in diferences in overall output and productivity.
+
+Meanwhile, Acemoglu and Restrepo (2018) have constructed a "task-based" framework, treating automation and the creation of new tasks as types of technological innovation. Both types of technology are necessary to increase productivity. Initially, Acemoglu and Restrepo (2018) considered that all tasks could be done by labor, whereas 
+"lower-indexed" tasks could and would be automated.6 However, automation requires some capital investment, thus raising the share of capital and decreasing the share of labor in production. Tis is counterbalanced, though, by creating new and more sophisticated tasks, where labor has a "comparative advantage." In the long run, there is a "stable, balanced growth path" where the two types of innovations coexist and grow at the same rate.7 Te aforementioned theoretical works help explain the relationship between modern science and ICT developments and economic growth. However, empirical evidence on more recent forms of technological innovation, such as AI and machine learning, is still limited. Tis can be attributed to an insufcient amount of data both at the frm and at macro levels, especially when dealing with long-run growth.8 Tis study is an attempt to contribute to the body of literature on this subject despite limitations on data availability. In the following discussion in this section, this paper will revisit some recent publications regarding the relationship between technical change and economic growth, using common scientifc knowledge and technology variables.
+
+In empirical studies, the number of patents and scientifc journals are common measures of technological innovation. In the Schumpeterian context, patents represent ownership of monopoly rents from the invention of new technology. Firms aim for exclusive rights over these monopoly rents; thus, new technologies that improve productivity are continuously invented, while dismantling obsolete ones in the process—the so-called 
+"creative destruction." As better technologies are created, frms become more productive, possibly achieving increasing returns to scale status.9 Hence, countries with higher concentrations of patents may signal higher productivity and levels of production, and of course, national growth.10 On the other hand, scientifc journals index the level of research and development 
+(R&D). Based on standard growth models, technical progress is a product of knowledge accumulation, which is made possible through continuous R&D eforts. According to Kim and Lee (2015), academic articles as a measure of scientifc knowledge have been regarded as a contributor to economic growth, citing scientifc journals published by institutions and universities as sources of "patents and industrial technology." Assuming academic knowledge from journal articles can be transformed into concrete technological inputs for production, published research should then also contribute to overall productivity and growth.11 However, Kim and Lee (2015) conclude that it is patents and not scientifc journals that contribute to economic growth. Tey considered academic articles to be sources of scientifc knowledge, whereas patents are embodiments of technological knowledge. 
+
+Technological knowledge, though, is more a product of the private R&D eforts of frms than of scientifc research from academic institutions. Using panel data estimation and evidence from Latin American economies, Kim and Lee (2015) found an insignifcant efect of scientifc knowledge, while patents indicated signifcant and positive impacts on economic growth.
+
+Studies about patents and growth are numerous, often arriving at similar results (e.g., 
+Lach 1995; Sinha 2008; Kim et  al. 2012). In an earlier work modeling innovation and entrepreneurship with economic growth, Wong et  al. (2005) found a signifcant and positive efect of patent grants as an indicator of innovation on country growth rates. In contrast, recent studies such as those by Sweet and Eterovic (2019) and Blind et al. 
+
+(2022) found no signifcant efect of patents on economic growth.
+
+In another recent study, Nguyen and Doytch (2022) found a positive and signifcant efect of total patents on economic growth for advanced economies, but the magnitude of the efect of the technology variable weakens for emerging economies.12 Moreover, ICT patents only contribute to economic growth among advanced economies. In addition, the authors found that total patents, regardless of domain, are not signifcant in the long run, but ICT patents remain positive and signifcant.
+
+On the other hand, studies on the efect of scientifc research, measured by the number of scientifc journals, on cross-country growth tend to be mixed. As mentioned previously, Kim and Lee (2015) discovered no signifcant impact of scientifc knowledge from academic articles on growth. Meanwhile, Ntuli et al. (2015) found difering results in determining causality between research output and growth among OECD countries. Research output exhibits "unidirectional causality" on growth in some countries such, as the United States, Finland, Hungary, and Mexico, but is negligible in other OECD 
+members.
+
+Existing literature suggests a weak or ambiguous relationship between academic research and national growth (e.g., Inglesi-Lotz et  al. 2014; Hatemi-J et  al. 2016).13 In contrast, Solarin and Yen (2016) obtained a positive relationship between research publications and economic growth using a cross-country panel dataset. Tey found that the efect was signifcant "irrespective of whether the focus is on developed countries or developing nations." However, Solarin and Yen (2016) noted that the impact on growth is stronger in advanced economies.
+
+Interestingly, Mueller (2006) found that research output may be favorable to local economic performance. Mueller (2006) analyzed the impact of private industry and university R&D, along with measures of entrepreneurship and university-industry relations,14 on regional aggregate output in West Germany. Regression results have established individual, positive efects of each variable on regional economic performance.
+
+Further, at the frm level, "intangible assets" such as "R&D, goodwill, brand equity, patents, copyrights, software, licenses, image, and organization" are "enhancers" of total factor productivity (TFP) (Nakatani 2021). Comparing frms within the ICT sector across fve countries, intangible assets revealed a signifcant impact, though difering in magnitude, on the productivity of ICT frms across countries.15 Tis can be attributed to some countries already being at the forefront of the global technology frontier. Hence, the additional efect of intangible assets on frm productivity diminishes (Nakatani 2021).
+
+Tis study, however, is more interested in a specifc technological innovation diferent from ICT, namely AI, including machine learning. With AI swiftly becoming the new general-purpose technology (GPT) (Trajtenberg 2018), comparisons between AI and previous technologies, particularly ICT, have been raised (Lu and Zhou 2021). However, AI is considered to "impact a broader range of sectors," leading to "diferent implications at the aggregate level" and an "unpredictable future development." Furthermore, ICT is known to require high investments in capital over long periods, whereas AI can leverage data and cloud services that can help lower capital investments. Tese diferences could potentially lead to a distinct "pathway" for AI adoption, diferent from that of previous technologies (Lu and Zhou 2021).
+
+Because of the scarcity of data, there is a dearth of empirical evidence on the topic of AI as a driver of economic growth. Nonetheless, this article attempts to determine this relationship using an available measure that can indicate the level of AI per country.
+
+2.1 What Is Ai?
+
+AI encompasses a broad category of technology, and there is not a single, widely accepted defnition. However, international organizations have similar defnitions of AI. Te European Parliamentary Research Service (EPRS), for example, refers to AI as machines that perform "human-like cognitive processes," namely, "learning, understanding, reasoning and interacting." As a general-purpose technology, AI can take many forms such as a 
+"technical infrastructure (i.e., algorithms), a part of the (production) process, or an enduser product" (Szczepański 2019). Hence, in contrast with traditional technologies that automate routine processes, AI technologies even go further to mimic human activities that require cognition, and their application and use are not limited to the production process.
+
+Meanwhile, the International Telecommunication Union (ITU) broadly defnes AI as 
+"self-learning, adaptive systems." Accordingly, there are several "approaches" in defning AI, namely: (1) in terms of "technologies, techniques and/or approaches" such as 
+"a neural network approach to machine translation"; (2) in terms of "purpose," which include facial and image recognition; (3) in terms of "functions," such as the "ability to understand language, recognize pictures, solve problems, and learn"; and (4) in terms of 
+"agents or machines or algorithms" such as robots and self-driving cars (International Telecommunication Union 2023).
+
+Furthermore, Montagnier and Ek (2021) cite several defnitions of AI by individual countries and organizations such as the European Commission and the OECD. For instance, the OECD defnes AI as a "machine-based system" that can "make predictions, recommendations, or decisions" and "operate with varying levels of autonomy" (Yeung 2020). Additionally, the European commission (2021) provides some examples of AI, which include "chatbots" and "virtual assistants," "face recognition systems," "machine translation software," "data analysis based on machine learning," "autonomous robots," 
+and "autonomous drones." On the other hand, national statistics institutions such as the French Institut national de la statistique et des études économiques (INSEE) (2019) 
+describe AI as "technologies" that can perform "cognitive tasks traditionally performed by humans," whereas Statistics Sweden (2020) notes that physically, AI may be "purely software based or embedded in hardware."
+Because of its broad defnition and the lack of a single, universally accepted descriptor of AI, classifying existing AI technologies is also a difcult task. In spite of this, Sarker (2022) categorized AI into fve types, which include analytical, functional, interactive, textual, and visual.16 However, the most commonly heard terms in AI are the "techniques" used in developing intelligent and smart systems in various real-world application areas." Sarker (2022) identifed at least ten "potential categories," namely:
+- Machine learning,
+- Neural network and deep learning (including generative AI), - Data mining, knowledge discovery, and advanced analytics, - Rule-based modeling and decision-making, - Fuzzy logic-based approach, - Knowledge representation, uncertainty reasoning, and expert system modeling,
+- Case-based reasoning, - Text mining and natural language processing,
+- Visual analytics, computer vision, and pattern recognition, - Hybrid approach, searching, and optimization.
+
+While each AI technique has its scope and specifc applications, it is often that existing technologies are combinations and applications of various categories. Tus, grouping AI 
+systems according to specifc types or techniques is not always feasible. Moreover, AI 
+development is a wide and ongoing practice, and more and newer forms of AI technologies are continuously produced over time. For example, ChatGPT, a form of generative AI technology that employs deep learning, was released to the public in 2022, and quickly became a groundbreaking AI technology due to its ability to interact with individuals and provide "comprehensive and practical responses" (Marr 2023).17 ChatGPT is built upon "foundational large language models" (LLMs), which go beyond conventional natural language algorithms.
+
+In addition, AI development may be unique to its industry due to the nature of AI 
+itself. Coiera (2019) identifes three main stages of AI development, termed "miles." Te "frst mile" consists of data acquisition, pre-processing, or "cleaning." Te "middle mile" includes "developing and testing the technical performance of diferent algorithms" that are built using the data acquired in the frst stage. After all tests and tuning are completed, an AI system enters the last mile, where it is "embedded in real-world processes and tested for impact on real-world outcomes."
+However, each stage of AI development has its challenges. Te frst mile entails "foundational challenges," such as "gathering and curating" huge amounts of high-quality data. 
+
+Acquiring large amounts of data presents a potential "bottleneck," and "translates into a roadblock to technology application." Meanwhile, the middle mile involves the difculties of "data-driven algorithm development," such as "biases, replicability, causal inference, avoiding overftting on training data, and enhancing the generalizability of any models and algorithms" (Coiera 2019).18 Finally, and likely the hardest task, occurs in the third mile. As it turns out, "AI does not do anything on its own"; therefore, AI systems must somehow "connect" to the real world. Simply, the impact of an AI system must be "consequential" and "meaningful." For example, the current setting does not necessitate better diagnoses of cancer but "more nuanced" and "less aggressive" approaches to detection and management. Hence, the last mile refers to the implementation of AI itself in real-world processes. AI implementation faces a plethora of challenges, which can be classifed under "measurement," "generalization and calibration," and "local context" (Coiera 2019).19
+
+2.2 Ai And Economic Growth
+
+AI drives economic growth by stimulating gains both from the supply side and the demand side. AI can drive business productivity through (1) automation of processes with the use of robots and "autonomous vehicles," and (2) improvements in the existing labor force by equipping them with AI technologies. On the other hand, AI can generate an increase in consumer demand with the availability of "personalised and/or higherquality" products and services. Accordingly, it is expected that AI could contribute up to USD 15.7 trillion to the global economy in 2030 (Rao and Verweij 2017).
+
+Furthermore, the contributions of AI may be specifc to the sectors where it is applied, such as manufacturing, health, fnance, energy, and transport. For example, AI supports healthcare services through early detection and diagnosis of illnesses, identifcation of 
+"potential pandemics and tracking incidence," and "imaging diagnostics" in radiology and pathology. Meanwhile, AI contributions to the fnancial sector include applications for fraud detection and anti-money laundering. Also, AI developments such as "roboadvice" make "customized investment solutions" possible in managing fnancial goals and optimizing clients' funds. In addition, AI enables "autonomous trucking and delivery," trafc control systems, and improved security in the transport sector (Rao and Verweij 2017).
+
+Recently, Lu (2021) built a theoretical framework that traces the impact of AI on endogenous growth. Lu (2021) likens AI to human capital accumulation, "as it can learn and accumulate knowledge by itself." Secondly, AI is a "nonrival input," which can be used in production without having it "detract from its ability to accumulate AI." Tis implies that AI is disembodied from physical capital, and should be considered a separate input.20 Moreover, Lu (2021) unveils a balanced growth path in the three-sector endogenous growth model, where production and factors including AI grow at the same rate.21 Using provincial data from China, He (2019) estimated the efect of AI on regional economic growth. Unlike most innovation studies on ICT and growth, He (2019) makes use of fxed assets investment in ICT to GDP as a measure of AI,22 rather than AI-specifc patents or published articles. Similarly, Fan and Liu (2021) tested AI as a tool for the sustainable economic development of Chinese provinces.23 Te results in both studies are consistent with theories on the growth-enhancing capability of AI.
+
+Furthermore, Yang (2022) evaluated the efect of both AI and non-AI patents on frm-level productivity and employment in Taiwan. Both types of patents were found to improve productivity and employment among Taiwanese electronic frms. Estimation results revealed that both AI and non-AI patents contribute to TFP, and the diference in elasticities between the two patent types is insignifcant. Moreover, when TFP 
+is replaced by labor productivity, the estimated coefcient for AI patents is lower than in the model with TFP as a dependent variable. Yang (2022) suggested that this can be attributed to AI technology having a "greater efect on capital productivity," which is consistent with the frameworks of Arrow (1962) and Zeira (1998).
+
+At present, there are limited empirical works regarding AI as an engine of economic growth, primarily because of the unavailability of data.24 Tough extant literature on the topic fnds a positive relationship between AI technology and economic growth, general sentiment suggests the efect of AI on growth is complex (He 2019) and difcult to measure. Intuitively, this can be because of its multifaceted role as an input to production. Still, with the increasing use of AI across countries and industries, this article seeks to measure the impact of AI on national growth rates amidst empirical constraints.
+
+3 Theoretical Framework
+
+Tis study follows an endogenous growth framework. An endogenous model of economic growth often starts with the basic Cobb–Douglas function. However, this study also takes into account human capital as an input to production:
+
+$$Y=A K^{\alpha}L^{\beta}H^{\gamma},$$
+$$(1)$$
+Y = AK (1) αLβHγ ,
+where Y is the total output, K stands for capital, L for labor, and H is human capital. 
+
+Te elasticities of output to capital, labor, and human capital are denoted by α, β, and γ, respectively. Meanwhile, A is the level of knowledge, or as proposed by Jones and Williams (1998), the stock of ideas, available in an economy. To obtain the output per unit of labor, Eq. (1) is divided on both sides by L. Multiplying the right-hand side with Lα+γ Lα+γ = Lα Lα · Lγ Lγ = 1 and assuming constant returns to scale, α + β + γ = 1, results in Eq. (2):
+
+$$\left(2\right)$$
+$${\frac{Y}{L}}=A\left({\frac{K^{\alpha}}{L^{\alpha}}}\right)\left({\frac{H^{\gamma}}{L^{\gamma}}}\right)=A\left({\frac{K}{L}}\right)^{\alpha}\left({\frac{H}{L}}\right)^{\gamma}.$$
+
+For simplicity, the per unit of labor variables are replaced by small letters, as with Eq. (3):
+
+$$\gamma=A k^{\alpha}h^{\gamma}\,.$$
+$\eqref{eq:walpha}$. 
+y = Ak (3) αhγ .
+Te technology factor A is seen as the available knowledge stock at time t. Romer 
+(1990) proposed that since knowledge is a nonrival input, all researchers can utilize existing knowledge stock at the same time. Summing across all individual eforts in research yields Eq. (4):
+
+$${\mathfrak{I}}^{\theta}A,$$
+$$(4)$$
+
+(4) A˙ = δRθA,
+where R is the research efort or resources devoted to research. Te function is assumed to be increasing in R, as more research leads to more ideas. Jones and Williams (1998), 
+though, noted that Eq. (4) may be increasing or decreasing in A, depending on how previous ideas afect current research.
+
+A basic (and crucial) assumption is that the parameter θ is assumed to be 1, to show that the increase in R results in an increase in new ideas.25 Meanwhile, the coefcient δ depicts the productivity of research, as proposed by Romer (1990) and Jones and Williams (1998).
+
+To estimate Eq. (3), the equation is transformed into its natural log form. Further, the diferenced natural logged form of Eq. (3) is obtained to calculate the growth rate:
+�lny = �lnA + α�lnk + γ �lnh. (5)
+Te growth rate of y is defned as gy = y˙y, where y˙ = dy dt. Te term y˙ represents the difference, or change, in output per worker between two time periods (the change in t). 
+
+Mathematically, the growth rate can be further expressed as gy = dy/dt y = dlny dt = lnyt−lnyt−s s . Terefore, dividing Eq. (5) by the change in t yields the growth rate equation:26
+
+$$=\frac{\dot{A}}{A}+\alpha\frac{\dot{k}}{k}+\gamma\frac{\dot{h}}{h}.\tag{10}$$
+$$(6)$$
+
+Substituting Eq. (4) for the value of A˙ in Eq. (6) and simplifying the resulting equation yields:
+
+$$={\frac{\delta R^{\rho}A}{A}}+\alpha{\frac{\dot{k}}{k}}+\gamma{\frac{\dot{h}}{h}}.$$
+$$\left(7\right)$$
+
+Finally, the growth rate of y can be written as:
+
+$$(8)$$
+
+gy = δR + αgk + γ gh (8) .
+
+Tis study focuses on determining the relationship between AI innovation and economic growth. Tus, the variable R is proxied by the level of AI innovation in the economy, given by the amount of AI patents published within a certain period. Notably, this is slightly diferent from the theoretical specifcation, which indicates R as inputs or resources devoted to research (e.g., R&D expenditure, share of labor assigned to R&D, 
+etc.). In general, patents are precisely the output of these R&D eforts. Te choice of R&D input, such as the number of researchers, or output, such as the number of patents, in economic analysis, has been discussed by Griliches (1998). Ultimately, this decision depends on the size of the error terms in the relationships among patents, research, and knowledge stock.27 Moreover, Griliches (1998) conjectures that if the "stochastic component" of knowledge stock is captured to some extent by patenting, using patents may have some "value added" over the use of common research inputs as an indicator of knowledge.
+
+Patents embody the quantity, type, inventiveness, and complexity of innovation created in a given time (Griliches 1998). Although not without disadvantages, patents can serve as a good indicator of technical knowledge. More importantly, patent data are more readily available for analysis than research input measures, especially for AI. Hence, this study makes use of the number of AI and total patents as a proxy for R&D.
+
+Furthermore, while the model discussed in this section explains how traditional research translates to economic growth, the current model might not fully encapsulate the efect of AI.28 As stated previously, the employed model assumes constant returns to research (and by extension, AI). However, because of the nonrivalry of data and the possibility of AI "outpacing" human intelligence, continuous AI invention may exhibit increasing returns, further leading to a "technological singularity," or explosion of growth rates (Aghion et al. 2018). Exploring empirical evidence of such a mechanism is beyond the scope of this study; however, it is a highly recommended topic for future research.29
+
+4 Data And Methodology
+
+For this study, the primary challenge to perform econometric analysis is obtaining data that can measure the level of AI in a cross-country, panel dataset format. As discussed in the previous sections, the most common indicator of technological innovation is patent publications. Terefore, this study uses AI patents as a measure of AI.
+
+Data for AI patents are available from the Google Patents Public Data, provided by the Information for Industry, Inc. (IFI) CLAIMS Patent Services. To identify AI patents, a text search query was performed in the patents database. Te text search includes common words or phrases related to AI, such as "artifcial intelligence," "face recognition," 
+"virtual assistant," "machine learning," etc.30 Meanwhile, data for the dependent and control variables are sourced from the United Nations (UN) Department of Economic and Social Afairs Statistics Division and the World Bank.
+
+Tis study echoes the econometric models of Wong et al. (2005), Kim and Lee (2015), 
+and He (2019) among others. Estimating Eq. (8) from the previous section, the econometric model follows the equation:
+Growthit = ϕ0 + ϕ1Growthi,t−1 + ϕ2
+
+GDPpci
+
+,t−1 + ϕ3Patentsit + ϕXit + εit (9) ,
+where Growthit is the annual average real GDP per capita growth rate of country i over a certain period t, i.e., fve years, calculated by dividing the diference between the natural log value of end-of-period real GDP per capita (in USD and constant 2015 prices) 
+and the natural log value of initial real GDP, by the number of years in period t. Hence, Growthit is the instantaneous growth rate of the real GDP of country i in period t.
+
+Te lagged variable of growth rate is added to control for any potential endogeneity brought by the omitted variable, in the case when a large infuence on current growth by its lagged value is present. Likewise, the lagged value of real GDP per capita is included to test for the convergence efect between high-income and low-income countries. Te lagged real GDP per capita refers to the 5-year average of real GDP per capita in the period t − 1.
+
+Te variable Patentsit stands for the level of AI innovation per country, measured by the total number of AI-related patents per million people in a 5-year average population within period t. Tis measure is the same intensity index used by Kim and Lee (2015) 
+and was also converted into natural logarithms.31 AI patents are then replaced by the total number of patents to determine the relationship between total technological innovation and economic growth (see Table 3). Te expected sign of both patent variables is positive.
+
+Xit represents a set of control variables that include population growth, real gross capital formation growth rate per capita, real government expenditure growth rate per capita, trade openness, and infation.32 All control variables are 5-year average growth rates except for trade openness, which is the 5-year average ratio of trade volume (exports plus imports) to GDP.33 Te control variables appear in similar literature, such as in the seminal works of Grier and Tullock (1989) and Barro (1997), and in the more recent studies of Bassanini et al. (2001), Ulku (2004), Kim et al. (2012), and Fan and Liu (2021).
+
+In addition to the control variables, an index using data for years of schooling and returns to education, obtained from the Penn World Table (PWT) by Feenstra et  al. 
+
+(2015), is taken as a proxy for human capital.34 Te index makes use of average years of schooling, while also considering decreasing returns to education. Despite this, the index, like other usual human capital measures, ignores cognitive skills, which may be more important in capturing the real efect of human capital (Feenstra et al. 2013). Tis measure also enters the model as a 5-year average growth rate.
+
+Specifc time period efects and advanced economic status are indicated using dummy variables. Tere are ten t periods in total consisting of fve years each, spanning from 1970 to 2019. Advanced economies are countries with more than USD 10,000 of the 5-year average real GDP per capita. Finally, to control for any interaction efect between the level of economic development and patent creation, an interaction term between advanced economic status and patent variables was introduced. Te expected sign of the interaction term is negative, implying a lower impact of patent creation on long-run growth among advanced economies.
+
+Statistical treatment was initially done using ordinary least squares (OLS) and fxed efects in panel data. However, because of the inclusion of the lagged growth rate, the model is prone to the Nickell bias, which is unaccounted for in the fxed efects estimation of dynamic panels (Nickell 1981; Roodman 2009). In addition, bias due to reverse causality between growth rate and patents might be present in the model. Hence, the Anderson-Hsiao (AH) and generalized method of moments (GMM) estimation techniques are employed to minimize endogeneity issues (Arellano and Bond 1991; Arellano and Bover 1995; Blundell and Bond 1998).35 Te next section presents the results of the panel data regressions.
+
+5 Results And Discussion
+
+Table 1 presents the descriptive statistics of the panel data, consisting of ten periods with 5-year intervals between 1970 and 2019. Because of data availability issues, the dataset used is an unbalanced panel data, as indicated by the unequal number of observations 
+(N) and number of groups (n) across variables.
+
+Five-year growth rates averaged around 1.30%, with a standard deviation of 3.55 across countries in the dataset.36 Intuitively, high-income countries will typically have lower growth rates because of the convergence efect. To control for this efect, the estimations presented later include the 5-year average real GDP per capita variable from the previous period. Te mean 5-year real GDP per capita is USD 11,990.25.
+
+Table 2 summarizes the economic performance measures such as real GDP per capita and real GDP per capita growth rates, and technological progress in terms of AI and total patents per level of economic development. Tis follows the classifcation of Kim and Lee (2015), where countries with real GDP per capita above USD 10,000 are considered to be in an advanced development stage. Countries with real GDP per capita below the threshold are classifed as less developed.
+
+As expected, high-income countries post higher technology output, in terms of patents per million people, between the two income groups. With 165 countries in the dataset, less developed economies are the larger group of the two, and with slightly higher average real GDP per capita growth (1.39%). Illustratively, patent output and income per capita across countries are displayed in Fig. 1.
+
+Figure  1 depicts the patent publications and level of income per capita. In terms of patents, advanced economies such as Japan, the United States, Germany, South Korea, France, and China have had the highest output between 1970 and 2019. Overall, China has had the highest cumulative AI and total patents within the period, with 849,752 AI 
+and 32,317,932 total patents. Tis is followed by Japan (365,409 AI and 18,965,778 total patents), and the United States (259,844 AI and 12,883,662 total patents), respectively.
+
+Regardless, all countries started with low levels of AI and total patents in the early 1970s, as illustrated in Fig.  2. While global AI and total patent counts have steadily increased since the 1970s, China has had a dramatic increase in the number of patents from 2000 onwards. Tis dwarfs the patent output of other advanced economies (see top panel of Fig. 2). Te explosion of Chinese patents can be attributed to the growth of R&D expenditure, FDI, and patent subsidies in the country (Chen and Zhang, 2019).37
+
+| Table 1 Summary statistics Variable                                                                                         | (1)   | (2)   | (3)        | (4)         |
+|-----------------------------------------------------------------------------------------------------------------------------|-------|-------|------------|-------------|
+| N                                                                                                                           | n     | Mean  | Std. Dev   |             |
+| Real GDP per capita (USD)                                                                                                   | 2080  | 208   | 11,990.25  | 20,181.72   |
+| Real GDP per capita growth rate (%)                                                                                         | 1936  | 208   | 1.30       | 3.55        |
+| AI patents per million people                                                                                               | 2165  | 217   | 98.14      | 475.69      |
+| Total patents per million people                                                                                            | 2165  | 217   | 9532.16    | 31,989.98   |
+| Population                                                                                                                  | 2170  | 217   | 25,300,000 | 105,000,000 |
+| Population growth rate (%)                                                                                                  | 2163  | 217   | 1.35       | 1.32        |
+| Gross capital formation per capita                                                                                          | 1927  | 207   | 2809.10    | 4658.01     |
+| Gross capital formation per capita growth rate (%)                                                                          | 1924  | 207   | 1.41       | 8.10        |
+| Government expenditure per capita                                                                                           | 1925  | 207   | 2308.52    | 3692.08     |
+| Government expenditure per capita growth rate (%)                                                                           | 1923  | 207   | 1.45       | 5.07        |
+| Human capital index                                                                                                         | 1387  | 145   | 2.19       | 0.73        |
+| Human capital index growth rate (%)                                                                                         | 1386  | 145   | 0.77       | 0.58        |
+| Trade ratio to GDP (%)                                                                                                      | 1839  | 196   | 76.45      | 58.56       |
+| Infation (%)                                                                                                                | 1928  | 207   | 2.86       | 5.34        |
+| All variables are 5-year averages except for patent variables, which are the total number of patents over the 5-year period |       |       |            |             |
+
+All variables are 5-year averages except for patent variables, which are the total number of patents over the 5-year period divided by the 5-year average of population, and then multiplied by 1 million. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+
+| Table 2 Average economic and technology output across income classifcation Variable (1)                                  | (2)                       |         |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------|---------|
+| Advanced economies                                                                                                       | Less  advanced  economies |         |
+| Real GDP per capita (USD), 5-year average                                                                                | 34,371.61                 | 2637.98 |
+| Real GDP per capita growth rate (%), 5-year average                                                                      | 1.10                      | 1.39    |
+| AI patents per million people                                                                                            | 290.95                    | 6.21    |
+| Total patents per million people                                                                                         | 27,876.77                 | 785.32  |
+| N                                                                                                                        | 703                       | 1467    |
+| n                                                                                                                        | 91                        | 165     |
+| Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents |                           |         |
+
+Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts— Analysis of Main Aggregates Meanwhile, the East Asian economies of Japan and South Korea, have led in terms of patent "intensity," defned as the number of patents per million people (see bottom panel of Fig.  2). Japanese AI and total patents per million people have demonstrated sharp increases since the 1970s but generally declined by the mid-2000s.38 On the other hand, South Korea has also witnessed substantial growth in both AI and total patents per million people since the early 1990s. Tis trend has continued in the subsequent periods, with South Korea eventually overtaking Japan by the early 2010s.
+
+Te main estimation results are presented in Table  3. Te estimation techniques used are panel OLS, fxed efects, AH, and GMM. Both models with AI patents and 
+
+total patents were estimated; columns 1–4 estimate models with the log of AI patents per million people, while columns 5–8 test for the efect of the log of total patents per million people on the dependent variable, denoted by the 5-year average real GDP growth rate. Separate interaction terms between advanced economic status and the patent variables are also included.
+
+As mentioned earlier, the lagged dependent variable in a dynamic panel regression is susceptible to the Nickell bias. Hence, both the AH and GMM estimations are employed to minimize this issue. While the lagged growth rate is positive in all models, it is only statistically signifcant in the AH estimation among the AI patents models (columns 1–4) and insignifcant among the total patents models (columns 5–8). 
+
+Te lack of signifcance and small magnitude of the coefcients indicate the minimal impact of the frst-order lagged growth rate on the contemporaneous growth rate.
+
+Lagged real GDP per capita is statistically signifcant and negative in all models except in column 8, where it is negative but not signifcant. Te results suggest a strong convergence efect as observed in extant literature. Similarly, population growth has a negative and signifcant efect on per capita growth in columns 1, 2, 3, and 5, but is insignifcant in other estimations. Te negative sign of population growth in some estimates is in line with growth theories, but the actual overall efect of population growth across countries is unclear. Kelley and Schmidt (1995) attribute this mixed result between population growth and economic growth in the long run to the "ofsetting" mechanism of "intertemporal demographic efects." Accordingly, population growth rates are characterized by strong autocorrelation; thus, cross-sectional evidence that uses contemporaneous indicators of population inevitably captures "both the negative impacts of current births and positive impacts of past births."39 Meanwhile, both gross capital formation and government expenditure growth rates manifest signifcantly positive efects in all models, implying that investments in physical capital and public infrastructure positively contribute to economic growth. Likewise, trade openness is statistically signifcant and positive in most equations, which is consistent with the existing growth literature. Infation and human capital, however, are not signifcant in all models. Te lack of signifcance of human capital can be attributed to (1) the limitations of the measure, and (2) the substitution of labor and/or human capital with AI as an input to production, as raised by Zeira (1998) and Lu (2021) among others.
+
+Te variables of interest, the extent of AI and total innovation, are taken as the log number of AI patents per million people. As depicted in Table 3, AI patents have a signifcant and positive impact on economic growth in all models. Tis is consistent with the fndings of other studies by Lu (2021) and Yang (2022). On the other hand, total patents also signifcantly and positively afect economic growth; however, the magnitude of the efect is lower than AI patents. Tis is somewhat consistent with the fndings of Nguyen and Doytch (2022), wherein total patents do not display a signifcant impact on the long-run growth rate. In addition, Nguyen and Doytch (2022) conclude that ICT patents have a more signifcant impact on economic growth than other kinds of patents.40 To address potential endogeneity either by omitted variables or reverse causality, the patent variables are instrumented in GMM estimations (columns 4 and 8).41 Estimated coefcients of AI innovation seem to be consistent and signifcant at least at the 10% level. On the other hand, total innovation is signifcant at least at the 10% level in OLS, 
+fxed efects, and AH, but insignifcant in GMM.
+
+Moreover, the level of economic development (advanced economy) variable is insignifcant in all estimated models except in column 6. Meanwhile, the interaction term 
+
+| Table 3 Main estimation results Dependent  variable:  real GDP  growth rate  per capita  (5-year  average) (1) (2)   | (3)                                   | (4)                                                                                                                             | (5)              | (6)            | (7)            | (8)                |                  |          |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------|----------------|----------------|--------------------|------------------|----------|
+| OLS                                                                                                                  | FE                                    | AH                                                                                                                              | GMM              | OLS            | FE             | AH                 | GMM              |          |
+| Real GDP  growth rate  per capita  (t − 1)                                                                           | 0.037                                 | 0.024                                                                                                                           | 0.063
+
+          | 0.034          | 0.025  (0.047) | − 0.069  (0.048)   | − 0.025  (0.027) | − 0.054  |
+| (0.037)                                                                                                              | (0.028)                               | (0.028)                                                                                                                         | (0.057)          | (0.061)        |                |                    |                  |          |
+| Log of real                                                                                                          | − 0.437
+
+  (0.202)                    | − 1.865
+
+  (0.455) − 1.672
+
+  (0.450) − 1.593
+
+  (0.570) − 0.414
+
+  (0.103) − 2.284
+
+  (0.422) − 2.042
+
+  (0.391) − 0.602 |                  |                |                |                    |                  |          |
+| GDP per                                                                                                              | (0.904)                               |                                                                                                                                 |                  |                |                |                    |                  |          |
+| capita ( t − 1) Log of AI  patents  per million  people                                                              | 0.178
+
+                              | 0.264
+
+                                                                                                                        | 0.246
+
+         | 0.275
+
+         | -              | -                  | -                | -        |
+| (0.067)                                                                                                              | (0.078)                               | (0.089)                                                                                                                         | (0.152)          |                |                |                    |                  |          |
+| Log of total  patents  per million  people                                                                           | -                                     | -                                                                                                                               | -                | -              | 0.172
+
+       | 0.131
+
+             | 0.124
+
+           | 0.197    |
+| (0.048)                                                                                                              | (0.071)                               | (0.069)                                                                                                                         | (0.177)          |                |                |                    |                  |          |
+| Population  growth rate                                                                                              | − 0.462
+
+  (0.154) − 0.371
+
+  (0.210) | − 0.391
+
+  0.085  (0.361)                                                                                                      | − 0.206
+
+         | 0.043          | 0.034  (0.115) | − 0.724            |                  |          |
+| (0.107)                                                                                                              | (0.120)                               | (0.232)                                                                                                                         | (0.532)          |                |                |                    |                  |          |
+| Gross capital  formation  growth rate  (per capita)                                                                  | 0.164
+
+                              | 0.162
+
+                                                                                                                        | 0.166
+
+         | 0.149
+
+       | 0.173
+
+       | 0.145
+
+           | 0.148
+
+         | 0.224
+
+ |
+| (0.043)                                                                                                              | (0.045)                               | (0.011)                                                                                                                         | (0.047)          | (0.023)        | (0.022)        | (0.012)            | (0.062)          |          |
+| Government  expenditure  growth rate  (per capita)                                                                   | 0.268
+
+                              | 0.262
+
+                                                                                                                        | 0.259
+
+         | 0.335
+
+        | 0.244
+
+       | 0.210
+
+           | 0.209
+
+         | 0.538
+
+ |
+| (0.048)                                                                                                              | (0.049)                               | (0.026)                                                                                                                         | (0.169)          | (0.041)        | (0.043)        | (0.021)            | (0.165)          |          |
+| Trade openness (5-year  average)                                                                                                                      | 0.004
+
+                               | 0.004
+
+                                                                                                                         | 0.004
+
+           | 0.009
+
+       | 0.004
+
+       | 0.006
+
+            | 0.005
+
+           | 0.006    |
+| (0.002)                                                                                                              | (0.002)                               | (0.002)                                                                                                                         | (0.003)          | (0.001)        | (0.003)        | (0.003)            | (0.009)          |          |
+| Human                                                                                                                | − 0.045                               | 0.005                                                                                                                           | 0.008  (0.162)   | − 0.028        | 0.028          | 0.004              | 0.000            | 0.992    |
+| capital index                                                                                                        | (0.150)                               | (0.146)                                                                                                                         | (0.269)          | (0.138)        | (0.138)        | (0.223)            | (0.674)          |          |
+| growth rate Infation                                                                                                 | − 0.001  (0.023)                      | − 0.007  (0.023)                                                                                                                | − 0.013  (0.019) | − 0.039        | 0.010          | 0.012              | 0.007            | 0.038    |
+| (5-year average)                                                                                                                      | (0.031)                               | (0.019)                                                                                                                         | (0.018)          | (0.020)        | (0.138)        |                    |                  |          |
+| Advanced                                                                                                             | − 0.196                               | 0.223                                                                                                                           | 0.125            | 0.505  (0.519) | − 0.457        | 1.421
+
+             | 1.177  (1.120)   | − 0.146  |
+| economy                                                                                                              | (0.334)                               | (0.326)                                                                                                                         | (0.461)          | (0.619)        | (0.771)        | (3.005)            |                  |          |
+| (dummy) Advanced  x Log of  AI patents  per million  people                                                          | − 0.032  (0.061)                      | − 0.096  (0.081)                                                                                                                | − 0.082  (0.094) | − 0.227
+
+       | -              | -                  | -                | -        |
+| (0.129)                                                                                                              |                                       |                                                                                                                                 |                  |                |                |                    |                  |          |
+| Advanced x  Log of total  patents  per million  people                                                               | -                                     | -                                                                                                                               | -                | -              | 0.026  (0.069) | − 0.196
+
+  (0.098) | − 0.170          | 0.020    |
+| (0.129)                                                                                                              | (0.358)                               |                                                                                                                                 |                  |                |                |                    |                  |          |
+| Constant                                                                                                             | 4.224
+
+                              | 17.210
+
+                                                                                                                       | -                | 14.172
+
+       | 3.238
+
+       | 19.710
+
+          | -                | 4.106    |
+| (1.636)                                                                                                              | (4.324)                               | (5.487)                                                                                                                         | (0.820)          | (3.786)        | (8.366)        |                    |                  |          |
+| Time dummies                                                                                                                      | Yes                                   | Yes                                                                                                                             | Yes              | Yes            | Yes            | Yes                | Yes              | Yes      |
+| Number of                                                                                                            | -                                     | -                                                                                                                               | -                | 65             | -              | -                  | -                | 32       |
+| instruments                                                                                                          |                                       |                                                                                                                                 |                  |                |                |                    |                  |          |
+
+| Table 3 (continued) Dependent  variable:  real GDP  growth rate  per capita  (5-year  average) (1)                     | (2)   | (3)   | (4)   | (5)   | (6)   | (7)   | (8)   |       |
+|------------------------------------------------------------------------------------------------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| OLS                                                                                                                    | FE    | AH    | GMM   | OLS   | FE    | AH    | GMM   |       |
+| SarganHansen test  (p-value)                                                                                                                        | -     | -     | -     | 0.426 | -     | -     | -     | 0.581 |
+| AR(1)                                                                                                                  | -     | -     | -     | 0.001 | -     | -     | -     | 0.000 |
+| (p-value) AR(2)                                                                                                        | -     | -     | -     | 0.661 | -     | -     | -     | 0.257 |
+| (p-value) N                                                                                                            | 616   | 616   | 616   | 616   | 1140  | 1140  | 1140  | 1140  |
+| n                                                                                                                      | 122   | 122   | 122   | 122   | 144   | 144   | 144   | 144   |
+| Robust (OLS, FE, GMM) and bootstrapped (AH) standard errors are enclosed in parentheses. AH estimation does not report |       |       |       |       |       |       |       |       |
+
+Robust (OLS, FE, GMM) and bootstrapped (AH) standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+*** Signifcant at 1% level
+*
+
+Signifcant at 5% level 
+
+Signifcant at 10% level between the level of economic status and patent creation is negative and signifcant in columns 4 and 6. Te negative sign implies that AI and overall innovation exhibit less impact on economic growth among advanced economies, which is similar to the convergence efect stated previously.
+
+Furthermore, the Sargan-Hansen test provides the test for overidentifying restrictions for the GMM model. Te p-values of the Sargan-Hansen statistic of the GMM models for AI and total patents are 0.426 and 0.581, respectively. Tus, the null hypothesis that the instruments are valid is not rejected.42 Also, the Arellano-Bond AR(1) and AR(2) 
+tests for GMM are presented for reference. Te p-values of the AR tests indicate the presence of serial correlation only at the frst diferences.43 Results indicate that AI-related innovation drives long-run economic growth. Te wide applicability of AI across industries can be one reason for its positive contribution. 
+
+AI systems can be implemented in manufacturing, ICT, transportation, fnance, and medical services among other industries (Mou 2019). Self-learning and monitoring beneft the manufacturing sector by increasing precision and efcient utilization of physical capital, reducing defects and delays (Rao and Verweij 2017). More recent and practical forms of AI such as voice-to-text applications and speech recognition allow businesses to reach and respond to customers in real time (Mou 2019), inducing an increase in the volume of consumer transactions. AI technologies can be implemented in fnancial systems to detect fraudulent activities, preventing theft and loss (Bose 2006; Akhilomen 2013). Furthermore, predictive modeling with AI can analyze and manage trafc fow 
+(Mou 2019; Yigitcanlar et al. 2020), which is notoriously known to cause negative externalities, more efectively.
+
+5.1 Robustness Checks
+
+For additional robustness checks, periodic estimations in the dataset are also performed. Te dataset is divided into two periods, 1970–1994 and 1995–2019, consisting of 25 years each. Due to limited AI and non-AI patent data, the 1970–1994 period has fewer observations. Additionally, most countries that published and applied for AIrelated patents within this period are advanced economies, as shown in the number of groups (n) and the lack of an estimated coefcient for the "advanced" dummy in columns 2 and 3 in Table 4.
+
+44 Terefore, a comparison of impacts on long-run growth brought by technological innovation, specifcally those on AI, between advanced and less advanced economies might not be intuitively useful for observations within this time frame.
+
+Table 4 displays the estimation results of the models for both AI and total patents for the 1970–1994 period, whereas Table 5 provides the results of estimations for the period 1995–2019. As indicated in Table 4, the efect of AI on growth is not statistically signifcant for the period 1970–1994, which can be due to (1) the limited number of observations, (2) the lesser number of AI patents, and (3) the relatively less technically advanced nature of AI innovation during this period. Interestingly, the efect of total patents is signifcant and positive during the same period, as shown in columns 5–8. Hence, the results suggest that other types of patents compared to early AI technologies might have had a more substantial efect on growth rates before 1995.
+
+On the other hand, the estimated fxed efects, AH, and GMM coefcients are signifcant for AI patents in the 1995–2019 period in columns 2–4 in Table 5. Te signifcance of the estimates provides evidence of AI being a driver of long-run economic growth for the latter half of the time frame in the dataset. More surprisingly, the value of the coeffcient of AI patents in the GMM model is relatively large compared to estimated parameters in other models. Meanwhile, the total patents variable is insignifcant for long-run growth rate in all models, except in OLS in column 5. In addition, the interaction terms between patent creation and economic status are mostly insignifcant in both periods. Hence, there is no clear distinction on the efect of patent creation between developed and less developed economies on long-run growth in both periods.45 An obvious implication of the above results is that the efect of AI has become increasingly evident toward the latter years of the dataset, while innovations from other disciplines have extended relatively less impact on growth.46 Notably, AI patent registration had started picking up by the mid-1990s, especially among advanced economies (see Fig. 2), which naturally contributed to a heightened impact of AI in the second half of the entire period. Arguably, the quality of AI technologies within this period has also improved compared to earlier forms of AI prior to the last two to three decades.
+
+Furthermore, separate estimations between advanced and less advanced economies were also done, both for AI and total patents. As defned in the previous section, advanced countries are those with more than USD 10,000 of the 5-year average real GDP per capita. Te results can be found in both Tables 6 and 7.
+
+Te efect of AI is strongly and positively signifcant among advanced economies in columns 1–4 in Table 6, but does not entail any implication on long-run growth among less advanced or emerging economies in Table 7.
+
+47 Tis suggests that viable infrastructures and institutions, which may only be available in developed countries, are necessary to leverage AI in the economy. Tis, in turn, translates into positive contributions to economic growth. 
+
+More importantly, this fnding resembles the theory proposed by Zeira (1998), which explains the diferences in the type and level of technologies available across countries.
+
+Meanwhile, total patents engender a quite similar efect on growth between advanced and less advanced economies. Coefcients of the patent variable are positive and signifcant in OLS, but negligible in fxed efects, AH, and GMM, which is true for both groups of countries. Tis indicates that total patents do not contribute to long-run economic growth regardless of a country's level of development. Tus, more specifc, technical, and practical innovations, such as those of AI or ICT in nature, are more important than other types of innovations in terms of their efect on economic growth.
+
+Finally, the possibility of an external instrument is not precluded and has been explored to further address endogeneity. As mentioned earlier, the estimated model is susceptible to bias, either due to omitted variables or bi-directional causality between patent creation and economic growth. Hence, aside from fxed efects and GMM, fxed efects estimation with instrumental variable (FE-IV) is also considered as a means of obtaining unbiased estimates.
+
+Te number of non-patent literature (NPL) cited by the patents is used as an instrument for both AI and total patents. NPL refers to the cited articles of a patent document that are not patents themselves (e.g., scientifc publications, books, online sources, conference proceedings, etc.) to "justify" an invention's "novelty." Furthermore, NPL citations help gauge "the impact of scientifc production cited in patents," or conversely, 
+"the technological impact of scientifc publications" (Velayos-Ortega and Lopez-Carreño 2021).
+
+Non-patent references contribute to patent creation by providing justifcation and a scientifc foundation for the technology being patented. Hence, a rich amount of nonpatent knowledge should positively contribute to patent creation. Scientifc knowledge 
+
+| Table 4 Period estimations results, 1970–1994 Dependent  Variable:  real GDP  growth rate  per capita  (5-year  average) (1) (2) (3) (4)   | (5)              | (6)              | (7)              | (8)              |                 |                   |                  |          |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|------------------|------------------|-----------------|-------------------|------------------|----------|
+| OLS                                                                                                                                        | FE               | AH               | GMM              | OLS              | FE              | AH                | GMM              |          |
+| Real GDP  growth rate  per capita  (t − 1)                                                                                                 | 0.159
+
+          | 0.122            | 0.223
+
+  (0.089) | − 0.156          | 0.055           | − 0.074
+
+  (0.042) | − 0.125          |          |
+| (0.061)                                                                                                                                    | − 0.189
+
+       |                  |                  |                  |                 |                   |                  |          |
+| (0.066)                                                                                                                                    | (0.077)          | (0.174)          | (0.118)          |                  |                 |                   |                  |          |
+| (0.067)                                                                                                                                    |                  |                  |                  |                  |                 |                   |                  |          |
+| Log of real                                                                                                                                | − 0.291  (0.206) | − 0.535  (0.855) | − 0.377  (1.145) | − 1.333  (1.240) | − 0.352
+
+       | − 4.141
+
+         |                  |          |
+| (0.162)                                                                                                                                    | − 4.796
+
+       | − 4.608
+
+       |                  |                  |                 |                   |                  |          |
+| GDP per                                                                                                                                    | (1.850)          |                  |                  |                  |                 |                   |                  |          |
+| capita (t − 1)                                                                                                                             | (1.096)          | (0.935)          |                  |                  |                 |                   |                  |          |
+| Log of AI  patents  per million  people                                                                                                    | 0.113            | 0.151            | 0.142  (0.156)   | − 0.186          | -               | -                 | -                | -        |
+| (0.118)                                                                                                                                    | (0.130)          | (0.252)          |                  |                  |                 |                   |                  |          |
+| Log of total  patents  per million  people                                                                                                 | -                | -                | -                | -                | 0.140
+
+         | 0.274
+
+            | 0.254
+
+          | 0.741
+
+ |
+| (0.066)                                                                                                                                    | (0.155)          | (0.129)          | (0.269)          |                  |                 |                   |                  |          |
+| Population                                                                                                                                 | 0.036            | 0.135            | 0.084            | 0.230  (0.991)   | − 0.194         | 0.565             | 0.494            | 0.713    |
+| growth rate                                                                                                                                | (0.190)          | (0.310)          | (0.283)          | (0.266)          | (0.504)         | (0.337)           | (0.762)          |          |
+| Gross capital  formation  growth rate  (per capita)                                                                                        | 0.228
+
+         | 0.223
+
+         | 0.237
+
+         | 0.155
+
+         | 0.185
+
+        | 0.113
+
+          | 0.120
+
+         | 0.074    |
+| (0.023)                                                                                                                                    | (0.025)          | (0.019)          | (0.042)          | (0.029)          | (0.028)         | (0.018)           | (0.104)          |          |
+| Government  expenditure  growth rate  (per capita)                                                                                         | 0.172
+
+         | 0.146
+
+          | 0.156
+
+         | 0.123            | 0.239
+
+        | 0.189
+
+          | 0.189
+
+         | 0.069    |
+| (0.054)                                                                                                                                    | (0.061)          | (0.055)          | (0.150)          | (0.060)          | (0.067)         | (0.031)           | (0.085)          |          |
+| Trade openness (5-year  average)                                                                                                                                            | 0.004  (0.004)   | − 0.002  (0.002) | − 0.002          | 0.002            | 0.005
+
+         | 0.005             | 0.005  (0.007)   | − 0.007  |
+| (0.004)                                                                                                                                    | (0.007)          | (0.002)          | (0.007)          | (0.011)          |                 |                   |                  |          |
+| Human  capital index  growth rate                                                                                                          | 0.301  (0.240)   | − 0.142  (0.222) | − 0.162          | 0.325            | 0.238  (0.216)  | − 0.152  (0.303)  | − 0.199  (0.293) | − 0.049  |
+| (0.371)                                                                                                                                    | (0.770)          | (0.679)          |                  |                  |                 |                   |                  |          |
+| Infation                                                                                                                                   | − 0.065
+
+       | − 0.057
+
+       | − 0.069
+
+       | − 0.036  (0.038) | − 0.005         | 0.023             | 0.017            | 0.075    |
+| (5-year average)                                                                                                                                            | (0.026)          | (0.029)          | (0.026)          | (0.084)          |                 |                   |                  |          |
+| (0.017)                                                                                                                                    | (0.019)          | (0.020)          |                  |                  |                 |                   |                  |          |
+| Advanced  economy  (dummy)                                                                                                                 | 0.318            | -                | -                | 7.091
+
+  (2.849) | − 1.14  (0.786) | − 1.157  (1.086)  | − 1.667  (1.594) | − 3.105  |
+| (0.530)                                                                                                                                    | (3.211)          |                  |                  |                  |                 |                   |                  |          |
+| Advanced  x Log of  AI patents  per million  people                                                                                        | − 0.007          | 0.059            | 0.037            | 0.392            | -               | -                 | -                | -        |
+| (0.122)                                                                                                                                    | (0.122)          | (0.146)          | (0.286)          |                  |                 |                   |                  |          |
+| Advanced x  Log of total  patents  per million  people                                                                                     | -                | -                | -                | -                | 0.151
+
+          | 0.223             | 0.278            | 0.353    |
+| (0.091)                                                                                                                                    | (0.187)          | (0.254)          | (0.466)          |                  |                 |                   |                  |          |
+| Constant                                                                                                                                   | 2.353            | 5.018            | -                | 7.991            | 1.900           | 37.680**
+
+         | -                | 30.000
+
+  |
+| (1.666)                                                                                                                                    | (8.030)          | (10.972)         | (1.428)          | (9.198)          | (15.420)        |                   |                  |          |
+| Time dummies                                                                                                                                            | Yes              | Yes              | Yes              | Yes              | Yes             | Yes               | Yes              | Yes      |
+| Number of                                                                                                                                  | -                | -                | -                | 31               | -               | -                 | -                | 33       |
+| instruments                                                                                                                                |                  |                  |                  |                  |                 |                   |                  |          |
+
+| Dependent  Variable:  real GDP  growth rate  per capita  (5-year  average)   | (1) OLS   |
+|------------------------------------------------------------------------------|-----------|
+| SarganHansen  overidentifcation test  (p-value) AR(1)  (p-value) AR(2)  (p-value)                                                                              |           |
+
+AR(1) 
+
+(p-value)
+
+– - 0.999 - – - 0.003
+
+AR(2) 
+
+(p-value)
+
+– - 0.178 - – - 0.326
+
+N 158 158 158 158 428 428 428 428 n 61 61 61 61 123 123 123 123
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+– - 0.542 - – - 0.155
+
+*** Signifcant at 1% level; ** signifcant at 5% level; *signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates itself is vast and varied; however, only the cited literature in the patents themselves is specifc and relevant to the inventions.
+
+As expected, the direct efect of scientifc publications, as a measure of scientifc knowledge, on economic growth has been well-studied in the literature (e.g., Kim and Lee 2015; Solarin and Yen 2016; Maradana et al. 2017; Pinto and Teixeira 2020). While the non-signifcance of academic research on economic growth has been found in some studies, general sentiment and results still regard academic publications as a direct and positive contributor to growth. Tis notion casts some doubt on whether scientifc literature can serve as a valid instrument for patent creation.
+
+Tis study, however, suggests that for research output to be translated into an object of economic value, it has to be transformed frst into an input (or intermediate good), to be used later in the production of other goods.48 Te knowledge contained in relevant and cited NPL, for example, is used by patent creators, or inventors, to create new products, services, modes of production, processes, frameworks, and/or other kinds of inventions used for enterprise building. Tus, the transformation of scientifc knowledge into intermediate, technology-based capital goods is embodied in the patents themselves. Finally, the high patent output indicates the availability of technology that helps in the production of fnal goods, which then ultimately leads to economic growth.49 Te results of the FE-IV regression are shown in Table  8, alongside the OLS, fxed efects, and GMM estimations. Due to the limited data on the instruments, the number of observations and groups in Table 8 is lower compared to the number of observations 
+
+| Table 5 Period estimations results, 1995–2019 Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average) (1) (2) (3) (4)   | (5)                | (6)                | (7)              | (8)              |                   |                  |                  |                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|------------------|------------------|-------------------|------------------|------------------|------------------|
+| OLS                                                                                                                                       | FE                 | AH                 | GMM              | OLS              | FE                | AH               | GMM              |                  |
+| Real GDP  growth rate  per capita  (t-1)                                                                                                  | − 0.015  (0.070)   | − 0.004            | 0.062            | 0.002            | 0.029  (0.088)    | − 0.187
+
+        | − 0.182
+
+        |                  |
+| (0.074)                                                                                                                                   | − 0.106
+
+         |                    |                  |                  |                   |                  |                  |                  |
+| (0.040)                                                                                                                                   | (0.039)            | (0.109)            | (0.092)          |                  |                   |                  |                  |                  |
+| (0.036)                                                                                                                                   |                    |                    |                  |                  |                   |                  |                  |                  |
+| Log of real                                                                                                                               | − 0.377            | − 3.048
+
+*          | − 1.489          |                  |                   |                  |                  |                  |
+| (0.264)                                                                                                                                   | − 1.790
+
+         | − 2.004
+
+         | (1.512)          | − 0.491
+
+       | − 3.412
+
+        | − 3.230
+
+       |                  |                  |
+| GDP per                                                                                                                                   | (1.794)            |                    |                  |                  |                   |                  |                  |                  |
+| capita (t-1)                                                                                                                              | (0.660)            | (0.545)            | (0.173)          | (0.934)          | (0.615)           |                  |                  |                  |
+| Log of AI  patents  per million  people                                                                                                   | 0.124              | 0.207
+
+            | 0.256
+
+          | 0.741
+
+          | -                 | -                | -                | -                |
+| (0.085)                                                                                                                                   | (0.098)            | (0.104)            | (0.371)          |                  |                   |                  |                  |                  |
+| Log of total  patents  per million  people                                                                                                | -                  | -                  | -                | -                | 0.219
+
+  (0.077) | − 0.102  (0.157) | − 0.109  (0.150) | − 0.352  (0.496) |
+| Population  growth rate                                                                                                                   | − 0.512
+
+         | − 0.436
+
+  (0.197) | − 0.451
+
+       | − 0.450  (0.298) | − 0.239           | 0.055            | 0.071  (0.133)   | − 0.613          |
+| (0.151)                                                                                                                                   | (0.296)            | (0.519)            |                  |                  |                   |                  |                  |                  |
+| (0.157)                                                                                                                                   | (0.112)            |                    |                  |                  |                   |                  |                  |                  |
+| Gross capital  formation  growth rate  (per capita)                                                                                       | 0.201
+
+           | 0.206
+
+           | 0.215
+
+         | 0.232
+
+         | 0.165
+
+          | 0.114
+
+         | 0.118
+
+         | 0.154            |
+| (0.029)                                                                                                                                   | (0.028)            | (0.014)            | (0.067)          | (0.033)          | (0.035)           | (0.013)          | (0.101)          |                  |
+| Government  expenditure  growth rate  (per capita)                                                                                        | 0.245
+
+           | 0.227
+
+           | 0.223
+
+         | 0.291            | 0.224
+
+          | 0.177
+
+         | 0.176
+
+         | 0.180
+
+           |
+| (0.046)                                                                                                                                   | (0.046)            | (0.043)            | (0.192)          | (0.045)          | (0.049)           | (0.021)          | (0.108)          |                  |
+| Trade openness (5-year  average)                                                                                                                                           | 0.004
+
+             | 0.004              | 0.004            | 0.018
+
+           | 0.004
+
+          | 0.017
+
+           | 0.015
+
+         | 0.001            |
+| (0.002)                                                                                                                                   | (0.005)            | (0.005)            | (0.010)          | (0.001)          | (0.009)           | (0.005)          | (0.017)          |                  |
+| Human                                                                                                                                     | − 0.193  (0.179)   | − 0.076  (0.144)   | − 0.064          | 0.375  (0.718)   | − 0.106  (0.217)  | − 0.028  (0.264) | − 0.027          | 0.115            |
+| capital index                                                                                                                             | (0.810)            |                    |                  |                  |                   |                  |                  |                  |
+| (0.150)                                                                                                                                   | (0.244)            |                    |                  |                  |                   |                  |                  |                  |
+| growth rate Infation                                                                                                                      | 0.009              | 0.005  (0.027)     | − 0.001  (0.022) | − 0.103
+
+         | 0.027             | 0.046
+
+           | 0.038            | 0.140            |
+| (5-year average)                                                                                                                                           | (0.024)            | (0.057)            | (0.025)          | (0.027)          | (0.026)           | (0.120)          |                  |                  |
+| Advanced                                                                                                                                  | − 1.147
+
+  (0.556) | − 1.226            | -                | 2.417  (1.745)   | − 0.041           | 1.463            | 1.196            | 12.930           |
+| economy                                                                                                                                   | (0.889)            | (0.970)            | (2.570)          | (2.465)          | (10.580)          |                  |                  |                  |
+| (dummy) Advanced  x Log of  AI patents  per million  people                                                                               | 0.183              | 0.305              | 0.082  (0.087)   | − 0.749          | -                 | -                | -                | -                |
+| (0.120)                                                                                                                                   | (0.218)            | (0.494)            |                  |                  |                   |                  |                  |                  |
+| Advanced x  Log of total  patents  per million  people                                                                                    | -                  | -                  | -                | -                | − 0.057  (0.099)  | − 0.187  (0.310) | − 0.152  (0.284) | − 1.504  (1.254) |
+| Constant                                                                                                                                  | 3.919
+
+             | 16.246
+
+          | -                | 25.426
+
+*         | 3.940
+
+          | 29.990
+
+**        | -                | 17.880           |
+| (2.003)                                                                                                                                   | (5.887)            | (12.761)           | (1.198)          | (8.082)          | (15.970)          |                  |                  |                  |
+| Time dummies                                                                                                                                           | Yes                | Yes                | Yes              | Yes              | Yes               | Yes              | Yes              | Yes              |
+| Number of                                                                                                                                 | -                  | -                  | -                | 33               | -                 | -                | -                | 33               |
+| instruments                                                                                                                               |                    |                    |                  |                  |                   |                  |                  |                  |
+
+AR(1) 
+
+(p-value)
+
+– - 0.005 - – - 0.004
+
+| Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average)   | (1) OLS   |
+|-----------------------------------------------------------------------------|-----------|
+| SarganHansen  overidentifcation test  (p-value) AR(1)  (p-value) AR(2)  (p-value)                                                                             |           |
+
+AR(2) 
+
+(p-value)
+
+– - 0.210 - – - 0.415
+
+N 388 388 388 388 570 570 570 570 n 120 120 120 120 144 144 144 144
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+– - 0.407 - – - 0.110
+
+*** Signifcant at 1% level; ** signifcant at 5% level; *signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates and groups in the main results (see Table 3).50 For convenience, the same panel groups used in the FE-IV regression are used in the OLS, fxed efects, and GMM estimations as well to allow comparison of the estimates.
+
+Te log number of AI patents per million people is signifcantly positive in all models (at the 10% level in GMM and FE-IV), and the magnitudes of the AI coefcients are relatively consistent among the fxed efects, GMM, and FE-IV estimations in columns 2, 3, and 4 in Table 8, respectively. Notably, the magnitudes of the coefcients are larger than the estimates in the main results in Table 3. On the other hand, total patents are only signifcant and positive in OLS and fxed efects in columns 5 and 6. In addition, the magnitude of the coefcient of total patents in the FE-IV regression (column 8) is inconsistent with the other estimations.
+
+Several tests were performed to check for the validity of the instruments in both the GMM 
+and FE-IV models. Te null hypothesis is not rejected for the Sargan-Hansen test for overidentifying restrictions in both the GMM and FE-IV estimations, suggesting no overidentifcation in the frst-stage regressions. Tis is true for both the AI and total patents models 
+(columns 3, 4, 7, and 8 in Table 8). Meanwhile, the null hypothesis of the Kleibergen-Paap test for weak instruments is rejected for the FE-IV estimates of both the AI and total patents models, implying the frst stage FE-IV regressions are not underidentifed. Hence, both tests seem to confrm the validity of the instruments used, especially for the FE-IV estimations.
+
+Te p-values of the endogeneity test, however, difer between the AI patents and total patents models in FE-IV (columns 4 and 8). Under the null hypothesis, the regressors, or the instruments, can be treated as exogenous. Rejection of the null hypothesis means the 
+
+| Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average)   | (1) OLS           |
+|-----------------------------------------------------------------------------|-------------------|
+| Real GDP  growth rate  per capita  (t − 1)                                  | 0.034             |
+| Log of real                                                                 | − 0.618
+
+         |
+| GDP per  capita (t − 1) Log of AI  patents  per million  people             | 0.223
+
+  (0.086) |
+| Log of total  patents  per million  people Population  growth rate          | − 0.295
+
+         |
+| Gross capital  formation  growth rate  (per capita)                         | 0.218
+
+  (0.031) |
+| Government  expenditure  growth rate  (per capita)                          | 0.359
+
+  (0.062) |
+| Trade openness (5-year  average)                                                                             | 0.004
+
+           |
+| Human  capital index  growth rate                                           | 0.091             |
+| Infation                                                                    | − 0.066
+
+**        |
+| (5-year average) Number of  instruments SarganHansen overidentifcation  test (p-value) AR(1)  (p-value) AR(2)  (p-value)                                                                             |                   |
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+0.034 
+
+(0.054)− 0.065 
+
+(0.054)− 0.023 
+
+(0.045)− 0.040 
+
+(0.056)
+
+0.064 
+
+(0.065)− 0.059 
+
+(0.042)− 0.007 
+
+(0.059)− 0.070 
+
+(0.110)
+
+Log of real GDP per 
+
+capita (t − 1)
+
+− 0.618** 
+
+(0.298)− 2.159** 
+
+(0.880)− 1.999*** 
+
+(0.587)− 2.855* 
+
+(1.611)− 0.857** 
+
+(0.360)− 3.376*** 
+
+(0.996)− 3.121*** 
+
+(0.609)− 4.001 
+
+(3.422)
+
+0.223*** 
+
+(0.086)
+
+0.367*** 
+
+(0.116)
+
+0.354*** 
+
+(0.096)
+
+0.299** 
+
+(0.121)
+
+– - –
+
+– - – 0.250** 
+
+(0.105)
+
+0.151 (0.146)
+
+0.143 (0.149)
+
+0.010 (0.432)
+
+Population 
+
+growth rate− 0.295** 
+
+(0.151)− 0.317 
+
+(0.234)− 0.319*** 
+
+(0.107)− 0.025 
+
+(0.249)− 0.212 
+
+(0.148)− 0.347** 
+
+(0.165)− 0.358** 
+
+(0.174)
+
+0.19 (0.790)
+
+0.218*** (0.031)
+
+0.205*** (0.032)
+
+0.211*** (0.017)
+
+0.248*** (0.040)
+
+0.226*** (0.036)
+
+0.205*** (0.040)
+
+0.209*** (0.019)
+
+0.167** (0.079)
+
+0.359*** (0.062)
+
+0.343*** (0.059)
+
+0.337*** (0.039)
+
+0.265** (0.120)
+
+0.203*** (0.074)
+
+0.206*** (0.068)
+
+0.200*** 
+
+(0.055)− 0.0391 
+
+(0.189)
+
+0.004** 
+
+(0.001)− 0.002 
+
+(0.004)− 0.002 
+
+(0.004)
+
+0.002 (0.006)
+
+0.004*** (0.002)
+
+0.005 (0.005)
+
+0.005 (0.004)
+
+0.001 (0.012)
+
+0.091 
+
+(0.260)− 0.073 
+
+(0.219)− 0.071 
+
+(0.209)− 0.547 
+
+(0.477)− 0.002 
+
+(0.188)− 0.029 
+
+(0.276)− 0.039 
+
+(0.289)
+
+1.026 (1.840)
+
+Infation 
+
+(5-year average)
+
+− 0.066*** 
+
+(0.024)− 0.063*** 
+
+(0.023)− 0.070*** 
+
+(0.020)− 0.099 
+
+(0.063)− 0.086** 
+
+(0.044)− 0.078* 
+
+(0.044)− 0.087*** 
+
+(0.031)− 0.009 
+
+(0.207)
+
+Constant 5.423
+
+ 21.465
+
+ - 28.858
+
+ 6.829
+
+ 34.180
+
+** - 42.350
+
+(2.706) (9.233) - (16.954) (2.799) (11.080) - (34.470)
+
+Time dummiesYes Yes Yes Yes Yes Yes Yes Yes
+
+Number of instruments
+
+– - 42 - – - 28 - – - 0.750 - – - 0.683
+
+AR(1) 
+
+(p-value)
+
+– - 0.005 - – - 0.077
+
+AR(2) (p-value)
+
+– - 0.766 - – - 0.967
+
+N 299 299 299 299 352 352 352 352 n 53 53 53 53 53 53 53 53
+
+*** Signifcant at 1% level; *
+
+signifcant at 5% level; 
+
+signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. Anderson-Hsiao estimation does not report constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+
+| Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average)   | (1) OLS           |
+|-----------------------------------------------------------------------------|-------------------|
+| Real GDP  growth rate  per capita  (t − 1)                                  | 0.043  (0.048)    |
+| Log of real                                                                 | − 0.256           |
+| GDP per  capita (t − 1) Log of AI  patents per  million people              | 0.031  (0.073)    |
+| Log of total  patents per  million people Population  growth rate           | − 0.741
+
+        |
+| Gross capital  formation  growth rate  (per capita)                         | 0.113
+
+*  (0.051)  |
+| Government  expenditure  growth rate  (per capita)                          | 0.198
+
+  (0.037) |
+| Trade openness (5-year  average)                                                                             | 0.007
+
+**  (0.002) |
+| Human capital  − 0.066  index growth  rate Infation  0.032  (5-year average) (0.029) Constant 3.220  (2.727) Number of  instruments SarganHansen overidentifcation  test (p-value)                                                                             |                   |
+
+Log of real GDP per 
+
+capita (t − 1)
+
+− 0.256 
+
+(0.328)− 1.606*** 
+
+(0.480)− 1.351* 
+
+(0.718)− 1.237 
+
+(0.745)− 0.282** 
+
+(0.132)− 1.659*** 
+
+(0.475)− 1.408*** 
+
+(0.454)− 0.113 
+
+(0.934)
+
+Population 
+
+growth rate− 0.741*** 
+
+(0.172)− 0.559** 
+
+(0.241)− 0.680* 
+
+(0.354)− 0.228 
+
+(0.456)− 0.073 
+
+(0.191)
+
+0.857*** (0.271)
+
+0.833*** (0.217)
+
+0.271 (0.816)
+
+Gross capital formation growth rate (per capita) Human capital index growth rate
+
+− 0.066 
+
+(0.183)− 0.004 
+
+(0.142)− 0.017 
+
+(0.262)
+
+0.227 (0.466)
+
+0.029 (0.176)
+
+0.052 (0.159)
+
+0.057 (0.217)
+
+0.767 (0.673)
+
+Infation 
+
+(5-year average)
+
+0.032 (0.029)
+
+0.031 (0.029)
+
+0.026 
+
+(0.029)− 0.006 
+
+(0.058)
+
+0.018 (0.022)
+
+0.019 (0.021)
+
+0.014 
+
+(0.023)− 0.022 
+
+(0.206)
+
+Constant 3.220 
+
+(2.727)
+
+14.108*** (4.136)
+
+10.358* 
+
+(6.138)
+
+2.139* (1.131)
+
+12.400*** (3.848)
+
+− 0.236 
+
+(7.238)
+
+Time dummiesYes Yes Yes Yes Yes Yes Yes Yes
+
+Number of instruments
+
+– - 55 - – - 28
+
+AR(1) (p-value) - – - 0.005 - – - 0.000
+
+AR(2) (p-value) - – - 0.281 - – - 0.131
+
+N 301 301 301 301 763 763 763 763
+
+n 83 83 83 83 110 110 110 110
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+0.043 (0.048)
+
+0.030 (0.030)
+
+0.078* (0.045)
+
+0.015 (0.051)
+
+0.006 
+
+(0.057)− 0.100* 
+
+(0.053)− 0.054 
+
+(0.037)− 0.024 
+
+(0.100
+
+0.031 
+
+(0.073)
+
+0.087 
+
+(0.080)
+
+0.076 
+
+(0.122)
+
+0.265 
+
+(0.208)
+
+– - –
+
+– - – 0.159*** 
+
+(0.056)
+
+0.030 (0.081)
+
+0.027 (0.118)
+
+0.062 (0.204)
+
+0.113** (0.051)
+
+0.111** (0.054)
+
+0.114*** (0.016)
+
+0.086 (0.068)
+
+0.164*** (0.025)
+
+0.125*** (0.023)
+
+0.129*** (0.012)
+
+0.153 (0.097)
+
+0.198*** (0.037)
+
+0.177*** (0.033)
+
+0.176*** (0.045)
+
+0.255* (0.135)
+
+0.246*** (0.043)
+
+0.194*** (0.040)
+
+0.194*** (0.021)
+
+0.454** (0.186)
+
+0.007*** (0.002)
+
+0.009*** (0.003)
+
+0.009*** (0.003)
+
+0.004 (0.004)
+
+0.004** (0.002)
+
+0.0110*** (0.004)
+
+0.011** (0.004)
+
+0.001 (0.009)
+
+– - 0.342 - – - 0.571
+
+*** Signifcant at 1% level; ** signifcant at 5% level; *signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+
+| Table 8 Estimation results with fxed efects-IV regression Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average) (1) (2) (3) (4) (5)   | (6)        | (7)        | (8)        |            |            |            |         |            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------------|------------|------------|------------|---------|------------|
+| OLS                                                                                                                                                       | FE         | GMM        | FE-IV      | OLS        | FE         | GMM        | FE-IV   |            |
+| Real GDP  growth rate  per capita  (t − 1)                                                                                                                | 0.087
+
+     | − 0.081
+
+   | − 0.029    | − 0.018    | 0.003      | − 0.135
+
+   | − 0.160 | − 0.100
+
+  |
+| (0.045)                                                                                                                                                   | (0.044)    | (0.052)    | (0.038)    | (0.078)    | (0.069)    | (0.107)    | (0.046) |            |
+| Log of real                                                                                                                                               | − 0.586
+
+ | − 4.223
+
+ | − 2.721
+
+ | − 2.964
+
+ | − 0.692
+
+ | − 2.703
+
+ | − 1.474 | − 3.505
+
+ |
+| GDP per  capita (t − 1)                                                                                                                                   | (0.116)    | (0.665)    | (0.848)    | (0.795)    | (0.160)    | (0.661)    | (1.232) | (0.863)    |
+| Log of AI  patents  per million  people                                                                                                                   | 0.222
+
+   | 0.668
+
+   | 0.535
+
+     | 0.499*     | -          | -          | -       | -          |
+| (0.077)                                                                                                                                                   | (0.172)    | (0.269)    | (0.256)    | -          | -          | -          | -       |            |
+| Log of total  patents  per million  people                                                                                                                | -          | -          | -          | -          | 0.217
+
+   | 0.207
+
+    | 0.177   | 0.536      |
+| -                                                                                                                                                         | -          | -          | -          | (0.080)    | (0.101)    | (0.221)    | (0.329) |            |
+| Population  growth rate                                                                                                                                   | − 0.516
+
+ | − 0.614
+
+ | − 0.819
+
+ | − 0.563
+
+ | − 0.180    | 0.045      | − 0.388 | 0.065      |
+| (0.131)                                                                                                                                                   | (0.076)    | (0.218)    | (0.194)    | (0.162)    | (0.305)    | (0.350)    | (0.269) |            |
+| Gross capital  formation  growth rate  (per capita)                                                                                                       | 0.220
+
+   | 0.173
+
+   | 0.196
+
+   | 0.188
+
+   | 0.155
+
+   | 0.142
+
+   | 0.132
+
+ | 0.141
+
+   |
+| (0.023)                                                                                                                                                   | (0.025)    | (0.032)    | (0.018)    | (0.040)    | (0.042)    | (0.063)    | (0.027) |            |
+| Government  expenditure  growth rate  (per capita)                                                                                                        | 0.291
+
+   | 0.258
+
+   | 0.309
+
+   | 0.211
+
+   | 0.262
+
+   | 0.233
+
+   | 0.347
+
+* | 0.216
+
+   |
+| (0.052)                                                                                                                                                   | (0.043)    | (0.058)    | (0.037)    | (0.048)    | (0.052)    | (0.145)    | (0.040) |            |
+| Trade openness (5-year  average)                                                                                                                                                           | 0.003
+
+   | 0.003      | − 0.001    | 0.001      | 0.003
+
+    | 0.004      | − 0.002 | 0.011
+
+   |
+| (0.001)                                                                                                                                                   | (0.003)    | (0.008)    | (0.003)    | (0.001)    | (0.003)    | (0.011)    | (0.004) |            |
+| Human                                                                                                                                                     | − 0.197    | − 0.035    | − 0.606    | 0.047      | − 0.198    | − 0.152    | 0.353   | − 0.187    |
+| capital index  growth rate                                                                                                                                | (0.121)    | (0.129)    | (0.428)    | (0.180)    | (0.215)    | (0.236)    | (0.743) | (0.193)    |
+| Infation                                                                                                                                                  | − 0.038
+
+   | − 0.001    | − 0.012    | − 0.025    | 0.042      | 0.047      | 0.073   | 0.019      |
+| (5-year average)                                                                                                                                                           | (0.020)    | (0.021)    | (0.051)    | (0.020)    | (0.031)    | (0.031)    | (0.080) | (0.025)    |
+| Advanced  economy  (dummy)                                                                                                                                | 0.521      | 3.797
+
+   | 2.134      | 1.945
+
+   | 0.106      | 1.801      | 6.973   | 7.114
+
+   |
+| (0.412)                                                                                                                                                   | (0.808)    | (1.815)    | (0.663)    | (0.733)    | (1.404)    | (4.611)    | (2.036) |            |
+| Advanced  x Log of  AI patents  per million  people                                                                                                       | − 0.120    | − 0.743
+
+ | − 0.398    | − 0.375
+
+* | -          | -          | -       | -          |
+
+| Table 8 (continued) Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average) (1)   | (2)   | (3)   | (4)   |
+|-----------------------------------------------------------------------------------------------------|-------|-------|-------|
+| OLS                                                                                                 | FE    | GMM   | FE-IV |
+| Advanced x  Log of total  patents  per million  people Number of  instruments SarganHansen overidentifcation  test (p-value) KleibergenPaap underidentifcation  test (p-value) Endogeneity  test (for IV  estimation,  p-value)                                                                                                     |       |       |       |
+
+(1) OLS
+
+(2) FE
+
+(3) GMM
+
+(4) FE-IV
+
+(5) OLS
+
+(6) FE
+
+(7) GMM
+
+(8) FE-IV
+
+(0.083) (0.189) (0.395) (0.136) - – - –
+
+Advanced x Log of total patents per million people
+
+– - – − 0.005 − 0.217 − 0.867 − 0.857***
+
+– - – (0.082) (0.166) (0.573) (0.252)
+
+Constant 5.592
+
+ 39.950
+
+ 26.250
+
+ - 5.465
+
+ 24.110*** 14.180 –
+
+(0.892) (6.257) (7.434) - (1.106) (6.117) (10.780) –
+
+Time dummiesYes Yes Yes Yes Yes Yes Yes Yes
+
+Number of instruments
+
+– 46 21 - – 46 21
+
+– 0.983 0.138 - – 0.149 0.414 - – - 0.000 - – - 0.000 - – - 0.605 - – - 0.000
+
+N 258 258 258 326 692 692 692 836
+
+n 65 65 65 65 135 135 135 135
+
+*** Signifcant at 1% level; ** signifcant at 5% level; *signifcant at 10% level. Robust standard errors are enclosed in parentheses. FE-IV estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates regressors are not exogenous and thus may not be considered acceptable instruments. According to the test, the null hypothesis is not rejected for AI patents but is rejected for the total patents model at standard signifcance levels. Te result indicates that the validity of instruments and parameter estimates is only applicable to the former, whereas estimates for the latter model are likely inconsistent and biased.
+
+Overall, the results of the main estimations and robustness checks reveal a strong positive relationship between AI innovation and long-run economic growth. Tis is consistent with the endogenous growth theories and with the fndings of existing literature such as Kim and Lee (2015), He (2019), and Nguyen and Doytch (2022). On the other hand, total patents still contribute to long-run economic growth, albeit to a lesser extent compared to more technical innovations such as those developed in ICT. Tis is particularly true to more recent observations in the dataset. Moreover, AI has had a more robust and signifcant efect on the long-run growth among advanced economies, while total innovation exhibits almost no impact on growth for both advanced and emerging countries.
+
+In addition, an IV estimation with fxed efects using cited NPL has been employed to further minimize the endogeneity issue. Te FE-IV estimates are valid for the AI patents model, but not for the total patents model. Te FE-IV estimates are also comparable with the results of other estimation techniques such as fxed efects and GMM, suggesting that cited non-patent references may serve as an instrument for specifc types of patents such as those related to AI.
+
+6 Conclusion
+
+Innovations in AI have been around as early as the 1970s, but their application and impact have only been more apparent and pervasive in the last ten to twenty years. Te huge surge in AI and total patent registrations by the turn of the century, alongside the obvious physical and non-physical embodiments of innovative technologies consumed daily, is evidence of how AI and related technologies have changed the economic landscape. Several companies, especially those in e-commerce, have been leveraging natural language processing to predict customer behavior to increase sales. Meanwhile, multinational companies rely on AI and machine learning to optimize their supply chains through predictive scheduling, demand forecasting, inventory and risk management, and predictive maintenance among many other purposes (Rao and Verweij 2017; Ashcroft 2023). In general, advancements in AI and related ICT technologies have ultimately helped in modernizing production processes, minimizing manual inefciency, and enhancing overall customer experience across frms and industries.
+
+Tis study sets out to determine the relationship between the level of AI innovation and long-run economic growth, using a panel dataset across countries between 1970 and 2019. Te main fnding demonstrates that there exists a positive and signifcant impact of AI patenting on average long-run economic growth. Additionally, the efect of AI is more apparent in the latter period, because of the increasing quantity and quality of AI innovation generated over time. 
+
+Overall, the positive impact of AI found in this study is consistent with the results of other studies focusing on AI and growth such as those by He (2019), Fan and Liu (2021), and Yang (2022). Meanwhile, there is also some evidence of the positive contribution of total patent creation on economic growth. Tis positive efect of patenting is consistent with the fndings of Wong et al. (2005), Kim and Lee (2015), and Nguyen and Doytch (2022). Te efect, however, is notably smaller and weaker compared to the efect of AI patents on growth. Total patents, however, have exhibited signifcantly positive efects in the earlier periods of the dataset. Te muted efect of patent publication on long-run economic growth is similar to the results found by Chu et al. (2016), Blind et al. (2022), and Nguyen and Doytch (2022) in their studies.
+
+Furthermore, the efect of AI on growth is more robust among advanced economies, which is in line with the theory of machine automation proposed by Zeira (1998). 
+
+Because of diferences in capital endowments, not all countries can keep up with the pace of a constantly shifting technological frontier. As AI requires physical, and oftentimes ICT-related capital and technical know–how, not all countries can implement and use AI technologies efectively. In the meantime, more developed economies can leverage AI in production and business operations because of the availability of knowledge and infrastructure that complement AI, which engenders a strong positive contribution of AI 
+to economic growth.
+
+Finally, cited non-patent references in AI patents may serve as a valid instrument for AI patent creation. Te estimates obtained from the FE-IV regression are consistent with the fxed efects estimation and GMM, and are also supported by various tests on instrument validity. Further work on this topic is recommended to future researchers, either by discovering other possible instruments or expanding the use of the instrument to other types of patents and/or measures of innovation.
+
+Appendix
+
+See Tables 9, 10, 11, 12.
+
+Table 9 Estimation results between patents and short-run economic growth
+
+| Dependent  variable:  real GDP  growth rate  per capita  (annual)   | (1) OLS           |
+|---------------------------------------------------------------------|-------------------|
+| Real GDP  growth rate  per capita  (t − 1)                          | 0.307
+
+  (0.035) |
+| Log of real                                                         | − 0.830
+
+        |
+| GDP per  capita (t − 1) Log of AI  patents  per million  people     | 0.181
+
+  (0.069) |
+| Log of total  patents  per million  people Population  growth rate  | − 0.440
+
+        |
+| Gross capital  formation  growth rate  (per capita)                 | 0.117
+
+  (0.030) |
+| Government  expenditure  growth rate  (per capita)                  | 0.081
+
+  (0.030) |
+| Trade openness                                                                     | 0.007***  (0.002) |
+
+Log of real GDP per 
+
+capita (t − 1)
+
+− 0.830*** 
+
+(0.185)− 3.442*** 
+
+(0.842)− 2.909 
+
+(2.022)− 3.954*** 
+
+(1.235)− 0.498*** 
+
+(0.125)− 3.762*** 
+
+(0.794)− 2.991** 
+
+(1.376)
+
+0.460 (0.805)
+
+Population 
+
+growth rate− 0.440*** 
+
+(0.078)− 0.386*** 
+
+(0.114)− 0.384* 
+
+(0.227)− 0.338 
+
+(0.216)− 0.310*** 
+
+(0.084)
+
+0.000 
+
+(0.166)− 0.003 
+
+(0.403)− 0.27 
+
+(0.293)
+
+Gross capital formation growth rate (per capita)
+
+Trade openness0.007*** 
+
+(0.002)
+
+0.010** (0.004)
+
+0.010 (0.019)
+
+0.020 (0.015)
+
+0.006*** (0.001)
+
+0.009** (0.004)
+
+0.009 
+
+(0.012)− 0.014 
+
+(0.009)
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+0.307*** (0.035)
+
+0.288*** (0.034)
+
+0.312*** (0.032)
+
+0.260*** (0.047)
+
+0.259*** (0.061)
+
+0.207*** (0.057)
+
+0.228*** (0.017)
+
+0.232*** (0.055)
+
+0.181*** (0.069)
+
+0.360*** (0.113)
+
+0.359 (0.490)
+
+0.426* (0.253)
+
+– - –
+
+– - – 0.076 
+
+(0.057)
+
+0.195* (0.106)
+
+0.194 (0.267)
+
+0.123 (0.132)
+
+0.117*** (0.030)
+
+0.107*** (0.033)
+
+0.106*** (0.024)
+
+0.061 (0.062)
+
+0.095*** (0.009)
+
+0.090*** (0.009)
+
+0.089*** (0.014)
+
+0.082*** (0.027)
+
+0.081*** (0.030)
+
+0.083** (0.032)
+
+0.082 (0.053)
+
+0.125* (0.071)
+
+0.097*** (0.024)
+
+0.091*** (0.023)
+
+0.090*** (0.034)
+
+0.094 (0.057)
+
+Table 9 (continued)
+
+Human capital index growth rate
+
+− 0.143 
+
+(0.107)− 0.196 
+
+(0.136)− 0.198 
+
+(0.555)− 0.416 
+
+(0.371)
+
+0.128 
+
+(0.127)− 0.004 
+
+(0.135)− 0.014 
+
+(0.580)
+
+0.215 (0.268)
+
+Infation 0.002 
+
+(0.010)
+
+0.013 (0.010)
+
+0.013 (0.023)
+
+0.092 
+
+(0.070)− 0.001 
+
+(0.012)
+
+0.004 (0.011)
+
+0.004 (0.024)
+
+0.043 (0.047)
+
+Advanced economy (dummy) Constant 7.706*** 
+
+(1.560)
+
+32.653*** (7.960)
+
+37.607*** 
+
+(11.363)
+
+4.314*** (0.956)
+
+32.655*** (7.035)
+
+− 2.888 
+
+(6.704)
+
+Time dummiesYes Yes Yes Yes Yes Yes Yes Yes
+
+Number of instruments
+
+– - 121 - – - 110
+
+AR(1) (p-value)
+
+– - 0.001 - – - 0.000
+
+| Dependent  variable:  real GDP  growth rate  per capita  (annual)   | (1) OLS           |
+|---------------------------------------------------------------------|-------------------|
+| Human                                                               | − 0.143           |
+| capital index  growth rate Infation                                 | 0.002  (0.010)    |
+| Advanced  economy  (dummy)                                          | 0.931
+
+  (0.374)  |
+| Advanced  x Log of  AI patents  per million  people                 | − 0.165
+
+          |
+| Advanced  × Log of  total patents  per million  people Constant     | 7.706
+
+  (1.560) |
+| Number of  instruments SarganHansen test  (p-value) AR(1)  (p-value) AR(2)  (p-value)                                                                     |                   |
+
+AR(2) (p-value)
+
+– - 0.236 - – - 0.727
+
+N 2261 2261 2261 2261 4905 4905 4905 4905
+
+n 120 120 120 120 141 141 141 141
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+0.931** (0.374)
+
+1.596*** (0.477)
+
+1.537 (2.178)
+
+2.197*** (0.762)
+
+0.107 (0.543)
+
+2.486** (0.963)
+
+2.375 (2.499)
+
+0.615 (0.997)
+
+− 0.165* 
+
+(0.091)− 0.370** 
+
+(0.149)− 0.368 
+
+(0.558)− 0.681** 
+
+(0.275)
+
+– - –
+
+– - – 0.029 
+
+(0.078)− 0.227 
+
+(0.151)− 0.212 
+
+(0.390)− 0.114 
+
+(0.162)
+
+– - 0.143 - – - 0.375
+
+*** Signifcant at 1% level; ** signifcant at 5% level; *signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+
+| Table 10 Estimation results with the growth of Internet users Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average) (1) (2) (3) (4) (5)   | (6)                 | (7)                 | (8)                 |                  |                    |                     |                     |                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|---------------------|------------------|--------------------|---------------------|---------------------|------------------|
+| OLS                                                                                                                                                           | FE                  | AH                  | GMM                 | OLS              | FE                 | AH                  | GMM                 |                  |
+| Real GDP  growth rate  per capita  (t − 1)                                                                                                                    | − 0.003  (0.052)    | − 0.002             | 0.048
+
+  (0.029)     | − 0.104          | 0.030  (0.051)     | − 0.072  (0.045)    | − 0.011             | 0.089            |
+| (0.030)                                                                                                                                                       | (0.084)             | (0.029)             | (0.060)             |                  |                    |                     |                     |                  |
+| Log of real                                                                                                                                                   | − 0.227  (0.233)    | − 2.208
+
+  (0.660) | − 2.002
+
+  (0.574) | − 2.395
+
+        | 0.173
+
+            | 0.182               | 0.172               | 0.168            |
+| GDP per                                                                                                                                                       | (1.068)             | (0.070)             | (0.114)             | (0.120)          | (0.573)            |                     |                     |                  |
+| capita (t − 1) Log of AI                                                                                                                                      | 0.102               | 0.277
+
+            | 0.252
+
+             | 0.769
+
+          | -                  | -                   | -                   | -                |
+| patents per                                                                                                                                                   | (0.065)             | (0.083)             | (0.104)             | (0.346)          |                    |                     |                     |                  |
+| million people Log of total                                                                                                                                   | -                   | -                   | -                   | -                | − 0.408
+
+  (0.163) | − 3.309
+
+  (0.747) | − 2.996
+
+  (0.536) | − 1.395          |
+| patents per                                                                                                                                                   | (1.669)             |                     |                     |                  |                    |                     |                     |                  |
+| million people Population  growth rate                                                                                                                        | − 0.589
+
+  (0.104) | − 0.599
+
+  (0.126) | − 0.619
+
+  (0.104) | − 0.468  (0.355) | − 0.303
+
+*  (0.142) | − 0.241  (0.225)    | − 0.256
+
+  (0.116)  | − 0.233  (0.945) |
+| Gross capital  formation  growth rate  (per capita)                                                                                                           | 0.134
+
+            | 0.124
+
+*             | 0.128
+
+            | 0.056            | 0.121
+
+           | 0.096
+
+            | 0.099
+
+            | 0.237
+
+          |
+| (0.046)                                                                                                                                                       | (0.048)             | (0.013)             | (0.059)             | (0.032)          | (0.031)            | (0.013)             | (0.114)             |                  |
+| Government  expenditure  growth rate  (per capita)                                                                                                            | 0.250
+
+            | 0.229
+
+            | 0.224
+
+            | 0.455
+
+*          | 0.190
+
+           | 0.138
+
+            | 0.138
+
+            | 0.062            |
+| (0.050)                                                                                                                                                       | (0.047)             | (0.031)             | (0.203)             | (0.035)          | (0.034)            | (0.022)             | (0.158)             |                  |
+| Trade openness (5-year  average)                                                                                                                                                               | 0.003
+
+             | 0.009
+
+              | 0.009
+
+              | 0.022
+
+          | 0.003
+
+           | 0.012
+
+             | 0.012
+
+            | 0.017            |
+| (0.002)                                                                                                                                                       | (0.005)             | (0.005)             | (0.009)             | (0.001)          | (0.006)            | (0.004)             | (0.012)             |                  |
+| Human capital  − 0.040  (0.122)                                                                                                                               | − 0.073  (0.152)    | − 0.061  (0.147)    | − 0.173             | 0.055  (0.139)   | − 0.059  (0.210)   | − 0.043             | 0.208               |                  |
+| index growth                                                                                                                                                  | (0.707)             | (0.194)             | (0.624)             |                  |                    |                     |                     |                  |
+| rate Infation                                                                                                                                                 | 0.055               | 0.048               | 0.042
+
+              | 0.025            | 0.061
+
+            | 0.066
+
+             | 0.059
+
+  (0.024)    | − 0.062          |
+| (5-year average)                                                                                                                                                               | (0.035)             | (0.034)             | (0.022)             | (0.054)          | (0.027)            | (0.028)             | (0.195)             |                  |
+| Internet users  growth rate  (5-year average)                                                                                                                                                               | 0.006               | 0.001               | 0.000               | 0.016            | 0.008              | 0.008               | 0.007  (0.005)      | − 0.014          |
+| (0.006)                                                                                                                                                       | (0.005)             | (0.007)             | (0.027)             | (0.006)          | (0.006)            | (0.035)             |                     |                  |
+| Advanced                                                                                                                                                      | − 0.287             | 0.690               | 0.541               | 2.825
+
+          | 0.379              | 3.995               | 3.555
+
+              | 4.247            |
+| economy                                                                                                                                                       | (0.327)             | (0.570)             | (0.646)             | (1.113)          | (0.713)            | (2.517)             | (2.054)             | (7.260)          |
+| (dummy) Advanced                                                                                                                                              | − 0.054  (0.073)    | − 0.270
+
+  (0.156)   | − 0.233
+
+  (0.127)   | − 1.043
+
+       | -                  | -                   | -                   | -                |
+| × Log of AI                                                                                                                                                   | (0.345)             |                     |                     |                  |                    |                     |                     |                  |
+| patents per  million people Advanced ×                                                                                                                        | -                   | -                   | -                   | -                | − 0.084  (0.079)   | − 0.516
+
+  (0.294)   | − 0.468
+
+  (0.238)  | − 0.566          |
+| Log of total                                                                                                                                                  | (0.908)             |                     |                     |                  |                    |                     |                     |                  |
+| patents per  million people Constant                                                                                                                          | 3.095
+
+              | 20.597
+
+           | -                   | 20.330
+
+*         | 3.570
+
+           | 28.720
+
+**           | -                   | 11.410           |
+| (1.806)                                                                                                                                                       | (5.951)             | (9.692)             | (1.136)             | (6.496)          | (14.600)           |                     |                     |                  |
+| Time dummies                                                                                                                                                               | Yes                 | Yes                 | Yes                 | Yes              | Yes                | Yes                 | Yes                 | Yes              |
+| Number of                                                                                                                                                     | -                   | -                   | -                   | 55               | -                  | -                   | -                   | 27               |
+| instruments SarganHansen test  (p-value)                                                                                                                                                               | -                   | -                   | -                   | 0.405            | -                  | -                   | -                   | 0.149            |
+| AR(1) (p-value)                                                                                                                                               | -                   | -                   | -                   | 0.003            | -                  | -                   | -                   | 0.002            |
+
+| Table 10 (continued) Dependent  Variable: Real GDP  growth rate  per capita  (5-year  average) (1) OLS   |
+|----------------------------------------------------------------------------------------------------------|
+
+AR(2) (p-value) - – - 0.741 - – - 0.659
+
+N 463 463 463 463 676 676 676 676
+
+n 119 119 119 119 143 143 143 143
+
+(1) OLS
+
+(2) FE
+
+(3) AH
+
+(4) GMM
+
+(5) OLS
+
+(6) FE
+
+(7) AH
+
+(8) GMM
+
+*** Signifcant at 1% level; ** signifcant at 5% level; 
+
+signifcant at 10% level. Robust (OLS, FE, GMM) and bootstrapped (AH) 
+standard errors are enclosed in parentheses. AH estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+*** Signifcant at 1% level; 
+
+signifcant at 5% level; 
+
+signifcant at 10% level. Robust standard errors are enclosed in parentheses. FE-IV estimation does not report a constant term. Values appearing in the table are based on the author's calculation using the datasets available from the Google Patents Public Data, the Penn World Table, the World Bank Development Indicators, and the United Nations National Accounts—Analysis of Main Aggregates
+
+| Table 11 First-stage FE-IV regression results Instruments Instrumented Variables (1) Log of AI patents  per million people (2) Advanced × Log  of AI patents per  million people   | (3) Log of total patents  per million people   | (4) Advanced × Log of  total patents per  million people   |                    |                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------|--------------------|--------------------|
+| Log of cited nonpatent literature                                                                                                                                                                                    | 0.182
+
+ (0.038)                               | − 0.060
+
+ (0.020)                                         | 0.172
+
+ (0.033)   | 0.001 (0.011)      |
+| Log of cited nonpatent literature (t − 1)                                                                                                                                                                                    | 0.058
+
+ (0.032)                                 | 0.010 (0.021)                                              | 0.088
+
+ (0.027)   | 0.011 (0.011)      |
+| Advanced × Log                                                                                                                                                                     | − 0.048 (0.049)                                | 0.240
+
+ (0.040)                                           | 0.009 (0.040)      | 0.253
+
+ (0.024)   |
+| of cited non-patent  literature Advanced × Log  of cited non-patent  literature (t − 1)                                                                                            | 0.007 (0.034)                                  | 0.101
+
+ 0.031)                                            | − 0.022 (0.020)    | 0.012 (0.014)      |
+| Real GDP growth rate                                                                                                                                                               | 0.064
+
+ (0.021)                               | 0.020 (0.015)                                              | 0.016 (0.013)      | 0.006 (0.005)      |
+| per capita (t − 1) Log of real GDP per                                                                                                                                             | 1.484
+
+ (0.365)                               | 0.332 (0.303)                                              | 1.090
+
+ (0.306)   | 0.116 (0.109)      |
+| capita (t − 1) Population growth  rate                                                                                                                                             | − 0.111
+
+ (0.048)                              | − 0.049 (0.044)                                            | − 0.132
+
+ (0.037) | − 0.101
+
+ (0.022) |
+| Gross capital formation growth rate (per                                                                                                                                                                                    | − 0.003 (0.012)                                | − 0.00567 (0.009)                                          | 0.007 (0.005)      | 0.003 (0.002)      |
+| capita) Government expenditure growth rate (per  capita)                                                                                                                                                                                    | 0.075
+
+ (0.023)                               | 0.026 (0.022)                                              | 0.016 (0.010)      | 0.006 (0.004)      |
+| Trade openness  (5-year average)                                                                                                                                                   | − 0.001 (0.002)                                | 0.001 (0.002)                                              | − 0.000 (0.001)    | 0.001 (0.001)      |
+| Human capital index  growth rate                                                                                                                                                   | − 0.223
+
+ (0.112)                              | − 0.090 (0.077)                                            | − 0.098 (0.068)    | − 0.030 (0.035)    |
+| Infation (5-year average)                                                                                                                                                                                    | − 0.007 (0.014)                                | − 0.002 (0.011)                                            | 0.005 (0.008)      | − 0.004 (0.004)    |
+| Advanced economy                                                                                                                                                                   | 0.290 (0.411)                                  | 2.201
+
+ (0.437)                                           | 0.102 (0.411)      | 5.511
+
+ (0.283)   |
+| (dummy) Time dummies                                                                                                                                                               | Yes                                            | Yes                                                        | Yes                | Yes                |
+| N                                                                                                                                                                                  | 326                                            | 326                                                        | 836                | 836                |
+| n                                                                                                                                                                                  | 65                                             | 65                                                         | 135                | 135                |
+| *** Signifcant at 1% level; *
+
+signifcant at 5% level; 
+
+signifcant at 10% level. Robust standard errors are enclosed in                                                             |                                                |                                                            |                    |                    |
+
+| Table 12 List of variables Variable                                                                                     | Description                                                                                                | Source               |
+|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------|
+| Real GDP growth rate per capita                                                                                         | Five-year average of real GDP per capita                                                                   | UN National Accounts |
+| growth rate (dependent variable)                                                                                        |                                                                                                            |                      |
+| Real GDP growth rate per capita (t − 1)a                                                                                | Lagged 5-year average of real GDP per                                                                      | UN National Accounts |
+| capita growth rate                                                                                                      |                                                                                                            |                      |
+| Log of real GDP per capita (t − 1)a                                                                                     | Lagged log of the 5-year average of real                                                                   | UN National Accounts |
+| GDP per capita (USD)                                                                                                    |                                                                                                            |                      |
+| Log of AI patents per million peoplea                                                                                   | Log ratio of the 5-year total number of AI  patents per one million people in a 5-year  average population | Google Patents       |
+| Log of total patents per million peoplea                                                                                | Log ratio of the 5-year total number of  patents per one million people in a 5-year  average population    | Google Patents       |
+| Population growth ratea                                                                                                 | Five-year average of population growth                                                                     | World Bank           |
+| rate                                                                                                                    |                                                                                                            |                      |
+| Gross capital formation growth rate (per                                                                                | Five-year average of gross capital formation  UN National Accounts                                         |                      |
+| capita)a                                                                                                                | growth rate                                                                                                |                      |
+| Government expenditure growth rate (per                                                                                 | Five-year average of government expenditure growth rate                                                                                                            | UN National Accounts |
+| capita)a Trade openness (5-year average)a                                                                               | Five-year average of trade volume (exports                                                                 | World Bank           |
+| plus imports) ratio to GDP                                                                                              |                                                                                                            |                      |
+| Human capital index growth ratea                                                                                        | Five-year average of human capital index                                                                   | Penn World Table     |
+| growth rate                                                                                                             |                                                                                                            |                      |
+| Infation (5-year average)a                                                                                              | Five-year average of infation (using GDP                                                                   | UN National Accounts |
+| defator)                                                                                                                |                                                                                                            |                      |
+| Internet users growth rate (5-year average)b                                                                            | Five-year average of Internet users growth                                                                 | World Bank           |
+| rate                                                                                                                    |                                                                                                            |                      |
+| Advanced economy (dummy)a                                                                                               | 1 for observations with 5-year average real  GDP per capita exceeding USD 10,000; 0  otherwise             | -                    |
+| Advanced × Log of AI patents per million                                                                                | Interaction term between the advanced                                                                      | -                    |
+| peoplea                                                                                                                 | economy (dummy) and the log of AI patents per million people                                                                                                            |                      |
+| Advanced × Log of total patents per million peoplea                                                                                                                         | Interaction term between the advanced  economy (dummy) and the log of total  patents per million people    | -                    |
+| Log of cited non-patent literaturec                                                                                     | Log of the 5-year total number of cited                                                                    | Google Patents       |
+| non-patent literature                                                                                                   |                                                                                                            |                      |
+| Advanced × Log of cited non-patent                                                                                      | Interaction term between the advanced                                                                      |                      |
+| literaturec                                                                                                             | economy (dummy) and the log of cited  non-patent literature                                                | -                    |
+| a  The lags of the listed variables are used in the GMM estimation. The number of lags may vary for each GMM estimation |                                                                                                            |                      |
+
+a The lags of the listed variables are used in the GMM estimation. The number of lags may vary for each GMM estimation 
+(a maximum of fve lags is considered). All estimations use 5-year totals/averages of the variables except in the short-run analysis (see Table 9)
+b Additional variable for robustness check (see Table 10)
+c First-stage instruments for the AI patents, total patents, and interaction terms in the FE-IV estimation (see Table 11, Table 12)
+
+Acknowledgements
+
+The Article Processing Charge was covered by the funds of PAPAIOS and JSPS (KAKENHI Grant Number JP 21HP2002). The author wishes to acknowledge Craig Parsons, who provided valuable assistance and knowledge in the authorship of this manuscript.
+
+Declarations
+
+The author confrms to have read, understood, and agreed to the submission guidelines, policies, and submission declaration of the journal. The author confrms that the manuscript is the author's original work and that the manuscript has not received prior publication and is not under consideration for publication elsewhere. The author confrms that the paper now submitted is not copied or plagiarized version of some other published work. Author contributions Not applicable. Funding The author received no fnancial support for the research, authorship, and/or publication of this article.
+
+Availability Of Data And Materials
+
+The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request. However, the datasets supporting the conclusions of this article are also available in the following repositories: Google Patents Data: https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1spatents-public-data!2sgoo gle_patents_research. Penn World Table: https://www.rug.nl/ggdc/productivity/pwt/?lang=en. United Nations Statistics: 
+https://unstats.un.org/unsd/snaama/Downloads. World Bank Development Indicators: https://databank.worldbank.org/ source/world-development-indicators.
+
+Declarations
+
+Competing interests The author confrms that the manuscript has no competing interest to declare. The author declares that there are no competing fnancial interests or personal relationships that could have appeared to infuence the work reported in this paper. Received: 2 June 2023 Revised: 27 August 2023 Accepted: 28 August 2023
+
+References
+
+Acemoglu D, Restrepo P (2018) The race between man and machine: implications of technology for growth, factor shares, and employment. Am Econ Rev 108(6):1488–1542. https://doi.org/10.1257/aer.20160696 Aghion P, Jones BF, Jones CI (2018) Artifcial intelligence and economic growth. In: The economics of artifcial intelligence: an agenda, pp. 237–282. University of Chicago Press. https://doi.org/10.3386/w23928 Aghion P, Howitt P (1990) A model of growth through creative destruction. Econometrica 60(2):323–351. https://doi.org/
+10.2307/2951599 Akhilomen J (2013) Data mining application for cyber credit-card fraud detection system. In: Industrial Conference on Data Mining, pp. 218–228. https://doi.org/10.1007/978-3-642-39736-3_17 Arellano M, Bond S (1991) Some tests of specifcation for panel data: Monte Carlo evidence and an application to employment equations. Rev Econ Stud 58(2):277–297. https://doi.org/10.2307/2297968 Arellano M, Bover O (1995) Another look at the instrumental variable estimation of error-components models. J 
+Econometr 68(1):29–51. https://doi.org/10.1016/0304-4076(94)01642-D
+Arrow KJ (1962) The economic implications of learning by doing. Rev Econ Stud 29(3):155–173. https://doi.org/10.2307/
+2295952 Ashcroft S. Top 10 AI and ML supply chain frms & solutions." 
+
+Supply Chain Digital
+
+, May 24. 2023; Available at https://suppl ychaindigital.com/digital-supply-chain/top-10-ai-and-ml-supply-chain-solutions Bahk B-H, Gort M (1993) Decomposing learning by doing in new plants. J Polit Econ 101(4):561–583. https://doi.org/
+10.1086/261888 Barro RJ (1997) Determinants of economic growth: a cross-country empirical study. MIT Press, Cambridge. https://
+doi.org/10.3386/w5698 Bassanini A, Stefano S, Philip H (2001) Economic growth: the role of policies and institutions. Panel data evidence from OECD countries. In: OECD Economics Department Working Papers, No. 283, OECD Publishing, Paris. https:// doi.org/10.1787/722675213381.
+
+Blind K, Edler J, Frietsch R, Schmoch U (2006) Motives to patent: empirical evidence from Germany. Res Policy 35(5):655–672. https://doi.org/10.1016/j.respol.2006.03.002 Blind K, Ramel F, Rochell C (2022) The infuence of standards and patents on long-term economic growth. J Technol Transf 47(4):979–999. https://doi.org/10.1007/s10961-021-09864-3 Blundell R, Bond S (1998) Initial conditions and moment restrictions in dynamic panel data models. J Econometr 87(1):115–143. https://doi.org/10.1016/S0304-4076(98)00009-8 Bose R (2006) Intelligent technologies for managing fraud and identity theft. In: Third International Conference on Information Technology: New Generations (ITNG'06), pp. 446–451. https://doi.org/10.1109/ITNG.2006.78.
+
+Brynjolfsson E, Daniel R, Chad S (2018) Artifcial intelligence and the modern productivity paradox: a clash of expectations and statistics. The economics of artifcial intelligence: An agenda, pp. 23–57. University of Chicago Press. 
+
+https://doi.org/10.3386/w24001.
+
+Chen Z, Zhang J (2019) Types of patents and driving forces behind the patent growth in China. Econ Model 80:294–
+302. https://doi.org/10.1016/j.econmod.2018.11.015 Chu AC, Furukawa Y, Ji L (2016) Patents, R&D subsidies, and endogenous market structure in a Schumpeterian economy. South Econ J 82(3):809–825. https://doi.org/10.1002/soej.12122 Coiera E (2019) The last mile: where artifcial intelligence meets reality. J Med Internet Res 21(11):e16323. https://doi.
+
+org/10.2196/16323 Dasgupta P, Stiglitz J (1988) Learning-by-doing, market structure and industrial and trade policies. Oxf Econ Pap 40(2):246–268. https://doi.org/10.1093/oxfordjournals.oep.a041850 Fan D, Liu K (2021) The relationship between artifcial intelligence and China's sustainable economic growth: focused on the mediating efects of industrial structural change. Sustainability 13(20):11542. https://doi.org/10.3390/ su132011542 Feenstra RC, Robert I, Marcel T (2015) The next generation of the Penn world table. Am Econ Rev 105(10):3150–3182. 
+
+https://doi.org/10.1257/aer.20130954 Feenstra RC, Robert I, Marcel T (2013) PWT 8.0—a user guide. Available at: www.ggdc.net/pwt.
+
+Google (2022) "Google Patents Public Data." Available at: https://console.cloud.google.com/bigquery?ws=
+!1m4!1m3!3m2!1spatents-public-data!2sgoogle_patents_research Grier KB, Tullock G (1989) An empirical analysis of cross-national economic growth, 1951–1980. J Monet Econ 24(2):259–276. https://doi.org/10.1016/0304-3932(89)90006-8 Griliches Z (1988) Patent statistics as economic indicators: a survey. R&D Productiv Econ Evid pp. 287–343. University of Chicago Press. https://doi.org/10.3386/w3301.
+
+Hatemi-J A, Ajmi AN, El Montasser G, Inglesi-Lotz R, Gupta R (2016) Research output and economic growth in G7 countries: new evidence from asymmetric panel causality testing. Appl Econ 48(24):2301–2308. https://doi.org/ 10.1080/00036846.2015.1117052 He Y (2019) The efect of artifcial intelligence on economic growth: evidence from cross-province panel data. Korea J 
+Artif Intell 7(2):9–12. https://doi.org/10.24225/kjai.2019.7.2.9 Inglesi-Lotz R, Balcilar M, Gupta R (2014) Time-varying causality between research output and economic growth in US. Scientometrics 100(1):203–216. https://doi.org/10.1007/s11192-014-1257-z Institut national de la statistique et des études économiques (INSEE). 2019. "Technologies de l'information et de la communication et commerce électronique (TIC) 2019." Available at: https://www.insee.fr/fr/metadonnees/ source/fchier/TIC2019_questionnaire.pdf International Telecommunication Union (2023) Artifcial intelligence for good. Available at: https://www.itu.int/en/
+mediacentre/backgrounders/Pages/artificial-intelligence-for-good.aspx.
+
+Japan Patent Ofce (2015) JPO Status Report 2015. Available at: https://www.jpo.go.jp/e/resources/report/statusrepo rt/2015/.
+
+Jones CI, Williams JC (1998) Measuring the social return to R&D. Q J Econ 113(4):1119–1135. https://doi.org/10.2139/
+ssrn.2155 Kelley AC, Schmidt RM (1995) Aggregate population and economic growth correlations: the role of the components of demographic change. Demography 32(4):543–555. https://doi.org/10.2307/2061674 Kim YK, Lee K (2015) Diferent impacts of scientifc and technological knowledge on economic growth: contrasting science and technology policy in East Asia and Latin America. Asian Econ Policy Rev 10(1):43–66. https://doi. org/10.1111/aepr.12081 Kim YK, Lee K, Park WG, Choo K (2012) Appropriate intellectual property protection and economic growth in countries at diferent levels of development. Res Policy 41(2):358–375. https://doi.org/10.1016/J.RESPOL.2011.09.003 Lach S (1995) Patents and productivity growth at the industry level: a frst look. Econ Lett 49(1):101–108. https://doi.
+
+org/10.1016/0165-1765(94)00618-C
+Lee L-C, Lin P-H, Chuang Y-W, Lee Y-Y (2011) Research output and economic productivity: a Granger causality test. 
+
+Scientometrics 89(2):465–478. https://doi.org/10.1007/s11192-011-0476-9 Lu C-H (2021) The impact of artifcial intelligence on economic growth and welfare. J Macroecon 69:103342. https://
+doi.org/10.1016/j.jmacro.2021.103342 Lu Y, Zhou Y (2021) A review on the economics of artifcial intelligence. J Econ Surv 35(4):1045–1072. https://doi.org/
+10.1111/joes.12422 Mahalakshmi V, Nirzar Kulkarni KV, Pradeep Kumar K, Suresh Kumar D, Sree N, Durga S (2022) The role of implementing artifcial intelligence and machine learning technologies in the fnancial services industry for creating competitive intelligence. Mater Today Proc 56:2252–2255. https://doi.org/10.1016/j.matpr.2021.11.577 Maradana RP, Pradhan RP, Dash S, Gaurav K, Jayakumar M, Chatterjee D (2017) Does innovation promote economic growth? Evidence from European countries. J Innov Entrep 6(1):1–23. https://doi.org/10.1186/
+s13731-016-0061-9 Marr B (2023) A short history of chatGPT: how we got to where we are today. Forbes, May 19. Available at: https://
+www.forbes.com/sites/bernardmarr/2023/05/19/a-short-history-of-chatgpt-how-we-got-to-where-we-aretoday/?sh=1b6986bf674f Montagnier P, Irene EK (2021) AI measurement in ICT usage surveys: a review. OECD Digital Economy Papers, No. 308, OECD Publishing, Paris. https://doi.org/10.1787/20716826.
+
+Mou X (2019) Artifcial intelligence: investment trends and selected industry uses. International Finance Corporation 8. Available at: https://openknowledge.worldbank.org/handle/10986/32652 Mueller P (2006) Exploring the knowledge flter: How entrepreneurship and university–industry relationships drive economic growth. Res Policy 35(10):1499–1508. https://doi.org/10.1016/J.RESPOL.2006.09.023 Nakatani R (2021) Total factor productivity enablers in the ICT industry: a cross-country frm-level analysis. Telecommun Policy 45(9):102188. https://doi.org/10.1016/j.telpol.2021.102188 Nchake MA, Shuaibu M (2022) Investment in ICT infrastructure and inclusive Growth in Africa. Sci Afr 17:1–16. https://
+doi.org/10.1016/j.sciaf.2022.e01293 Nguyen CP, Nadia D (2022) The impact of ICT patents on economic growth: an international evidence. Telecommun Policy 46(5):102291. https://doi.org/10.1016/j.telpol.2021.102291 Nickell S (1981) Biases in dynamic models with fxed efects. Econometrica 49(6):1417–1426. https://doi.org/10.2307/
+1911408 Nightingale P (2000) Economies of scale in experimentation: knowledge and technology in pharmaceutical R&D. Ind Corp Chang 9(2):315–359. https://doi.org/10.1093/ICC/9.2.315 Ntuli H, Inglesi-Lotz R, Chang T, Pouris A (2015) Does research output cause economic growth or vice versa? Evidence from 34 OECD countries. J Am Soc Inf Sci 66(8):1709–1716. https://doi.org/10.1002/asi.23285 Oxford Insights (2022) Government AI Readiness Index 2022. Available at: https://www.oxfordinsights.com/gover nment-ai-readiness-index-2022.
+
+Pinto T, Teixeira AAC (2020) The impact of research output on economic growth by felds of science: a dynamic panel data analysis, 1980–2016. Scientometrics 123(2):945–978. https://doi.org/10.1007/s11192-020-03419-3 Rao AS, Gerard V (2017) Sizing the prize: What's the real value of AI for your business and how can you capitalise. PwC 
+Publication, PwC: 1–30. Available at: https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizingthe-prize-report.pdf Romer PM (1990) Endogenous technological change. J Polit Econ 98(5):S71–S102. https://doi.org/10.1086/261725 Roodman D (2009) How to do xtabond2: an introduction to diference and system GMM in Stata. Stand Genomic Sci 9(1):86–136. https://doi.org/10.1177/1536867X0900900106 Sarker IH (2022) Ai-based modeling: techniques, applications and research issues towards automation, intelligent and smart systems. SN Comput Sci 3(2):158. https://doi.org/10.1007/s42979-022-01043-x Sinha D (2008) Patents, innovations and economic growth in Japan and South Korea: evidence from individual country and panel data. Appl Econ Int Dev 8(1). Available at: https://ssrn.com/abstract=1308261 Solarin SA, Yen YY (2016) A global analysis of the impact of research output on economic growth. Scientometrics 108(2):855–874. https://doi.org/10.1007/s11192-016-2002-6 Sood SK, Keshav SR, Dheeraj K (2022) A visual review of artifcial intelligence and Industry 4.0 in healthcare. Comput Electr Eng 101:107948. https://doi.org/10.1016/j.compeleceng.2022.107948 Statistics Sweden (2020) Artifcial intelligence (AI) in Sweden 2019. Available at: https://www.scb.se/en/fnding-stati stics/statistics-by-subject-area/education-and-research/research/research-and-development-in-sweden/pong/ statistical-news/artificial-intelligence-ai-in-sweden-2019/
+Sweet C, Eterovic D (2019) Do patent rights matter? 40 years of innovation, complexity and productivity. World Dev 115:78–93. https://doi.org/10.1016/J.WORLDDEV.2018.10.009 Szczepański M (2019) Economic impacts of artifcial intelligence (AI). European Parliamentary Research Service. Available at: https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637967/EPRS_BRI(2019)637967_EN.pdf The European Commission (2021) Community Survey on ICT Usage and E-Commerce in Enterprises. Available at: https://
+circabc.europa.eu/sd/a/f9dc8b66-a429-49e2-ae01-f7424ec389f0/MQ_2021_ICT_ENT.pdf The United Nations (2022) National Accounts—analysis of Main Aggregates (AMA). https://unstats.un.org/unsd/snaama/
+Downloads The World Bank (2022) World Development Indicators. The World Bank Group. https://databank.worldbank.org/source/
+world-development-indicators Trajtenberg M (2018) AI as the next GPT: a Political-Economy Perspective. No. w24245. National Bureau of Economic Research. https://doi.org/10.3386/w24245.
+
+Ulku H (2004) R&D, innovation, and economic growth: an empirical analysis. Int Monet Fund Working Papers 185:2–35. 
+
+https://doi.org/10.5089/9781451859447.001 Velayos-Ortega G, López-Carreño R (2021) Non-patent literature. Encyclopedia 1(1):198–205. https://doi.org/10.3390/
+encyclopedia1010019 Wang L, Zhan J, Shi W, Liang Yi (2011) In cloud, can scientifc communities beneft from the economies of scale? IEEE 
+Trans Parallel Distrib Syst 23(2):296–303. https://doi.org/10.1109/TPDS.2011.144 Wong PK, Ho YP, Autio E (2005) Entrepreneurship, innovation and economic growth: evidence from GEM data. Small Bus Econ 24(3):335–350. https://doi.org/10.1007/S11187-005-2000-1 Wößmann L (2003) Specifying human capital. J Econ Surv 17(3):239–270. https://doi.org/10.1111/1467-6419.00195 Yang C-H (2022) How artifcial intelligence technology afects productivity and employment: frm-level evidence from Taiwan. Res Policy 51(6):104536. https://doi.org/10.1016/j.respol.2022.104536 Yang T, Yi X, Shaowen Lu, Johansson KH, Chai T (2021) Intelligent manufacturing for the process industry driven by industrial artifcial intelligence. Engineering 7(9):1224–1230. https://doi.org/10.1016/j.eng.2021.04.023 Yanhui W, Huiying Z, Jing W (2015) Patent elasticity, R&D intensity and regional innovation capacity in China. World Patent Inf 43:50–59. https://doi.org/10.1016/J.WPI.2015.10.003 Yeung K (2020) Recommendation of the council on artifcial intelligence (OECD). Int Leg Mater 59(1):27–34. https://doi.
+
+org/10.1017/ilm.2020.5 Yigitcanlar T, Desouza KC, Butler L, Roozkhosh F (2020) Contributions and risks of artifcial intelligence (AI) in building smarter cities: insights from a systematic review of the literature. Energies 13(6):1473. https://doi.org/10.3390/en130 61473 Zeira J (1998) Workers, machines, and economic growth. Q J Econ 113(4):1091–1117. https://doi.org/10.1162/00335 5398555847
+
+Publisher'S Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afliations.

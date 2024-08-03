@@ -1,0 +1,1640 @@
+c PETER W. CALLAHAN, PAUL A. LARCEY, , AND THAYER S. PATTERSON
+What,His ems, and compexit Acana Each Us Abbut Our Modern World and Fragile Future
+"The editors deserve our gratitude for having assembled these wide-ranging essays. They offer fascinating perspectives on a topic that could hardly be more important for humanity—but which has received far less systematic attention than it merits. Let's hope this book will raise awareness of these possible catastrophes, and thereby help ensure a safer world."
+—Martin Rees, Astronomer Royal, University of Cambridge, and Centre for the Study of Existential Risk Author of If Science Is to Save Us, Our Final Hour, 
+
+From Here to
+
+ Infinity, and 
+
+On the Future
+
+"How did ancient societies crash or reinvent themselves? Can we learn from that? History rhymes. For the ones interested in the search for patterns, this book is a treasure trove."
+—Marten Scheffer, Wageningen University and Santa Fe Institute Author of 
+
+Critical Transitions in Nature and Society
+
+"This must-read volume on collapse presents twenty original contributions from some of the best thinkers on the topic. The chapters explore collapse theory, case studies on individual historical collapses, and how things might change for humanity in the future. Collapse is considered from a range of perspectives: theoretical, historical, ecological, and modeling, providing an important multidisciplinary introduction. It will keep the increasingly important debate on collapse and transformation in the spotlight for some time to come."
+—Guy D. Middleton, University of Newcastle upon Tyne Author of Understanding Collapse: Ancient History and Modern Myths Taylor & Francis
+
+Taylor & Francis Group http://taylorandfrancis.com
+
+How Worlds Collapse
+
+As our society confronts the impacts of globalization and global systemic riskssuch as financial contagion, climate change, and epidemics—what can studies of the past tell us about our present and future? 
+
+How Worlds Collapse
+
+ offers case studies of societies that either collapsed or overcame cataclysmic adversity. The authors in this volume find commonalities between past civilizations and our current society, tracing patterns, strategies, and early warning signs that can inform decision-making today. While today's world presents unique challenges, many mechanisms, dynamics, and fundamental challenges to the foundations of civilization have been consistent throughout history—highlighting essential lessons for the future. Miguel A. Centeno is Musgrave Professor of Sociology at Princeton University and Executive Vice Dean of Princeton University's School of Public and International Affairs. He is founder and co-director of the Princeton Institute for International and Regional Studies (PIIRS) Global Systemic Risk research community. Peter W. Callahan is a graduate of Princeton University who earned his MS in Geography and Environmental Studies from the University of New Mexico. He is a researcher at Princeton's PIIRS Global Systemic Risk research community where his scholarly interests include the study of socio-ecological systems, historical systemic risks, sustainable development, and renewable energy policy and technology.
+
+Paul A. Larcey is co-director of the PIIRS Global Systemic Risk research community at Princeton University. Larcey's work with the UK's innovation agency focuses on key emerging technologies including life sciences, quantum technologies, and AI. He has worked in corporate research, venture capital, and global industrial sectors at board and senior levels and studied engineering, materials science, and finance at London, Oxford, and Cambridge Universities.
+
+Thayer S. Patterson is coordinator and a founding member of the PIIRS 
+Global Systemic Risk research community at Princeton University. Following his studies in economics and mechanical engineering at Yale, and finance at Princeton's Bendheim Center for Finance, his research has focused on the causes and consequences of catastrophic systemic risk.
+
+Taylor & Francis
+
+Taylor & Francis Group http://taylorandfrancis.com
+
+How Worlds Collapse
+
+What History, Systems, and Complexity Can Teach Us About Our Modern World and Fragile Future Edited by Miguel A. Centeno, 
+
+ Peter W. Callahan, Paul A. Larcey, Thayer S. Patterson First published 2023 by Routledge 605 Third Avenue, New York, NY 10158 and by Routledge 2 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN Routledge is an imprint of the Taylor & Francis Group, an informa business © 2023 Taylor & Francis The right of Miguel A. Centeno, Peter W. Callahan, Paul A. Larcey, Thayer S. Patterson to be identified as the authors of the editorial material, and of the authors for their individual chapters, has been asserted in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988. All rights reserved. No part of this book may be reprinted or reproduced or utilised in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.
+
+Trademark notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identification and explanation without intent to infringe. Library of Congress Cataloging-in-Publication Data Names: Centeno, Miguel Angel, 1957- editor. Title: How Worlds Collapse/edited by Miguel A. Centeno [and three others]. Description: New York, NY: Routledge, 2023. | Includes bibliographical references and index. Identifiers: LCCN 2022036785 | ISBN 9781032363257 (hbk) | ISBN 9781032363219 (pbk) | ISBN 9781003331384 (ebk) Subjects: LCSH: Disasters–History. | Emergency management–History. | Emergency management–Decision making. | Social systems–History. Classification: LCC D24 .H555 2023 | DDC 363.34/8068–dc23/ eng/20221122 LC record available at https://lccn.loc.gov/2022036785 ISBN: 978-1-032-36325-7 (hbk) ISBN: 978-1-032-36321-9 (pbk) ISBN: 978-1-003-33138-4 (ebk) DOI: 10.4324/9781003331384 Typeset in Bembo by Deanta Global Publishing Services, Chennai, India Cover image: Shutterstock, Ancient Roman town in Palmyra, Syria For Deborah Nichols Taylor & Francis
+
+Taylor & Francis Group http://taylorandfrancis.com
+
+Contents
+
+Acknowledgement xii Authors xiv Introduction 1 MIGUEL A. CENTENO, PETER W. CALLAHAN, PAUL A. LARCEY, AND 
+THAYER S. PATTERSON
+SECTION 1 Theory and Insights of Historical Collapse 3 1 Globalization and Fragility: A Systems Approach to Collapse 5 MIGUEL A. CENTENO, PETER W. CALLAHAN, PAUL A. LARCEY, AND THAYER S. PATTERSON
+2 How Scholars Explain Collapse 25 JOSEPH A. TAINTER
+3 Diminishing Returns on Extraction: How Inequality and Extractive Hierarchy Create Fragility 37 LUKE KEMP
+4 Collapse, Recovery, and Existential Risk 61 HAYDN BELFIELD
+SECTION 2 Historical and Archaeological Investigations of Collapse 93 5 "Mind the Gap": The 1177 BCE Late Bronze Age Collapse and Some Preliminary Thoughts on Its Immediate Aftermath 97 ERIC H. CLINE
+x 
+
+Contents
+
+ 6 The End of "Peak Empire": The Collapse of the Roman, Han, and Jin Empires 108 WALTER SCHEIDEL
+7 Collapse and Non-collapse: The Case of Byzantium ca. 
+
+650–800 CE 124 JOHN HALDON
+8 
+
+Fluctuat Nec Mergitur
+
+: Seven Centuries of Pueblo Crisis and
+
+ 
+Resilience 146 TIMOTHY A. KOHLER, R. KYLE BOCINSKY, AND DARCY BIRD
+9 Episodes of the Feathered Serpent: Aztec Imperialism and Collapse 167 DEBORAH L. NICHOLS AND RYAN H. COLLINS
+10 The Black Death: Collapse, Resilience, and Transformation 191 SAMUEL K. COHN, JR.
+
+11 The Cases of Novgorod and Muscovy: Using Systems Thinking to Understand Historical Civilizational Response to Exogenous Threats 206 MIRIAM POLLOCK, BENJAMIN D. TRUMP, AND IGOR LINKOV
+12 Resilience of the Simple?: Lessons from the Blockade of Leningrad 236 JEFFREY K. HASS
+SECTION 3 Systemic Collapse Insights from Ecology, Climate, and the Environment 259 13 Climate Change and Tipping Points in Historical Collapse 261 TIMOTHY M. LENTON
+14 Conservation of Fragility and the Collapse of Social Orders 282 JOHN M. ANDERIES AND SIMON A. LEVIN
+15 Resilience and Collapse in Bee Societies and Communities 296 CHRISTINA M. GROZINGER AND HARLAND M. PATCH
+SECTION 4 Future Systemic Collapse and Quantitative Modeling 313 16 Producing Collapse: Nuclear Weapons as Preparation to End Civilization 315 ZIA MIAN AND BENOÎT PELOPIDAS
+17 From Wild West to Mad Max: Transition in Civilizations 333 RICHARD BOOKSTABER
+18 Phase Transitions and the Theory of Early Warning Indicators for Critical Transitions 358 GEORGE I. HAGSTROM AND SIMON A. LEVIN
+19 The Lifespan of Civilizations: Do Societies "Age," or Is Collapse Just Bad Luck? 375 ANDERS SANDBERG
+20 Multipath Forecasting: The Aftermath of the 2020 American Crisis 397 PETER TURCHIN
+Index 417
+
+Acknowledgement
+
+The Editors would like to acknowledge and thank the many people who helped make this volume possible.
+
+First, the Office of the Dean for Research at Princeton University supported the creation of our Global Collaborative Network on Historical Collapse, specifically Pablo Debenedetti, Anastasia Vrachnos, Aly Kassam-Remtulla, and Claire Hu. Their endorsement of this research initiative allowed us to gather together the scholars who contributed presentations, ongoing conversations, and collaborations that produced the works within this volume.
+
+Next, the Princeton Institute for International and Regional Studies (PIIRS) 
+for the creation of—and ongoing support for—the PIIRS Global Systemic Risk research community. This great team has included Mark Beissinger, Stephen Kotkin, Deborah Yashar, Susan Bindig, David Jarvis, Jayne Bialkowski, Nicole Bergman, Carole Dopp, Rachel Golden, Karen Koller, Pooja Makhijani, Nita Mallina, Julia Panter, Tim Waldron, and Nikki Woolward.
+
+At the Princeton School of Public and International Affairs, Amaney Jamal, Cecilia Rouse, Todd Bristol, Pamela Garber, Meghann Kleespie, Heather Evans, Nancy Everett, and Nancy McCollough. And in the Department of Sociology, Mitch Duneier, Donna DeFrancisco, Amanda Rowe, Cindy Gibson, and Eric Altman. In the Office of the Vice Provost, Paul LaMarche, Amy Bristol, Cynthia Gorman, and Jill Alves for their continued support of PIIRS Global Systemic Risk.
+
+Simon Levin at Princeton, Johan Rockström at the Potsdam Institute for Climate Impact Research, and Carl Folke and Victor Galaz at the Stockholm Resilience Centre who have worked tirelessly to advance the science and mitigation of systemic risk. Their leadership in our collaborative research partnership has been invaluable.
+
+We are grateful to Kathryn W. Davis and Shelby M.C. Davis for providing pioneering support in 2010 for the study of catastrophic systemic risk at Princeton. Sean Brennan and Tom Quirk at Princeton have championed the mission of the PIIRS Global Systemic Risk project all along the way. And Carl Robichaud and Steve Del Rosso at the Carnegie Corporation of New York were instrumental in their early understanding of the importance of—and their support for—the study of critical systemic threats in 2010.
+
+A special thank you to Arka Mukherjee for his profound curiosity, vision, and generosity. Without his support for—and participation in—the PIIRS Global Systemic Risk research community, this work would not have been possible.
+
+We thank Dean Birkenkamp at Routledge Press for his stewardship, guidance, and inspiration throughout this project. His support for this topic and his understanding of the importance of multidisciplinarity allowed us to assemble these diverse perspectives into this volume.
+
+And finally, we would like to thank all the authors and members of this Global Collaborative Network on Historical Collapse who, through their work, have advanced this academic subfield that has lamentably become increasingly relevant in our modern times.
+
+Authors
+
+| John M. Anderies                                                                                                                                                                                                                                                            | Arizona State University—School of Human  Evolution and Social Change; School of  Sustainability                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Haydn Belfield                                                                                                                                                                                                                                                              | University of Cambridge—Centre for the Study of  Existential Risk (CSER)                                                             |
+| Darcy Bird                                                                                                                                                                                                                                                                  | Washington State University—Anthropology  Max Planck Institute for Geoanthropology                                                   |
+| R. Kyle Bocinsky                                                                                                                                                                                                                                                            | University of Montana—Society and Conservation;  Montana Climate Office  Desert Research Institute Crow Canyon Archaeological Center |
+| Richard Bookstaber                                                                                                                                                                                                                                                          | Fabric RQ                                                                                                                            |
+| Peter W. Callahan                                                                                                                                                                                                                                                           | Princeton University—PIIRS Global Systemic Risk  research community                                                                  |
+| Miguel A. Centeno                                                                                                                                                                                                                                                           | Princeton University—Sociology; School of Public  and International Affairs; PIIRS Global Systemic  Risk research community          |
+| Eric H. Cline                                                                                                                                                                                                                                                               | George Washington University—Classical and  Ancient Near Eastern Studies; Anthropology;  Capitol Archaeological Institute            |
+| Samuel K. Cohn, Jr.                                                                                                                                                                                                                                                         | University of Glasgow—Medieval History University of Edinburgh—Institute for Advanced  Studies in the Humanities                     |
+| Ryan H. Collins                                                                                                                                                                                                                                                             | Dartmouth College—Anthropology; Neukom  Institute for Computational Science                                                          |
+| Christina M. Grozinger Penn State University—Entomology; Center for  Pollinator Research; Insect Biodiversity Center;  Huck Institutes of the Life Sciences George I. Hagstrom Princeton University—Ecology and Evolutionary  Biology; High Meadows Environmental Institute |                                                                                                                                      |
+
+| Authors             | xv                                                                                                                                                           |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| John Haldon         | Princeton University—History; Climate Change and  History Research Initiative                                                                                |
+| Jeffrey K. Hass     | University of Richmond—Sociology and  Anthropology St. Petersburg State University—Economics                                                                 |
+| Luke Kemp           | University of Cambridge—Centre for the Study of  Existential Risk (CSER)                                                                                     |
+| Timothy A. Kohler   | Washington State University—Archaeology and  Evolutionary Anthropology Santa Fe Institute Crow Canyon Archaeological Center University of Durham—Archaeology |
+| Paul A. Larcey      | Princeton University—PIIRS Global Systemic Risk  research community                                                                                          |
+| Timothy M. Lenton   | University of Exeter—Global Systems Institute;  Geography                                                                                                    |
+| Simon A. Levin      | Princeton University—Ecology and Evolutionary  Biology; High Meadows Environmental Institute                                                                 |
+| Igor Linkov         | US Army Corps of Engineers—US Army Engineer  Research and Development Center Carnegie Mellon University—Engineering and  Public Policy                       |
+| Zia Mian            | Princeton University—Program on Science and  Global Security                                                                                                 |
+| Deborah L. Nichols  | Dartmouth College—Anthropology                                                                                                                               |
+| Harland M. Patch    | Penn State University—Entomology; Center for  Pollinator Research; Insect Biodiversity Center;  Huck Institutes of the Life Sciences                         |
+| Thayer S. Patterson | Princeton University—PIIRS Global Systemic Risk  research community                                                                                          |
+| Benoît Pelopidas    | Sciences Po—Nuclear Knowledges, Center for  International Studies (CERI)                                                                                     |
+| Miriam Pollock      | US Army Corps of Engineers—US Army Engineer  Research and Development Center                                                                                 |
+| Anders Sandberg     | University of Oxford—Future of Humanity Institute The Institute for Futures Studies                                                                          |
+| Walter Scheidel     | Stanford University—Humanities; Classics; History                                                                                                            |
+| Joseph A. Tainter   | Utah State University—Environment and Society,  College of Natural Resources                                                                                 |
+| Benjamin D. Trump   | US Army Corps of Engineers—US Army Engineer  Research and Development Center                                                                                 |
+| Peter Turchin       | Complexity Science Hub Vienna—Social  Complexity and Collapse                                                                                                |
+
+Taylor & Francis
+
+Taylor & Francis Group http://taylorandfrancis.com
+
+Introduction
+
+Miguel A. Centeno, Peter W. Callahan, Paul A. Larcey, and Thayer S. Patterson In our era of heightened division and polarization, a powerful concern that unites us is the perception that modern civilization may be on a trajectory toward fragility, systemic shocks, or even collapse. From the rise of cryptocurrencies to the increasing popularity of dystopian novels and apocalyptic movies, civilizational collapse seems like the issue of our time. With a potentially global impact, this collective fear has attracted a broad audience. Modern catastrophes have contributed to this anxiety, as recent crises like the COVID-19 pandemic, supply chain disruptions, the global financial crisis, and the Russian invasion of Ukraine bring our vulnerabilities into sharper focus.
+
+The timing of this volume is inspired by this sense of urgency, and we believe it advances an important perspective. To anticipate the future, we look to lessons from the past to discover patterns, themes, and shared characteristics of doomed civilizations that might offer warning signs for modern collapse. Our study of historical systemic collapse is in the spirit of Santayana's cautionary exhortation—by understanding how and why our predecessors failed, we hope to adopt greater resilience in our modern systems.
+
+Over the past three years, the Princeton Institute for International and Regional Studies (PIIRS) Global Systemic Risk research community at Princeton University hosted conferences around the themes of historical collapse and systemic fragility. Formed in 2013 as a collaborative and multidisciplinary scholarly project, PIIRS Global Systemic Risk has worked to identify the risks that emerge from the unprecedented levels of global complexity, interconnectivity, and interdependency that are key characteristics of our modern world. A consistent theme throughout this project has been that formidable risks to our globalized systems are accelerating and that widespread systemic failure would be catastrophic.
+
+The conferences on historical systemic collapse convened a global collaborative network of archaeologists, historians, sociologists, ecologists, physicists, mathematicians, and scholars of collapse from around the world to seek a better understanding of how and why systems, populations, and ultimately societies collapse. With the goal of sharing insights, theories, and methodologies
+
+Doi: 10.4324/9781003331384-1 2 Centeno, Callahan, Larcey, And Patterson
+
+across academic fields, scholars sought to move beyond disciplinary walls and silos that traditionally separate efforts that could benefit from cross-pollination. Inspired by shared curiosity across disciplines, collaborators explored how our understanding of today can be enhanced by multidisciplinary explorations of collapse.
+
+This volume is the product of these conferences and presents the work of 31 authors involved in the effort. Each chapter stands alone as a work of scholarship in its own right, but together, they begin to paint a picture of what systemic collapse can look like in its many, varied, and nuanced forms. This volume presents both macro- and micro-level perspectives on collapse. Some chapters present philosophical investigations and meta-analyses at high levels across the entire chronology of civilizational collapses, while others demonstrate the importance of analysis within the collapse of a specific civilization or system.
+
+Reflecting the multidisciplinary influences and scope of the analyses, the chapters in this volume are organized into four broad sections based on themes. The first section presents an introduction to important theories, mechanisms, and literature relevant to the study of collapse, and features debates within and around the discipline. The second section explores case studies from historical civilizations with close analysis of characteristics and events that precipitate fragility and collapse. The third section focuses on ecology and the environment, and identifies examples, concepts, and methodologies that are useful in the study of systemic collapse. In the final section, authors present quantitative modeling and other methods of conceptualizing systemic and civilizational failure.
+
+We believe this field of historical systemic collapse is rich with potential for influential discoveries, developments, and academic insights, with the ultimate goal of mitigating collapse and the tragic human costs in death and suffering seen throughout history. We hope that many of the ideas and multidisciplinary perspectives in this volume serve as an inspiration to attract a greater number of scholars to this field as we collectively seek to better understand how worlds collapse.
+
+Section 1 Theory And Insights Of Historical Collapse
+
+The first section of this volume introduces readers to perspectives on the study of systems and explores theories of collapse causality. The authors present literature surveys and analyses within the field of collapse and examine how collapse studies could borrow insights and understanding from other relevant disciplines.
+
+In the first chapter of this section, produced by the editors of this volume, we seek to combine concepts from our study of complexity science, globalization, and systemic risk with our work within this scholarly collaboration on historical collapse. Viewing historical societies through the lenses of systems theory and complexity, we analyze how social systems reflect the structure and dynamics of complex adaptive systems. In this way, a complex society can be seen as an interdependent and interactive system of systems—economic, financial, agricultural, water, energy, and transportation, among others—each adding layers of complexity and fragility. Drawing on insights of systemic risk from multiple disciplines, we discuss systemic properties and phenomena that contribute to either a society's downfall or to its ability to withstand shocks and recover from failure. Mindful of the prospect of a modern collapse, we believe that applying systems theory to past collapses will be relevant to understanding the fragilities within our increasingly interdependent, technologically advanced, and complex global systems.
+
+In the second chapter, Joseph Tainter begins with a wide-ranging literature review of collapse scholarship. Noting that scholars have been interested in identifying causes of collapse for over 3,000 years, Tainter identifies key themes and patterns from this extensive literature, and names ten categories into which all explanations of collapse can be divided. He observes how a contemporary lens can impact research of the past and argues that scholars of collapse are often "influenced by, and sometimes attempt to influence, contemporary social issues," and that explanations thus "wax and wane in popularity according to the issues of the day." In his classification of collapse theories, Tainter finds that a plurality of the explanations offered by historians elides human agency, encompassing causes that he variously refers to as "
+
+deus ex
+
+ machina," "bolt from the blue," or "just bad luck." Cautioning against such biases and fatalistic explanations, Tainter galvanizes scholars to uncover each 
+
+Theory And Insights Of Historical Collapse Theory And Insights Of Historical Collapse 10.4324/9781003331384-2 Doi: 10.4324/9781003331384-2 4 Theory And Insights Of Historical Collapse
+
+civilization's role in its own collapse by seeking more nuanced and systemic casualties, writing, "surely we can do better."
+In his seminal book, 
+
+The Collapse of Complex Societies
+
+ from 1988, Tainter presented his theory of diminishing returns on complexity, which claims that civilizational collapses can be attributed to society reaching an untenable level of complexity and interconnectivity. Tainter argues that while complexity is beneficial for the growth and development of a society, once it reaches a certain threshold, the costs and risks outweigh the benefits. Luke Kemp recognizes Tainter's hypothesis as "perhaps the foremost unifying theory of societal aging," and in the third chapter of this section, he provides a challenge and alternative to Tainter's theory. Kemp argues that diminishing returns on 
+"extraction"—not "complexity"—is a more accurate way to characterize collapse causality. Here, Kemp focuses on how societal institutions extract capital from citizens and the environment—such as through taxation, conscription, confiscation, and energy depletion—arguing that inefficiencies and mismanagement of these extractive practices are the real precipitators of collapse. He argues that over-extraction of capital results in inequality, corruption, intraelite struggle, lower energy return on investment, and weakened societal stabilizing structures, resulting in a more fragile state vulnerable to collapse. He concludes by arguing that this shift in thinking means that societal collapse is not inevitable and that rather than fighting an "unwinnable battle" against the inexorable decline of energy return on investment, societies can instead "reach true, lasting stability … by building more inclusive institutions that are democratically proactive to emerging problems."
+In the final chapter of this section, Haydn Belfield provides a comparative analysis of methodologies employed in the fields of existential risk and collapse studies. While both fields study low-probability catastrophic events, existential risk scholars typically examine only cases involving human extinction or those that would change humanity's long-term trajectory. Collapse scholars, on the other hand, focus on societal failures after which there is potential for human reorganization and recovery. Belfield argues, however, that even if society recovers after a collapse, the consequences could still be permanent and severe. In this way, he shows that both collapse and existential risk studies should find common ground around the potential impact on humanity's long-term trajectory. Through his survey of perspectives, theories, and methodologies in both fields, Belfield presents a prescription for greater collaboration, synergy, and understanding between these two increasingly relevant disciplines.
+
+1 Globalization And Fragility
+
+A Systems Approach to Collapse Miguel A. Centeno, Peter W. Callahan, Paul A. Larcey, and Thayer S. Patterson
+[T]he decline of Rome was the natural and inevitable effect of immoderate greatness. Prosperity ripened the principle of decay; the causes of destruction multiplied with the extent of conquest; and as soon as time or accident had removed the artificial supports, the stupendous fabric yielded to the pressure of its own weight. The story of its ruin is simple and obvious; and instead of inquiring why the Roman empire was destroyed, we should rather be surprised that it had subsisted so long.
+
+—Edward Gibbon, 
+
+The History of the Decline and Fall of the Roman Empire
+
+ (1788)
+
+Miguel A. Centeno, Et Al. Globalization And Fragility 10.4324/9781003331384-3 1 1.1 Introduction
+
+There is a specter haunting globalization and modern life: The potential for widespread civilizational collapse. Stories of dystopian fiction and apocalyptic futures have never been more popular, with audiences flocking to big-budget disaster movies (Roberts 2020). Our world is existentially anxious because we sense that our trajectory is not sustainable (Ord 2020). Even the most optimistic possibilities of scientific and technological progress cannot guarantee our collective ongoing stability and prosperity. Global systemic shocks like 9/11, the Global Financial Crisis, COVID-19, and the Russian invasion of Ukraine, together with increased actual or threatened aggression from other global actors, have heightened awareness of the fragility of our increasingly globalized and interdependent way of living. Such developments have brought the magnitude of these fragilities into sharper focus and have caused some to advocate for a retreat from globalization, claiming that its dangers outweigh the benefits (Altman 2020; Greber 2022). Regardless of these concerns, however, international interdependence continues and along with it, so do the risks.
+
+With the goal of understanding this precariousness of our modern world, we offer a lens through which to investigate "failures" in history and examine whether there are insights from systemic risk that can illuminate patterns of historical collapse. A certain teleological triumphalism dominates modern social science where victors wrote their histories and survivorship biases lead us to focus on the civilizations that remain standing. We see value in also examining the reverse view by attempting to learn from failed civilizations. 
+
+Doi: 10.4324/9781003331384-3 6 Miguel A. Centeno, Et Al.
+
+We may have access to insights that past doomed societies lacked—self-awareness of our own trajectory toward destruction, access to historical hindsight, and an understanding of themes and patterns that have led to systemic failures in societies. We seek to identify systemic causes and mechanisms for breakdown that can provide historians with a systemic perspective for analyzing the past and can allow these past collapses to serve as cautionary tales for our present and future.
+
+This chapter begins with a discussion of hubris as a theme in social development. We then present a summary of the structure of globalization as a complex adaptive system. We follow by defining collapse, then move on to its most significant causes. The penultimate section discusses some of the mechanisms through which isolated failures could lead to systemic collapse. We end with consideration of robustness, resilience, and the governance required to avoid risk and mitigate failures, with the goal of creating a more stable civilization today.
+
+1.2 The Enemy Is Us
+
+We have met the enemy and he is us.
+
+—Walt Kelly 1971
+
+Hubris has been a cautionary theme in mythology, literature, and religion throughout history. Humans have a habit of taking a few successes as a sign of continued and future prosperity, often extrapolating it into a perception of infallibility. This has led to the construction of ever-taller edifices on fragile foundations. Standing nearly twice the height of the Empire State Building, Dubai's Burj Khalifa may serve as a contemporary analog to the Tower of Babel. What would possess us to build something so incongruous with its natural environment, surrounded by a set of environmentally unsustainable desert city-states? Believing that we have it all under control and that tomorrow will be just like today, we create crucial systems on which we depend, neglecting to design into them the robustness and resilience to survive crises. (Pastor-Satorras et al. 2015; Taleb 2007).
+
+We argue that this overconfidence also characterizes globalization (Brauer 2018). Over the last half-century, our complex global system has emerged as a set of tightly coupled interactions that together allow for the continued flow of information, money, goods, services, and people. We have clear evidence that in many ways—environmental hazards aside for the moment—globalization has in fact been largely beneficial for humans collectively. Life expectancy has increased globally by more than two decades since 1960 (Roser, Ortiz-Ospina, and Ritchie 2013), and there is continuing evidence that the science of longevity will sharply accelerate (Oeppen 2002; Kannisto et al. 1994). We now produce enough food to feed the planet and enjoy an unprecedented economic and technological standard of living. Like a Roman during the reign of the Antonines, we can look around us and marvel at what we have created (Birley 2000).
+
+Much of this advancement has come through our ability to create systems that are technologically advanced, complex, interdependent, and constructed at massive scale. Expansive networks of telecommunication, transportation, energy, agriculture, and trade, among others, have facilitated this progress, but have given rise to new and unprecedented risks (Manheim 2020; Oughton et al. 2018). We see these networks as complex adaptive systems (CAS), where the interactions of components create new dynamics that cannot be explained by the characteristics of the constituent parts. Because of this complexity, the risks associated with maintaining CAS are non-linear and impossible to predict (Helbing 2009). Emergent risks in such a system are the threats that originate not in any single component, but rather from the collective structure and dynamics of the system in its entirety. In the case of CAS, the risk of systemic failure when looking at the whole may be far greater than when the system is viewed simply as the sum of its parts (Crucitti, Latora, and Marchiori 2004). This is particularly true of "systems-of-systems" that rely on the coordination of various domains. The agricultural system, for example, relies on networks of finance, trade, water, labor, energy, electricity, transportation, communications, and others to efficiently plant, grow, harvest, transport, and sell foodstuffs in a globalized society (Centeno, Callahan, and Patterson 2015; Nyström et al. 2019). A miscoordination or deliberate interference in any of these underlying and interdependent systems could be catastrophic (Ibrahim et al. 2021).
+
+Globalization requires the continuous flow of people, money, commodities, goods, services, and the cooperation of vast numbers of individuals (Danku, Perc, and Szolnoki 2019; Foreman-Peck 2007). COVID-19 has shown us that none of us is isolated from the rest of the globe and the impact of unpredictable world events. A novel virus can rapidly emerge to bring down economies, influence elections, and humble even the most powerful. Even with warnings, foresight, and suggested mitigation strategies, overconfidence and failure of imagination enabled such a deadly scenario (Cambridge Centre for Risk Studies 2019; Epstein 2009; Nuzzo et al. 2019).
+
+We now live in a global system-of-systems where a failure in one part could lead to disaster across the whole structure. The sheer quantity and breadth of possible interactions require a shift in our analysis of interdependence. Moreover, we have added a pursuit of optimization and efficiency to this complex system, which leads to short-term gains but lays the foundation for longer-term catastrophe (Centeno et al. 2015). Global systems, much like the Burj Khalifa, are wonders to behold, but the increase in complexity and tight coupling makes a "normal accident" ever more likely and more dangerous 
+(Perrow 1984; Ledwoch et al. 2018). That is, we have created systems that we can never truly comprehend, whose risk profiles we cannot understand (Wildavsky and Dake 1990), over which no one has responsibility, and on which we have staked our continued survival.
+
+Our hubris lies not only in our overconfidence in our increasingly fragile systems, but more so in our belief that our twenty-first-century civilization is immune to the tragic fates of fallen societies in history. While our modern 
+
+societies and the systems upon which they rely exist at a scale, scope, and degree of complexity far greater than their historical counterparts, the mechanisms of systemic failure and collapse remain the same. In this way, lessons from the past that relate to fundamental systemic characteristics still remain relevant today. Because of the unimaginable magnitude of potential contemporary collapse, the study of past systems to gain greater insight into our present and future is more urgent and compelling than ever.
+
+1.3 Looking To History
+
+One constant throughout recorded history is that even the most apparently powerful and successful civilizational systems inevitably break down. History has repeatedly demonstrated that the second law of thermodynamics applies to human-created systems: We cannot escape entropy—the inexorable trend toward greater chaos in nature (Meyer and Ponthiere 2020; Gleick 2011). Consequently, no form of social order is eternal.
+
+Several years ago, we (the editors of this book) began a scholarly project on Global Systemic Risk at Princeton University. We sought to bring insights from complexity (Holovatch, Kenna, and Thurner 2017), systems theory (Miller and Page 2007), and network theory (Barabási 2002) to identify: (1) how the systems of globalization work and (2) the risks associated with this global complexity. We understood that it was important not just to analyze the systems and identify key vectors, but also to imagine how it might all come apart (Vespignani 2010). We began to see that the risks to our increasingly interconnected and globalized systems are substantial and that widespread failure could be catastrophic. To anticipate the future, we looked to lessons from the past to discover shared characteristics of doomed civilizations, which might offer warning signs for modern collapse.
+
+What do previous "falls of empire" have to teach us about how we might best prepare for an uncertain and potentially perilous future (Tainter 1988; Middleton 2013; Taleb 2012)? In this chapter, we look to our experience from our study of global systemic risk and systemic collapse to provide insights and perspectives that historians may apply to their study of historical collapse.
+
+1.4 Defining Systemic Collapse
+
+To understand "systemic collapse," we begin with a standard definition of a system: "a regularly interacting or interdependent group of units forming a unified whole" (Merriam-Webster). Modern complexity and technology only accelerate this interactive interdependence. In our study of collapse, we are interested in how the structure and dynamics of a system decline over time—how this "unified whole" decreases in scale, scope, or cohesion, and how the central axis of action of the system moves from the system itself to its constituent parts.
+
+If there is one central theme in the collapse literature, it is that there is notable disagreement about methodology of study, and even the meaning of the term "collapse" (Middleton 2013; Yoffee 2005; Yoffee and Cowgill 1988; Haldon et al. 2020). One area of debate is what exactly constitutes a collapse. Another debate, or criticism, revolves around how our historical view of collapse tends to be influenced by multiple cognitive biases—cultural bias, availability bias, confirmation bias, etc. Another critique is that speaking only of collapse introduces failure bias and ignores comparable scenarios where civilizations survived hardships and shocks and thereby conceals or ignores significant elements of robustness and resilience that are important to identify (Nicoll and Zerboni 2020). We have to also address 
+
+what
+
+ exactly collapses. One standard focus is the level of social complexity of a society (e.g., level of interdependence, control, or coordination) (Renfrew 1973; Tainter 1988). Another is the level of political control or simple performance measures, such as nutrition or life expectancy (van Zanden et al. 2014).
+
+We recognize that the term "collapse" is somewhat ambiguous with different definitions across academic disciplines. In this analysis we propose borrowing the usage of the term "collapse" from the literature on networks, systems, and complexity. In these fields, collapse refers to the disaggregation and breaking apart of a connected network. A collapsing complex system breaks down or fragments into smaller units requiring less order, complexity, coordination, and organization to function. The systemic dynamics are thus reduced on a macro scale. This view of collapse from complexity science is consistent with Joseph Tainter's view of sociopolitical collapse as "a rapid simplification, the loss of an established level of social, political, or economic complexity" (Tainter 1988; Tainter 2006). The best question for such network analyses may be: Has the system lost a significant part of its aggregate functionality (Hernández-Lemus and Siqueiros-García 2013)?
+
+In this type of analysis, what collapses is not necessarily an entire society or civilization, but instead the larger organizational framework (Yoffee 2005; Kauffman 1993). In other words, for many citizens of the society, life goes on, just not at the same level of complex interdependence. So, for example, while the complex systems of the Maya civilization collapsed, the late-classic Maya citystates decentralized and became smaller agglomerations of farmers, allowing elements of the Maya way of life to endure. Similarly, the radius of collapse may also differ such that the failure of some systemic elements does not imply the collapse of the entire 
+
+status quo ante
+
+. The Western Roman Empire became a collection of much smaller political units—with significantly fewer interactions between them—yet the Eastern portion maintained its structure and societal identity in a semblance of its former self for a further thousand years (Mango 2002).
+
+Within the collapse literature, there is discussion about the importance of the temporality or speed and timescale of collapse. While the "rapidity" of systemic simplification is an important element of many definitions, some scholars argue that collapse can also take place over longer timescales. Once a tipping point toward collapse is reached, the breakdown of that society's interconnectivity begins, whether it takes decades, as in Mycenaea, or centuries, as in the case of the Maya (Middleton 2017).1 Many of the systemic mechanisms we discuss in this chapter 
+
+are applicable to historical examples of disaggregation and fragmentation that take place over both short- and long-term periods, and we believe that insights from both of these timescales could be relevant to our modern times.
+
+Distinct from collapses, however, are 
+
+declines
+
+, which are inevitable in gradual cycles of rise and decline. The two may have very different causes. In distinguishing a collapse from a decline, most discussions of collapse focus on a dramatic event, moment, or tipping point when key indicators begin to mark social fragmentation and breakdown. For our purposes, we identify collapse as a clear inflection point followed by a significant and perceptible reduction in any combination of: (1) level of organization, (2) spatial reach, and (3) socioeconomic complexity of a system. (cf. Haldon et al. 2020, 1–3, 15). A collapse may mark the dramatic end of one system, creating the conditions for another system to form in its place.
+
+For a society's fragmentation to be relevant to our discussion of collapse, it must have significant long-term consequences or costs. That is, social collapse must involve the loss of basic structure or function, or at the very least a decline in critical measures such as nutrition, life expectancy, or peace. Ibn Khaldûn's term 
+
+asabiyyah
+
+, meaning "group feeling" or "social cohesion," might represent the antithesis of collapse. Interestingly, in 1377, Ibn Khaldûn wrote in his 
+
+Muqaddimah
+
+ that all social systems have collapse written into their structures and that the cycles of rise and decline may be inevitable (Ibn Khaldûn 2015).
+
+It is important to recognize that a society or civilization can experience a major crisis without experiencing a collapse. While the Global Financial Crisis of 2008 was a systemic shock with significant costs, it did not precipitate a collapse of the entire financial system (Coggan 2020, 338–347). The "Second 30 Years War" (1914–1945), however, did produce a collapse in the global, social, and political order (Ferguson 2006). This last example also serves as a reminder that one person's collapse may be another's opportunity; in the case of barbaric regimes, collapse is widely welcomed by the oppressed. Similarly, the collapse of nineteenth-century colonial empires might have been lamented in some parts of the world but celebrated in others. This phenomenon where some constituencies suffer from collapse while others benefit has guided civilizational history. Similarly, within evolutionary biology, a parallel dynamic of collapse and rise has determined the path dependency of life on Earth through cycles of species mass extinction and emergence 
+(Richter 2015). For example, perhaps the most dramatic collapse of all, caused by an asteroid 65 million years ago, was certainly a disaster for the dinosaurs, but it provided an ecological opening for mammals.2 Another perspective on collapse can be gained by analyzing collapse—and the systemic transformations that follow—more objectively and descriptively as ecological phenomena with niches disappearing and appearing. In ecological systems, for example, "collapse" or "release" is a critical phase of cyclical regeneration, which allows for new reorganization as different feedbacks and competition within the system allow for new systemic characteristics to emerge with regrowth (Gunderson and Holling 2002). While a forest fire is devastating for the 
+
+status quo ante
+
+, it creates opportunity for a new cycle of growth, making sunlight and nutrients available for the smaller organisms that seed the early phase of ecosystem cyclicality (Burkhard, Fath, and Müller 2011).
+
+1.5 Identifying The Causes Of Collapse
+
+Given the intractable complexity of many historical civilizational systems, it is often difficult to reach consensus on the causes of various collapses. Historian Alexander Demandt famously counted 210 different explanations given for the collapse of the Roman Empire (1984). Others argue that the Roman Empire never truly collapsed but instead fragmented and slowly faded away (Brown 1978).3 An influential explanation for the cause of collapse is Tainter's theory on diminishing returns on complexity, which argues that civilizations begin to fall once the benefits of their societal complexity are outweighed by the costs (Tainter 1988). More recently, environmental change has become a frequent explanation for the collapse of certain complex societies (Middleton 2017). As with any tragic denouement, it may be impossible to string together the various episodes, mistakes, and challenges that might have led to the loss of asabiyyah. Each observer might choose a different critical moment, decision, or causal variable that precipitated a downfall.4 Generally, we can distinguish between three broad categories of explanations for collapse: Purely exogenous, purely endogenous, and a combination of both exogenous and endogenous. Narratives of purely exogenous causality describe when a shock from outside a system is entirely responsible for its downfall. Volcanic eruptions, earthquakes, and sudden climate shifts have been devastating in human history and are often associated with collapse (Bostrom and Cirkovic 2008; Ord 2020). Similarly, much of history is the story of human invasion, conquest, and brutality; each of these would be viewed as an exogenous cause by the civilizations conquered. For example, conquest and colonization by those like Alexander the Great, Genghis Khan, or nations of Western Europe often meant the collapse of long-established civilizations in those conquered lands.
+
+By contrast, narratives of collapse that focus entirely on endogenous causes posit that some societal failures would happen regardless of outside forces or pressures. Like Gibbon's view on Rome, whose "stupendous fabric yielded to the pressure of its own weight," some societies have internal characteristics, which make them vulnerable to failure (1788). Viewing these societies as complex adaptive systems, we can see that these endogenous vulnerabilities are products of how the society is organized, governed, and complexly integrated. As a civilization advances in its growth phase, the structure and dynamics of critical underlying systems—economic production and trade, food and water, communications, and travel, among others—evolve into CAS as well. These CAS are interconnected and interdependent, forming systems-of-systems that weave this weighty fabric and can experience failure absent any precipitating exogenous shock. The most relevant causes of collapse may not be the specific factors that initiate the process, but rather the structure that allows perturbation and contagion to amplify through the system as in a chemical reaction. 
+
+Thus, collapse may not be precipitated by the failure of any single component, but instead by the unexpected dynamic interactions of countless nodes in a complex network. Instead of individual causes, we might better focus on the systemic mechanisms that escalate local challenges into existential crises that lead to collapse.
+
+Endogenous failures can originate from impracticalities of systemic scale and complexity or can have sociological or political origins. Systems can depend too much on a tightly knit and complex base, which cannot endure forever, or the society can lose the political authority or social cohesion required for its function. Other human elements that can generate endogenous fragilities include corruption, loss of legitimacy or trust, unsustainable inequality, shortsightedness driven by hyperbolic discounting, overuse of resources, misplaced faith in the reliability of advanced technologies, and an overemphasis on efficiency. Vulnerabilities can appear when a sclerotic bureaucracy and corrupt elite fail to properly maintain critical systems. Similarly, the inability of political authority to guarantee safety and security can lead to societal fragmentation, resulting in a loss of economies of scale—if not a complete breakdown of systems. Tainter's theory of decreasing returns on complexity is a prominent explanation for increasing endogenous fragility (1988). In other writing on endogenous elements of collapse, Peter Turchin identifies "principal components" of societal organization and dynamics that may explain crises and outcomes (2016).
+
+The third narrative of collapse puts the culpability for failure on some combination of both exogenous and endogenous elements. Here, an exogenous shockenvironmental, financial, military, epidemiological, 
+
+et cetera
+
+—stresses a society, its structures, and its systems beyond the breaking point. Exogenous explanations alone, while salient and dramatic, can neglect the importance of internal systemic characteristics that enabled, accelerated, or perpetuated the collapse. Depending on the internal systemic structure, an external shock, which might be easily survivable by one system, could be a death sentence for another. Thus, of greater relevance than the exogenous shock itself are the endogenous differences between the two systems that explain these disparate results. In this way, viewing collapse as simply the consequence of unlucky exogenous shocks makes for an unsatisfying account (Bailey 2011). In our highly engineered modern complex systems, these internal vulnerabilities are even more determinative to system survival. As these vulnerabilities are within our agency to influence, they are particularly worthy of our study. It may not be possible to avoid exogenous shocks from earthquakes, asteroids, droughts, or plagues, but with foresight and understanding, societal systems can be designed with greater resilience to withstand these shocks.
+
+1.6 Systemic Mechanisms Of Collapse
+
+Recognizing that endogenous systemic characteristics are critical to many explanations of collapse, we now turn toward systems theory and complexity science to identify mechanisms that can propagate systemic—and therefore societalfragmentation and failure. Just as all ecological and human-made systems share components and behaviors that allow for growth or development (Siskin 2016; Kauffman 2013), societies throughout history share common systemic structures that enabled their evolution. As a society develops, however, the systemic properties that were critical to its growth could provide the pathways for its rapid unraveling. Here, we explore some of these critical systemic mechanisms of collapse.
+
+1.6.1 Tipping Points
+
+Every complex social system contains thresholds beyond which social cohesion falls apart. These tipping points are the levels of tolerance within a system that, when exceeded, mark the rapid transition to a new state or equilibrium. For societies, this could be the moment when longstanding behaviors of individuals, groups, or the society as a whole suddenly have more drastic consequences than expected. This is a result of inertia, force, stress, or momentum building up that leads to a phase change, causing the system to transition into a different equilibrium structure or dynamics. Tipping points can serve as gateways of opportunity or pathways to failure (Milkoreit et al. 2018). Examples of tipping points with negative consequences include the proverbial final straw breaking a camel's back or a rubber band stretched beyond its breaking point: After a minor additional stress, it loses its functionality. An example of a tipping point that leads to greater systemic resilience is that of herd immunity—after a population reaches a certain threshold of immunity, the vectors of transmission become vanishingly small, effectively reducing the probability of further outbreak. The key in all instances is the persistence or irreversibility of the transformation (Dakos et al. 2019; Bentley et al. 2014).
+
+It may well be impossible to predict a tipping point, or even identify it post hoc, because it may be contextual—only becoming critical under certain circumstances. The most frequent examples of tipping points may be found at the start of wars where antagonism, fears, and perceived injustices lead to the creation of a spiral into violence. In Thucydides' account of the negotiations between Sparta and Athens, the debate in Corinth may be seen as the tipping point leading to the resolution of the Thucydides Trap (Robinson 2017). Or consider a doomsday weapon 
+
+à la Dr. Strangelove
+
+, established precisely as a public "red line," or "line in the sand," the crossing of which begins a chain reaction that cannot be stopped. Caesar's crossing of the Rubicon can be regarded as one such tipping point. Again, the central lesson from tipping points is that an apparently small perturbation can set off a series of events that leads to irreversible change, or in the worst scenario, collapse.
+
+1.6.2 Feedback Loops
+
+Stable social systems are fundamentally cooperative and reciprocal, with systemic dynamics that reinforce (or undermine) this social cohesion through feedback loops. These are structures that use the measure of output from a process to determine the subsequent input back into the beginning of the 
+
+cycle (Martin 1997). Feedback loops are critical to the nature and behavior of a system and can determine how the system responds to—and managesshocks. 
+
+Positive
+
+ feedback loops, for example, magnify systemic perturbations, while 
+
+negative
+
+ feedbacks work to dampen the impact of these shocks, leading to greater stability in the system (Miller and Page 2007, 50–52; Ashby 1956, 53–54; B. Walker and Salt 2006, 164). These feedback effects can have significant systemic consequences as positive loops drive change away from the current equilibrium toward new steady or stable states, while negative loops work to resist that change and reinforce the current steady state.
+
+When studying instances of historical collapse, it may be important to identify feedback loops, with either positive feedback loops causing a stable society to spiral into disorder, or negative feedback loops enabling a social system to absorb otherwise catastrophic shocks (Turchin 2005).
+
+Many incentive systems are forms of feedback loops: As a result of a certain level of performance, rewards or punishments are determined for the next round, in a game theoretic framework (Yang, Neal, and Abdollahian 2017). The human nervous system (Lessard 2009) is an example of a feedback loop where we are encouraged or discouraged from certain forms of behavior by signals of pleasure or pain. An important characteristic of feedback loops is the time lag that dictates the speed of the loop. In the case of the nervous system, the lag is relatively short, but in large and complex human or ecological systems, the lag can take up to years, generations, or even longer.
+
+Within social systems, social norms and institutionalized rules are forms of feedback loops, as they determine responses to individual actions. Certain feedback loops are critical to establishing stable equilibria. For example, in complex economic systems and markets, the relationship between supply, demand, and price may be seen as a constantly iterative loop of inputs and outputs, feeding back on each other to arrive at an equilibrium price and quantity. Similarly, in the struggle against chaos and entropy, an equilibrium of peace and prosperity in a civilization can be maintained through feedback loops driven by social norms.
+
+1.6.3 Contagions
+
+The COVID-19 pandemic made the phenomenon of contagion spreading through networks far too familiar, and highlighted the inexorable systemic risk inherent in globalization (Smil 2019). From a network science perspective, contagion involves the passing of objects, effects, or characteristics from one node to another, transmitted through contact or a systemic connection: A person may infect a group by coughing, someone shouting "Fire!" may lead to the spread of alarm or panic, or the failure of one part of a system may lead to malfunction elsewhere or even of the whole. Similar to tipping points and feedback loops, contagion might also be considered beneficial if the result is considered valuable. The "viral" diffusion of a new invention or technology can be an example of a beneficial contagion. The replication and propagation of information through memetics is an example of how ideas can spread within and between societies through the process of diffusion and contagion (Lynch 1996). While contagion of concepts and inventions can benefit society, risk of collapse can increase with the spread of ideas that undermine social order and social cohesion. In highly connected societies, the mechanism of contagion allows shocks that would otherwise be isolated to one sector or region to propagate and potentially lead to collapse.
+
+1.6.4 Cascades
+
+A cascade—or uncontrollable domino effect—might be best thought of as a combination of tipping points and contagion. When a node reaches a tipping point and fails, that failure can be transmitted to neighboring nodes through the links or connections in the system. This can trigger second-order failures, which can in-turn precipitate a sequence of breakdowns, causing an uncontrollable chain reaction, or cascade. As the regular dynamics of the system spiral out of control, the structure of a highly connected system can allow the cascade to increase exponentially in both speed and magnitude. In this way, complex systems can contain within them leverage that increases the magnitude of the failure at each step in the cascade (Rocha et al. 2018, Watts 2002, Buldyrev et al. 2010).
+
+Perhaps the best-known cascading failures in our modern systems are within highly coupled energy infrastructures. Widespread blackouts, for example, often involve a domino effect of overloaded electrical infrastructure as transformers and transmission lines begin to fail (Korkali et al. 2017). In political systems, the assassination of Franz Ferdinand in 1914 is perhaps the most infamous instance in modern history of a cascading failure. Interdependent nations tightly coupled through alliances designed to increase geopolitical systemic resilience created pathways and dynamics for a cataclysmic cascading failure. One domino fell and ultimately led to a world-transforming global conflict (Clark 2014).
+
+1.6.5 Synchronous Failures
+
+While complex systems may be designed to survive individual localized failures, a certain number of such failures occurring simultaneously could overwhelm any system. Such a "perfect storm" of events is considered a synchronous failure. Probability theory dictates that random events will eventually occur simultaneously, or at least in close proximity of time or location. This clustering of failures, or the simultaneous and synergistic interaction of several failures, may result in a challenge unimagined by designers, and for which the system is not prepared (Homer-Dixon et al. 2015).
+
+Charles Perrow's concept of a "normal accident" illustrates how such an apparently innocuous confluence of events can lead to catastrophe (Perrow 
+
+1984). In tightly coupled and complex systems, two apparently unrelated events can lead to a disastrous outcome. Natural disasters are particularly dangerous because they often precipitate the simultaneous failure of various social systems. The response to the failure of one part of a system might then lead to a strain in another part that leads to systemic breakdown.
+
+Synchronous failures are particularly threatening because no individual or society can prepare for the infinite number of disastrous combinations and consequences (West 2017). We might be able to create mechanisms to deal with individual problems, but in the face of multiple failures, resources may be taxed beyond their limits. In the case of complex systems, the interaction of failures may lead to consequences not expected from each failure in isolation. Invaded societies weakened by novel pathogens found themselves fighting two battles instead of one. While either invasion or pandemic may have been manageable shocks on their own, the confluence of both could serve as a 
+
+coup de grâce
+
+.
+
+1.6.6 Cycles
+
+The notion of civilizational or biological cycles is central to behavioral and natural sciences. The organic cycle of growth and decay is one that dominates our planet (Walker, Packard, and Cody 2017). Death and decomposition make new biological life possible, and within the "adaptive cycle," a systemic collapse can provide opportunity for a new type of ecosystem to take root (Gunderson and Holling 2002). For over a half-century, economic policy has been guided by attempts to regulate the cyclical nature of inflation and unemployment, booms, and busts. The central notion of Keynesianism is to avoid the deep troughs of the cycle through monetary and fiscal intervention (Skidelsky 2018). Many civilizations have experienced secular cycles of expansion, stagflation, crisis, and depression (Turchin and Nefedov 2009). Ecological systems experience oscillating cycles of population growth and decline based on factors such as predator–prey dynamics (Volterra 1928). Similarly, climate systems experience natural cycles through the activity of sunspots and astronomical interactions, resulting in temperature fluctuations and drought. These cycles in environmental systems can be catastrophic for civilizations that are unexpectedly deprived of food or water (Parker 2013).
+
+Many societies, such as the Mexica, organized their lives in accordance with a calendar of rise and decline (Boone 2007). Cultures and religions have embraced the notion of reincarnation reflecting their faith in the inevitability of the cycle of life, death, and rebirth. Since at least the Enlightenment—or even the Renaissance—European and associated societies have sought to escape the inevitability of cyclicality and have constructed the expectation of linear progress. While this aspirational desire to transcend cyclicality may facilitate economic and social dynamism (Sweezy 1943), it also makes cyclical decline unexpected and threatening. 
+
+Cyclicality implies a natural rise and inevitable fall; understanding this universality should inspire a humility that every civilization could—at any moment—be at its apex. Much like Shelley's 
+
+Ozymandias
+
+, even the mightiest civilizations that expected to prosper eternally ultimately transformed, declined, or collapsed (Shelley 1818).
+
+1.7 Robustness And Resilience
+
+The limits of systems will inevitably be tested through exogenous shocks, endogenous characteristics, and emergent properties that threaten failure. The concepts of robustness and resilience have migrated from engineering and ecology into all disciplines in which systems are studied. These concepts describe how vulnerabilities caused by the aforementioned systemic mechanisms can be prevented, and systemic fragilities can be mitigated (Evans and Reid 2013; Levin and Lubchenco 2008). Robustness often refers to the capacity of any system—a human body, a city, a tropical forest, or even a civilization—to withstand shocks and disruptions (Walker and Cooper 2011). Resilience often describes the ability of a system to be flexible and adaptable in order to survive and recover after a brief failure.5 For example, a robust city could have levees to keep floodwaters at bay, while a resilient one would have infrastructure in place to quickly rebuild after a disaster. A robustness approach to regulation might focus on preventing failures in our logistical, economic, infrastructural, or epidemiological systems, while a resilience approach might design triage protocols, contingencies, and recovery plans to mitigate the damage and accelerate the return to normal operation.
+
+In the design or engineering of systems, robustness and resilience are often in tension and represent a series of tradeoffs: While it is best to be both strong and adaptable, physical realities often force the prioritization of one over the other. Building each requires significant resources, and both cannot be maximized. The ideal systemic design or evolution will weigh, balance, and combine these two qualities to achieve a "golden mean" depending on preferences and contexts. It is in these tradeoffs and balances that we find challenging policy dilemmas.
+
+Systemic resilience and robustness are "public goods" that are eroded by a lack of fiduciary planning and maintenance. This erosion leads to fragilities in the system, making collapse through endogenous mechanisms more likely. One short-sighted behavior creating systemic fragility is the focus on ever-increasing efficiency, where cost savings and just-in-time management have replaced redundancy, slack, and reserves. Such overemphasis on efficiency creates greater systemic interdependence of nodes in a network through increased reliance on suppliers, making modern systems more fragile and susceptible to collapse. Other oversights of fiduciary planning can give rise to negative externalities, such as in the "tragedy of the commons" where short-run self-interest—rather than coordination and cooperationcan lead to systemic failure (Hardin 1968).
+
+Another example of short-term optimization that threatens robustness and resilience occurs when decision-makers within systems focus primarily on their relationships with those to whom they are immediately connected, neglecting to consider the inherent endogenous systemic risks beyond the control of any one participant. An example from the financial system occurs when each participant verifies the credit-worthiness of just their own trading partners and counterparties, ignoring the reality that other more distant members of the network could fail, causing an unavoidable chain reaction of contagion—such as a bank run—to propagate through the system 
+(Gorton and Metrick 2012).
+
+Governance strategies should include an awareness of the mechanisms of collapse and the managerial failures that threaten the viability of our modern systems. Though they come at the cost of efficiency, systemic features like reserves, redundancies, contingencies, and diversification can bolster resilience and robustness, and reduce over-dependence on heavily trafficked choke points or "too big to fail" trading partners. Similarly, design elements that act like firewalls or circuit breakers within a system can counteract system dynamics that would otherwise lead to collapse. Resilience and robustness can be prioritized through regulations and standards that incentivize more prudent—if less efficient—systemic organization.
+
+1.8 Conclusion
+
+Globalization at an ever-increasing scale and level of complexity is a modern tale of hubris. Building increasingly technologically advanced, interconnected, and interdependent systems without an awareness of the risky mechanisms inherent in their design will inexorably lead to endogenous failures and potential collapse. These risks of globalization have brought us to our study of systemic risk, and to our interest in learning insights about systemic collapse from history.
+
+At first glance, one may find few similarities between ancient civilizations and our modern globalized present. When we see these civilizations as complex adaptive systems, however, we can begin to recognize patterns, structures, and dynamics that have remained consistent through the centuries. Mechanisms like tipping points, feedback loops, contagions, cascades, synchronous failures, and cycles that can be responsible for systemic collapse are fundamental characteristics of any complex adaptive system, and can therefore serve as a useful common denominator from which to examine collapses through the ages. We offer this systemic framework for the study of historical collapse with the belief that these common mechanisms will help illuminate and expose relevant vulnerabilities in historical systems. In the end, our hope is that we may learn from past societies and civilizations and allow our modern systems to benefit from lessons of systemic failure that historians may share with us. As the weight of our modern civilizational fabric grows, and as the strains increase, we believe these insights could inform how we see our own systemic vulnerabilities and help to build a more robust and resilient future.
+
+Notes
+
+This chapter is a continuation in our study of historical systemic collapse, with earlier analysis published in Izdebski, Haldon, and Filipkowski (2022: 59–74).
+
+1 Guy Middleton hints at this debate in his book Understanding Collapse: Ancient History and Modern Myths, saying "the Mycenaean collapse was fairly rapid, taking place probably over a few decades, whereas the Maya collapse took place over as much as three centuries, which has led to some wondering why it is termed a collapse at all" (Middleton 2017, 342)
+2 Among some scholars, there remains some discomfort with the asteroid theory, with others focusing on the volcanic activity in the Deccan Plateau (Keller, Sahni, and Bajpai 2009).
+
+3 A similar argument has flared concerning the Meghalayan Age beginning around 2200 BC with disputes about the extent of global civilizational collapse (Middleton 2018).
+
+4 For an excellent overview of the literature on causes of collapse, see Haldon et al. 2020. 5 As a note on usage, the terms robustness and resilience are often defined differently in different fields, such as ecology and engineering. While engineering often separates robustness and resilience into two distinct concepts, scholars within ecology often combine the meanings of both robustness and resilience into the term "resilience" (Bak 1996; West 2017; Barabási 2016; Holme 2019; Broido and Clauset 2019). In this chapter, we adopt the engineering perspective in our analysis here to reflect the human agency involved in constructing elements of robustness and resilience in human-made systems upon which civilizations rely.
+
+References
+
+Altman, Steven A. 2020. Will Covid-19 Have a Lasting Impact on Globalization? Harvard Business Review, May 20, 2020.
+
+Ashby, W. Ross. 1961. 
+
+An Introduction to Cybernetics
+
+. First edition. London: Chapman & 
+Hall, Ltd.
+
+Bailey, Mark. 2011. Risk and Natural Catastrophes: The Long View. In 
+
+Risk
+
+, edited by Layla Skinns, Michael Scott, and Tony Cox, 131–158. New York: Cambridge University Press.
+
+Bak, Per. 1996. 
+
+How Nature Works: The Science of Self-Organized Criticality
+
+. First edition. 
+
+New York: Springer-Copernicus.
+
+Barabási, Albert-László. 2002. 
+
+Linked: The New Science of Networks Science of Networks
+
+. First edition. Cambridge, MA: Perseus Books Group.
+
+———. 2016. 
+
+Network Science
+
+. First edition. Cambridge: Cambridge University Press. Bentley, R. A., Eleanor J. Maddison, P. H. Ranner, John Bissell, Camila C. S. Caiado, Pojanath Bhatanacharoen, Timothy Clark, et al. 2014. Social Tipping Points and Earth Systems Dynamics. 
+
+Frontiers in Environmental Science
+
+ 2: 35.
+
+Birley, A. R. 2000. Hadrian to the Antonines. In The Cambridge Ancient History, Volume 11: The High Empire, A.D. 70–192, edited by Alan K. Bowman, Dominic Rathbone, and Peter Garnsey, Second edition, 11: 132–94. The Cambridge Ancient History. Cambridge: Cambridge University Press.
+
+Boone, Elizabeth Hill. 2007. 
+
+Cycles of Time and Meaning in the Mexican Books of Fate
+
+. 
+
+Illustrated edition. Austin, TX: University of Texas Press.
+
+Bostrom, Nick, and Milan M. ĆirkoviĆ, eds. 2008. 
+
+Global Catastrophic Risks
+
+. First edition. 
+
+Oxford: Oxford University Press.
+
+Brauer, Daniel. 2018. Theory and Practice of Historical Writing in Times of Globalization. 
+
+In 
+
+Philosophy of Globalization
+
+, edited by Concha Roldán, Daniel Brauer, and Johannes Rohbeck, 397–408. Boston, MA: Walter de Gruyter.
+
+Brown, Peter. 1978. 
+
+The Making of Late Antiquity
+
+. First edition. Cambridge, MA: Harvard University Press.
+
+Buldyrev, Sergey V., Roni Parshani, Gerald Paul, H. Eugene Stanley, and Shlomo Havlin. 2010. 
+
+Catastrophic Cascade of Failures in Interdependent Networks. 
+
+Nature
+
+ 464(7291): 1025–8.
+
+Burkhard, Benjamin, Brian D. Fath, and Felix Müller. 2011. Adapting the Adaptive Cycle: 
+Hypotheses on the Development of Ecosystem Properties and Services. Ecological Modelling 222(16): 2878–90.
+
+Cambridge Centre for Risk Studies. 2019. Cambridge Global Risk Index 2019: Executive Summary. Cambridge: Cambridge Centre for Risk Studies.
+
+Centeno, Miguel A., Manish Nag, Thayer S. Patterson, Andrew Shaver, and A. Jason Windawi. 2015. The Emergence of Global Systemic Risk. 
+
+Annual Review of Sociology
+
+ 41(1): 65–85.
+
+Centeno, Miguel, Peter Callahan, and Thayer Patterson. 2015. 
+
+Systemic Risk in Global
+
+ Agriculture: Conference Report. Princeton, NJ: Princeton PIIRS Global Systemic Risk & Columbia Agriculture and Food Security Center.
+
+Clark, Christopher. 2013. 
+
+The Sleepwalkers: How Europe Went to War in 1914
+
+. First edition. 
+
+New York: Harper.
+
+Coggan, Philip. 2020. 
+
+More: The 10,000-Year Rise of the World Economy
+
+. First edition. 
+
+London: Economist Books.
+
+Crucitti, Paolo, Vito Latora, and Massimo Marchiori. 2004. Model for Cascading Failures in Complex Networks. 
+
+Physical Review: Part E
+
+ 69(4): 045104.
+
+Dakos, Vasilis, Blake Matthews, Andrew P. Hendry, Jonathan Levine, Nicolas Loeuille, Jon Norberg, Patrik Nosil, Marten Scheffer, and Luc De Meester. 2019. Ecosystem Tipping Points in an Evolving World. 
+
+Nature Ecology and Evolution
+
+ 3(3): 355–62.
+
+Danku, Zsuzsa, Matjaž Perc, and Attila Szolnoki. 2019. Knowing the Past Improves Cooperation in the Future. 
+
+Scientific Reports
+
+ 9(1): 262.
+
+Demandt, Alexander. 1984. Der Fall Roms: Die Auflösung des Römischen Reiches Im Urteil der Nachwelt (The Fall of Rome). First edition. Munich: C.H. Beck.
+
+Epstein, Joshua M. 2009. Modelling to Contain Pandemics. 
+
+Nature
+
+ 460(7256): 687. Evans, Bradley, and Julian Reid. 2013. Dangerously Exposed: The Life and Death of the Resilient Subject. 
+
+Resilience: International Policies, Practices and Discourses
+
+ 1(2): 83–98.
+
+Ferguson, Niall. 2006. 
+
+The War of the World: History's Age of Hatred
+
+. First edition. London: 
+Penguin.
+
+Foreman-Peck, James. 2007. European Historical Economics and Globalisation. Journal of Philosophical Economics 1(1): 23–53.
+
+Gibbon, Edward. 1788. 
+
+The Decline and Fall of the Roman Empire
+
+. London: A. Strahan and T. Cadell.
+
+Gleick, James. 2011. 
+
+The Information: A History, a Theory, a Flood
+
+. First edition. New York: 
+Pantheon.
+
+Gorton, Gary B., and Andrew Metrick. 2012. Securitized Banking and the Run on Repo. 
+
+Journal of Financial Economics 104(3): 425–51.
+
+Greber, Jacob. 2022. Does Ukraine Crystallise the Reality That Globalisation Is Dead? 
+
+Australian Financial Review, March 4, 2022, Section: Politics.
+
+Gunderson, Lance H., and C. S. Holling, eds. 2002. 
+
+Panarchy: Understanding Transformations
+
+ in Human and Natural Systems. Washington, DC: Island Press.
+
+Haldon, John, Arlen F. Chase, Warren Eastwood, Martín Medina-Elizalde, Adam Izdebski, Francis Ludlow, Guy Middleton, Lee Mordechai, Jason Nesbitt, and B. L. Turner. 2020. Demystifying Collapse: Climate, Environment, and Social Agency in Pre-modern Societies. 
+
+Millennium
+
+ 17(1): 1–33.
+
+Hardin, Garrett. 1968. The Tragedy of the Commons. 
+
+Science
+
+ 162(3859): 1243–8. Helbing, Dirk. 2009. Managing Complexity in Socio-economic Systems. 
+
+European Review
+
+ 17(2): 423–38.
+
+Hernández-Lemus, Enrique, and Jesús Siqueiros-García. 2013. Information Theoretical Methods for Complex Network Structure Reconstruction. Complex Adaptive Systems Modeling 1(1): 1–22.
+
+Holme, Petter. 2019. Rare and Everywhere: Perspectives on Scale-Free Networks. 
+
+Nature
+
+ Communications 10(1): 1016.
+
+Holovatch, Yurij, Ralph Kenna, and Stefan Thurner. 2017. Complex Systems: Physics beyond Physics. 
+
+European Journal of Physics
+
+ 38(2): 023002.
+
+Homer-Dixon, Thomas, Brian Walker, Reinette Biggs, Anne-Sophie Crépin, Carl Folke, Eric F. Lambin, Garry D. Peterson, et al. 2015. Synchronous Failure: The Emerging Causal Architecture of Global Crisis. 
+
+Ecology and Society
+
+ 20(3): 6.
+
+Ibrahim, Sherwat E., Miguel A. Centeno, Thayer S. Patterson, and Peter W. Callahan. 
+
+Resilience in Global Value Chains: A Systemic Risk Approach. 
+
+Global Perspectives
+
+ 2(1): 27658.
+
+Izdebski, Adam, John Haldon, and Piotr Filipkowski. 2022. 
+
+Perspectives on Public Policy in
+
+ Societal-Environmental Crises: What the Future Needs from History. Cham, Switzerland: Springer.
+
+Kannisto, Väinö, Jens Lauritsen, A. Roger Thatcher, and James W. Vaupel. 1994. 
+
+Reductions in Mortality at Advanced Ages: Several Decades of Evidence from 27 Countries. 
+
+Population and Development Review
+
+ 20(4): 793–810.
+
+Kauffman, Stuart A. 1993. 
+
+The Origins of Order: Self-Organization and Selection in Evolution
+
+. 
+
+First edition. New York: Oxford University Press.
+
+———. 2013. Evolution beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere. In 
+
+Complexity and the Arrow of Time
+
+, edited by Charles H. Lineweaver, Paul C. W. Davies, and Michael Ruse, 1–24. Cambridge: Cambridge University Press.
+
+Keller, G., A. Sahni, and S. Bajpai. 2009. Deccan Volcanism, the KT Mass Extinction and Dinosaurs. 
+
+Journal of Biosciences
+
+ 34(5): 709–28.
+
+Kelly, Walt. 1972. 
+
+Pogo: We Have Met the Enemy and He Is Us
+
+. First edition. New York: 
+Simon & Schuster.
+
+Korkali, Mert, Jason G. Veneman, Brian F. Tivnan, James P. Bagrow, and Paul D. H. 
+
+Hines. 2017. Reducing Cascading Failure Risk by Increasing Infrastructure Network Interdependence. 
+
+Scientific Reports
+
+ 7(1): 44499.
+
+Ledwoch, Anna, Alexandra Brintrup, Jörn Mehnen, and Ashutosh Tiwari. 2018. 
+
+Systemic Risk Assessment in Complex Supply Networks. 
+
+IEEE Systems Journal
+
+ 12(2): 1826–37.
+
+Lessard, Charles S. 2009. 
+
+Basic Feedback Controls in Biomedicine
+
+. First edition. San Rafael, CA: 
+Morgan and Claypool Publishers.
+
+Levin, Simon A., and Jane Lubchenco. 2008. Resilience, Robustness, and Marine Ecosystem-Based Management. 
+
+BioScience
+
+ 58(1): 27–32.
+
+Lynch, Aaron. 1996. 
+
+Thought Contagion: How Belief Spreads Through Society - The New Science
+
+ of Memes. New York: Basic Books.
+
+Mango, Cyril, ed. 2002. 
+
+The Oxford History of Byzantium
+
+. New York: Oxford University Press.
+
+Manheim, David. 2020. The Fragile World Hypothesis: Complexity, Fragility, and Systemic Existential Risk. 
+
+Futures
+
+ 122: 102570.
+
+Martin, Leslie A. 1997. 
+
+An Introduction to Feedback
+
+. White Paper: D-4691. Cambridge, MA: 
+Massachusetts Institute of Technology.
+
+Meyer, Patrick, and Gregory Ponthiere. 2020. Human Lifetime Entropy in a Historical Perspective (1750–2014). 
+
+Cliometrica
+
+ 14(1): 129–67.
+
+Middleton, Guy D. 2013. That Old Devil Called Collapse. 
+
+E-International Relations
+
+ (blog). 
+
+February 6, 2013.
+
+———. 2017. 
+
+Understanding Collapse: Ancient History and Modern Myths
+
+. New York: 
+Cambridge University Press.
+
+———. 2018. Bang or Whimper? 
+
+Science
+
+ 361(6408): 1204–5.
+
+Milkoreit, Manjana, Jennifer Hodbod, Jacopo Baggio, Karina Benessaiah, Rafael CalderónContreras, Jonathan F. Donges, Jean Denis Mathias, Juan Carlos Rocha, Michael Schoon, and Saskia E. Werners. 2018. Defining Tipping Points for Social-Ecological Systems Scholarship: An Interdisciplinary Literature Review. 
+
+Environmental Research
+
+ Letters 13(3): 033005.
+
+Miller, John H., and Scott Page. 2007. Complex Adaptive Systems: An Introduction to Computational Models of Social Life. Princeton, NJ: Princeton University Press.
+
+Nicoll, Kathleen, and Andrea Zerboni. 2020. Is the Past Key to the Present? Observations of Cultural Continuity and Resilience Reconstructed from Geoarchaeological Records. Quaternary International, ArchaeoLife and Environment, 545: 119–27.
+
+Nuzzo, Jennifer B., Lucia Mullen, Michael Snyder, Anita Cicero, and Thomas V. Inglesby. 
+
+Preparedness for a High-Impact Respiratory Pathogen Pandemic
+
+. Baltimore: The Johns Hopkins Center for Health Security.
+
+Nyström, Magnus, J.-B. Jouffray, Albert V. Norström, Beatrice Crona, Peter Søgaard Jørgensen, Stephen R. Carpenter, Örjan Bodin, Victor Galaz, and Carl Folke. 2019. Anatomy and Resilience of the Global Production Ecosystem. 
+
+Nature
+
+ 575(7781): 98–108.
+
+Oeppen, Jim, and James W. Vaupel. 2002. Broken Limits to Life Expectancy. 
+
+Science
+
+ 296(5570): 1029–31.
+
+Ord, Toby. 2020. 
+
+The Precipice: Existential Risk and the Future of Humanity
+
+. Hachette Books. Oughton, Edward, Will Usher, Peter Tyler, and Jim W. Hall. 2018. Infrastructure as a Complex Adaptive System. 
+
+Complexity
+
+ 2018: 3427826.
+
+Parker, Geoffrey. 2013. Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century. New Haven, CT: Yale University Press.
+
+Pastor-Satorras, Romualdo, Claudio Castellano, Piet Van Mieghem, and Alessandro Vespignani. 2015. Epidemic Processes in Complex Networks. 
+
+Reviews of Modern Physics
+
+ 87(3): 925–79.
+
+Perrow, Charles. 1984. 
+
+Normal Accidents: Living with High-Risk Technologies
+
+. New York: 
+Basic Books.
+
+Renfrew, Colin. 1973. 
+
+Explanation of Culture Change: Models in Prehistory
+
+. Pittsburgh, PA: 
+University of Pittsburgh Press.
+
+Richter, Vivian. 2015. The Big Five Mass Extinctions: Mass Extinctions Where More Than 75% of the Species Disappear. 
+
+COSMOS
+
+, July 6, 2015.
+
+Roberts, Adam. 2020. 
+
+It's the End of the World: But What Are We Really Afraid of?
+
+ London: 
+Elliott & Thompson.
+
+Robinson, Eric W. 2017. Thucydides on the Causes and Outbreak of the Peloponnesian War. In 
+
+The Oxford Handbook of Thucydides
+
+, edited by Ryan K. Balot, Sara Forsdyke, and Edith Foster. New York: Oxford University Press.
+
+Rocha, Juan C., Garry Peterson, Örjan Bodin, and Simon Levin. 2018. Cascading Regime Shifts within and across Scales. 
+
+Science
+
+ 362(6421): 1379–83.
+
+Roser, Max, Esteban Ortiz-Ospina, and Hannah Ritchie. 2013. Life Expectancy. 
+
+Our World
+
+ in Data, May 23, 2013.
+
+Shelley, Percy Bysshe. 1818. Ozymandias. 
+
+The Examiner
+
+, London. January 11, 1818. Siskin, Clifford. 2016. 
+
+System: The Shaping of Modern Knowledge
+
+. First edition. Cambridge, MA: The MIT Press.
+
+Skidelsky, Robert. 2018. 
+
+Money and Government: The Past and Future of Economics
+
+. New Haven, CT: Yale University Press.
+
+Smil, Vaclav. 2019. 
+
+Growth: From Microorganisms to Megacities
+
+. First edition. Cambridge, MA: 
+The MIT Press.
+
+Sweezy, Paul M. 1943. Professor Schumpeter's Theory of Innovation. The Review of Economics and Statistics 25(1): 93–6.
+
+Tainter, Joseph A. 1988. 
+
+The Collapse of Complex Societies
+
+. First edition. Cambridge: 
+Cambridge University Press.
+
+———. 2006. Social Complexity and Sustainability. 
+
+Ecological Complexity
+
+ 3(2): 91–103. Taleb, Nassim Nicholas. 2007. 
+
+The Black Swan: The Impact of the Highly Improbable
+
+. Annotated edition. New York: Random House.
+
+———. 2012. 
+
+Antifragile: Things That Gain from Disorder
+
+. First edition. Random House. Turchin, Peter. 2005. Dynamical Feedbacks between Population Growth and Sociopolitical Instability in Agrarian States. 
+
+Structure and Dynamics
+
+ 1(1).
+
+———. 2016. 
+
+Ages of Discord: A Structural-Demographic Analysis of American History
+
+. Chaplin, CT: Beresta Books.
+
+Turchin, Peter, and Sergey A. Nefedov. 2009. 
+
+Secular Cycles
+
+. Princeton, NJ: Princeton University Press.
+
+van Zanden, Jan Luiten, Joerg Baten, Marco Mira d'Ercole, Auke Rijpma, Conal Smith, and Marcel Timmer, eds. 2014. 
+
+How Was Life?: Global Well-Being since 1820
+
+. Paris: Organisation for Economic Co-operation & Development Publishing.
+
+Vespignani, Alessandro. 2010. The Fragility of Interdependency. 
+
+Nature
+
+ 464(7291): 984–5. Volterra, Vito. 1928. Variations and Fluctuations of the Number of Individuals in Animal Species Living Together. 
+
+ICES Journal of Marine Science
+
+ 3(1): 3–51.
+
+Walker, Brian, and David Salt. 2006. Resilience Thinking: Sustaining Ecosystems and People in a Changing World. Washington, DC: Island Press.
+
+Walker, Jeremy, and Melinda Cooper. 2011. Genealogies of Resilience: From Systems Ecology to the Political Economy of Crisis Adaptation. 
+
+Security Dialogue
+
+ 42(2): 143–60.
+
+Walker, Sara I., N. Packard, and G. D. Cody. 2017. Re-conceptualizing the Origins of Life. 
+
+Philosophical Transactions of the Royal Society, Series A: Mathematical, Physical and
+
+ Engineering Sciences 375(2109): 20160337.
+
+Watts, Duncan J. 2002. A Simple Model of Global Cascades on Random Networks. 
+
+Proceedings of the National Academy of Sciences of the United States of America 99(9): 5766–71.
+
+West, Geoffrey. 2017. Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies. First edition. New York: 
+Penguin Press.
+
+Wildavsky, Aaron, and Karl Dake. 1990. Theories of Risk Perception: Who Fears What and Why? 
+
+Dædalus
+
+ 119(4): 41–60.
+
+Yang, Zining, Neal Patrick deWerk, and Mark Abdollahian. 2017. When Feedback Loops Collide: A Complex Adaptive Systems Approach to Modeling Human and Nature Dynamics. In 
+
+Advances in Applied Digital Human Modeling and Simulation
+
+, edited by Vincent G. Duffy, 317–27. Cham, Switzerland: Springer.
+
+Yoffee, Norman. 2005. Myths of the Archaic State: Evolution of the Earliest Cities, States, and Civilizations. New York: Cambridge University Press.
+
+Yoffee, Norman, and George L. Cowgill, eds. 1988. 
+
+The Collapse of Ancient States and
+
+ Civilizations. First edition. Tucson: University of Arizona Press.
+
+2 How Scholars Explain Collapse
+
+Joseph A. Tainter
+
+Joseph A. Tainter How Scholars Explain Collapse 10.4324/9781003331384-4 2 2.1 Collapse Explanations In Historical Perspective
+
+Archaeology and history have long been uncertain about how to understand collapses. These disciplines have predominantly had a progressivist narrative. Archaeologists and historians are socialized members of complex societies. We have been raised in the ideology of modern industrial societies, which emphasizes progress. So we write about how our ancestors tamed fire, developed agriculture, invented the wheel and writing, established metallurgy and cities, and created states all the while improving human life. Much of this narrative resembles what anthropologists term ancestor myths. Ancestor myths validate a contemporary social order by presenting it as a natural, and sometimes heroic, progression from a simpler and less desirable past to the idealized way that we live today. Within this narrative, collapses and dark ages have presented troubling contradictions to the story of humanity's continual progress. If the arc of history leads to inexorable improvement of the human condition, how could that trajectory ever be interrupted? Equally troubling, if collapses happened in the past, could one happen again?
+
+It is difficult to pinpoint when collapse studies began. Much depends on how one defines the term. It is common to look to Edward Gibbon's 
+
+The Decline
+
+ and Fall of the Roman Empire (1776–1788) as the progenitor of modern collapse literature. Gibbon considered the ends of both the Western and Eastern Roman empires. He thereby subsumed two different historical processes—loss of political unity and overall simplification in the West versus replacement of one empire with another in the East—under the single term "decline and fall." This problem of terminology gives an early hint of why collapse has been so difficult to explain. Another hint is given by what may be Gibbon's greatest insight: The wonder is not that Rome fell, he repeatedly wrote, but that it lasted so long. Such an institution, Gibbon thought, was intrinsically impermanent.
+
+Other authors in Gibbon's era addressed decline and fall. C. F. Volney ascribed collapse to greed and class conflict. As a result of greed and class conflict, he wrote:
+a holy indolence spread over the political world; the fields were deserted, empires depopulated, monuments neglected and deserts multiplied; 
+
+Doi: 10.4324/9781003331384-4
+
+ignorance, superstition and fanaticism combining their operations, overwhelmed the earth with devastation and ruin.
+
+(Volney 1793: 51)
+Charles-Louis Montesquieu advanced an argument based on morality: Roman power derived from Roman virtue, which declined when the Romans advanced beyond Italy (1968).
+
+The great Arab historian Ibn Khaldun, in the fourteenth century, continued the ancient tradition of considering history to be cyclical (1958 [original 1377–1381]). Dynasties, he thought, have a natural life span like individuals. In the course of dynastic succession, rulers become ever more addicted to luxuries and security. Taxes are raised to pay for these. Whereas at the beginning of a dynasty large revenues are received from small assessments, at the end of a dynasty this situation is reversed. When taxes are low, the population is more productive and the tax yield is greater. Yet as the dynasty evolves, increased spending on luxuries leads to higher taxes. Eventually taxes become so burdensome that productivity first declines, and then is stifled. As more taxes are enacted to counter this, the point is finally reached where the polity is destroyed by desert nomads.
+
+The greatest cyclical theorist was the Greek historian Polybius. In the second century BC, he predicted the fall of the Roman Empire some 600 years before it actually happened. Societies, to ancient historians like Polybius, develop like the biological cycle through growth, maturity, senescence, and death. It was thus no challenge to predict that Rome would eventually fall.
+
+The biological analogy of societal evolution was common in the ancient world. It appears in Plato's 
+
+Laws
+
+, no doubt based on long-established thinking. Although long in disrepute, cyclical theory has been resurrected recently by the population biologist Peter Turchin (2003), who bases his approach on Ibn Khaldun. C. S. Holling's Resilience Theory (e.g., 2001) is a nuanced update to cyclical theory. In Resilience Theory, the basic model derives from forest succession rather than from the growth and death of organisms.
+
+Norman Yoffee (1988) has pointed to early Mesopotamian literature that may be the earliest surviving ancestral explanation of collapse. In considering the fall of Sargon of Akkad and of the Third Dynasty of Ur, the decline of empires was ascribed by Mesopotamian writers to the impiousness of rulers, and to marauding enemies sent by the gods as punishment. Cities flourish under good kings but suffer under impious ones. This gives 3,000 years of ancestry to writings about collapse and related processes.
+
+Shortly later we find literature in China ascribing the problems of the Western Chou dynasty (1122–771 BC) to a similar cause: the failure of rulers. This is expressed in the poem 
+
+Shao-min
+
+:
+Compassionate Heaven is arrayed in anger Heaven is indeed sending down rain, Afflicting us with famine, So that the people are all wandering fugitives; In the settled regions and on the border all is desolation. Heaven sends down its web of crime; Devouring insects weary and confuse men's minds, Ignorant, oppressive, negligent, Breeders of confusion, utterly perverse; These are the men employed to tranquilize our country.
+
+… Oh! Alas! Among the men of the present day, Are there not still some with the old virtue?
+
+(Hsu and Linduff 1988: 283–284)
+Collapse theories often express ideals and criticisms of the social world (Carr 1961: 37). These theories are influenced by, and sometimes attempt to influence, contemporary social issues. During the tumultuous eighteenth century, for example, Giambattista Vico (Bergin and Fisch 1948) and C. F. Volney (1793)) attributed collapse to factionalism and conflict, while Gibbon (1776– 1788) saw in the Roman collapse a failure of leadership. In the aftermath of World War I, the German Spengler foresaw the decline of the West (1962 
+[original 1918, 1922]), while the expatriate academic Rostovtzeff (1926) perceived in the Roman collapse a foretaste of the Russian Revolution. The moral uncertainty of the twentieth century influenced Toynbee's (1962) emphasis on internal discord in spiritual values. Many writers today link collapse to environmental resources, with failure brought on by anthropogenic degradation, climate change, or a combination of factors including these. Where the explanation focuses on environmental damage a collapse is like a Greek tragedy: 
+The protagonist brings on self-destruction. The message of this literature is that tragedy is avoidable with foresight and moral behavior.
+
+There are many strands in collapse theories, strands that persist through the centuries and millennia of collapse literature (Tainter 1988). While these strands do seem to persist, they wax and wane in popularity. Since collapse is commonly seen as a failure, someone must be responsible. A theme common among earlier writers is that an individual or group did not rule properly or fulfill a responsibility, and so an empire fell or a dynasty perished. Usually the failure is attributed to the paramount ruler. Ibn Khaldun's (1958 [original 1377–1381]) theory of cyclical dynastic succession in medieval North Africa is a classic of this genre. The causal force in this framework, as noted, is the changing morality of rulers.
+
+Kings and emperors have frequently legitimized their rule by claiming a role as divine intermediaries (e.g., Netting 1972). They are thus responsible for the weather and a good harvest (much as presidents and prime ministers today are considered responsible for a good economy). Poor weather and a failed harvest would indicate that the ruler had not fulfilled this responsibility. The history of China illustrates this attitude. Widespread catastrophes, failures 
+
+of crops, and unrest were taken as signs that a dynasty had lost the Mandate of Heaven, which legitimized rule (Lattimore 1940; Fairbank, Reischauer, and Craig 1973). The loss of the Mandate of Heaven was a signal that a dynasty's end was near. The final years of the Western Chou Dynasty (1027–771 BC), 
+for example, produced remarkable literature on the many disturbances unfolding simultaneously. One poem related the natural catastrophes of the times.
+
+Grandly flashes the lightning of the thunder; There is a want of rest, a want of good. The streams all bubble up and overflow. The crags on the hill-tops fall down. High banks become valleys; Deep valleys become hills. Alas for the men of this time! Why does (the King) not stop these things?
+
+(Hsu and Linduff 1988: 281)
+A variant of this approach is that kings and emperors may not be exclusively to blame for collapse. The fault rather belongs to entire social strata, particularly the elites. Tenney Frank, for example, ascribed the Roman failure to a lack of vision on the part of the landed gentry: Their willingness during the Republic to betray the peasantry for large slave estates and to accept the monarchy for personal safety (1940: 304). Christopher Caudwell indicted soil impoverishment by large estates and the general demoralization of the exploited class 
+(1971: 55). Arthur Boak and William Sinnigen singled out the fact that:
+Rome failed to develop an economic system that could give to the working classes of the Empire living conditions sufficiently advantageous to encourage them to support it devotedly and to reproduce in adequate numbers.
+
+(1965: 522)
+Samuel Dill also cited the economic weakness of the Roman class system but believed that collapse was due to the ruin of the middle class and the municipalities (1899: 245).
+
+There is a long history within anthropology and other social sciences of scholarly interest in the environmental dimensions of social life (e.g., Forde 1934; Hack 1942; Kroeber 1939; Steward 1938; Thomas 1956; Wissler 1917). 
+
+This interest has naturally found expression in the study of collapse (e.g., Cooke 1931; Sanders 1962, 1963; Adams 1981; Culbert 1988). In general the literature of this strand postulates that collapses result from shortages of resources, brought on by normal environmental variation, abrupt climate shifts, or human damage. This approach to understanding collapse is experiencing a renaissance of popularity. Contemporary discussions of our own sustainability and sustainable development frequently postulate that ancient societies collapsed because they degraded their environments (e.g., Brown 2001; Heinberg 2003, 2004; Ponting 1991), justifying the concern that today's societies could collapse for the same reason. Academics have responded to this popular movement with books and papers addressing human–environment interactions over the long term (e.g., Chew 2001, 2007; Costanza et al. 2007; Costanza, Graumlich, and Steffen 2007; Fagan 2000; Flenley and Bahn 2002; McIntosh, Tainter, and McIntosh 2000a, 2000b; Redman 1999; Redman et al. 1999; Tainter 2000; van der Leeuw 1998, 2000; van der Leeuw and Redman 2002). Much of this recent professional literature seeks explicitly to connect historical research to current environmental concerns.
+
+An environmental focus, though, requires adjustments in the assignment of blame. It is expectable that collapses in the days of rule by kings and emperors were attributed to the failings of leaders or the class from which they came. 
+
+In the days of democracy and mass consumption, though, blame is not so easily narrowed. The people themselves must be responsible for collapse, so it is thought. This is so whether the collapse occurred in the past or is merely foretold.
+
+Louis West (1933) offered an early attribution of collapse to the masses. 
+
+West wrote in an age when economic concerns outweighed environmental ones, and when capitalism and socialism vied for supremacy. The weakness leading to the Roman collapse, according to West, came not from the elites but from the parasitical poor:
+In a word, the poor and the army [of Rome] had eaten up the capital of the thrifty, and the western half of Europe sank into the dark ages, from which it did not emerge until the thrifty and energetic could again safely use their abilities in wealth-producing activities.
+
+(West 1933: 106)
+Whereas collapses were once attributed to impious or selfish rulers, or in West's view to indolent masses, in today's framework the sin is gluttony: Ancient societies collapsed because they overshot the carrying capacities of their environments, degrading their support bases in the process. And since it happened to past societies, it could happen to us too (Ponting 1991; Brown 2001; Flenley and Bahn 2002; Heinberg 2003, 2004; Diamond 2005). According to contemporary literature, the next collapse will come because all of us have consumed too many goods, eaten too much, traveled too far, and produced too many children. The Greek tragedy unfolds even as numerous Cassandras warn us to mend our ways.
+
+There is, however, another strand of thought that holds humans blameless. 
+
+Collapses happen. J. B. Bury (1923) once argued that there was no systematic reason for the fall of Rome. It resulted from a series of contingent events—the irruption of the Huns, Roman mismanagement, weak emperors, and employment of barbarians in the army, all occurring over a short time. In other literature the factor precipitating collapse is thought to have been a change in climate: 
+
+Cold, heat, or drought deprived a society of the resources it required, and collapse ensued. Both scholars and the public find climate change to be perpetually attractive as an explanation of cultural change. It offers a simple solution to complicated problems. Ellsworth Huntington (1915, 1917) pioneered this line of inquiry. He was followed a few decades later by Nels Winkless and Iben Browning, who published a semi-popular book titled Climate and the Affairs of Men (1975). (Iben Browning, a zoologist by training, later gained notoriety when he predicted that a catastrophic earthquake would strike New Madrid, Missouri, around 2–3 December 1990. It didn't happen.) Archaeologists and climatologists have postulated that climate change forced collapses and abandonments in cases as far-flung as Old Kingdom Egypt (e.g., Butzer 1976), Mycenaean Greece (e.g., Carpenter 1966), the American Southwest (e.g., Reed 1944), 
+and Highland Mesoamerica (e.g., Weaver 1972). Hubert Lamb, in a magisterial work (1982), traced the cultural effects of climate change across much of the globe. As it has become clear that climate change will affect our own way of life, scholars have recently found that climate affected ancient civilizations from Mesopotamia (Weiss et al. 1993), to Peru (Binford et al. 1997), Greenland (McGovern 1994), and the Maya Lowlands (Hodell, Curtis, and Brenner 1995; deMenocal 2001; Haug et al. 2003). Here, too, the implicit message concerns anthropogenic degradation, if indirectly: Past societies were destroyed by abrupt climate change, although for them it was unforeseeable. We, however, must take care not to cause such a change ourselves.
+
+2.2 Is There A Common Trend In Current Collapse Explanations?
+
+Collapse studies clearly have a long history, involving a plethora of explanations. The literature on collapse has become vast, especially since 1988. Is it possible to synthesize from this literature common explanatory themes, or even a consensus? Fortunately two studies have considered collapse cases in breadth, and to some extent in depth. These are the studies by Tainter (1988) and Middleton (2017). As listed in Table 2.1, 18 cases can be extracted from these works, to which I add a recent study of the collapse of Cahokia in the American Midwest (Tainter 2019). For these 19 cases of collapse, 64 explanations have been advanced. The 64 explanations can be condensed into 10 themes, as follows:
+1. Climate change (the Egyptian First Intermediate Period, Akkad, the Harappans, the Mycenaeans, the Hittites, the Western Roman Empire, Teotihuacan, Tiwanaku, the Maya, Chaco Canyon).
+
+Invaders/external conflict (Akkad, the Third Dynasty of Ur, the Western Chou Dynasty, the Harappans, the Minoans, the Mycenaeans, the Hittites, the Western Roman Empire, the Maya, Teotihuacan, Easter Island, Akkad).
+
+Revolt/rebellion (the Egyptian First Intermediate Period, Akkad, Monte Albán, the Mycenaeans, Teotihuacan, the Maya).
+
+| Old Kingdom Egypt        | Teotihuacan              |
+|--------------------------|--------------------------|
+| Akkad                    | The Classic Maya         |
+| The Third Dynasty of Ur  | Tiwanaku                 |
+| The Harappans            | Huari                    |
+| Minoan Crete             | Easter Island (Rapa Nui) |
+| Mycenaean Greece         | Chaco Canyon             |
+| The Hittites             | Cahokia                  |
+| The Western Roman Empire | The Abbasid Caliphate    |
+| Monte Albán              | The Ik                   |
+| The Western Chou Dynasty |                          |
+
+a Two cases considered by Middleton—Moche and Angkor—are not included here since they were not collapses. Easter Island (Rapa Nui) is included, although its collapse appears to have occurred in the historic period, due to European contact (Mulrooney et al. 2010). 
+
+Intra-societal conflict (the Egyptian First Intermediate Period, Akkad, the Third Dynasty of Ur, the Harappans, Minoan Crete, Teotihuacan, the Western Roman Empire, the Maya, Huari, the Mycenaeans, Easter Island).
+
+Environmental deterioration (other than climate change) (the Harappans, the Maya, Easter Island, the Third Dynasty of Ur, the Western Roman Empire, the Abbasid Caliphate, Cahokia, the Ik).
+
+Catastrophes (e.g., epidemics, plagues, earthquakes, volcanoes) (the Minoans, the Mycenaeans, the Western Roman Empire, the Maya, Teotihuacan).
+
+Change in trade patterns (the Mycenaeans, the Hittites, the Maya). 8. Mystical (e.g., religious/ideological change; dysfunctional belief systems; ethics; cyclical theory; concepts such as "decadence;" loss of faith in rulers) (the Western Roman Empire, Teotihuacan, Huari, the Maya).
+
+Economics of complexity (the Western Roman Empire, the Maya, Chaco Canyon, Cahokia).
+
+Chance concatenation of events (the Western Roman Empire). There are some clearly favored explanations in this list, as follows:
+    • –Invaders/external conflict (12 explanations) - –Intra-societal conflict (11 explanations) - –Climate change (10 explanations)
+Many scholars explain collapse as resulting suddenly and surprisingly from outside a society, a "bolt from the blue," rather than searching for systematic explanations or cross-cultural regularities. In the list above we can see the following:
+    • –Climate change (10 explanations) - –Invaders (12 explanations)
+    • –Catastrophes (5 explanations) - –Chance concatenation of events (1 explanation)
+The literature thus reveals 28 explanations that might be characterized as the deus ex machina theory of collapse. The term derives from the ancient, classical theater in which, if a plot became too complicated to resolve, a god would descend on a machine and sort everything out. In collapse studies, the god from the machine is some bolt from the blue, an unforeseeable occurrence such as a change in climate that clarifies a complicated and mysterious historical event. Forty-four percent (28/64) of collapse explanations fall within this theme. Another way of characterizing the 
+
+deus ex machina
+
+ theory of collapse is that at least a plurality of scholars believe that 
+
+collapse is just bad luck
+
+.
+
+2.3 Concluding Remarks
+
+Misia Landau (1984) observed that descriptions of human biological evolution have a narrative structure like myths or folk tales. In such stories, the hero starts from humble beginnings, just as humans began as merely another unassuming primate. The hero undergoes various trials, acquiring new capabilities in the process—just as humans acquired an opposable thumb, upright posture, and a large brain. The hero finally triumphs—as did humans—although this triumph is often not the end of the story. In this narrative structure, we can also see our ancestor myths about the evolution of complex societies. Human society began as small, humble, and threatened. But through heroic efforts, we discovered fire and agriculture and invented the wheel, metallurgy, cities, and civil society. These new capabilities facilitated the emergence of civilization, making humanity triumphant over nature. The hero—humanity—had achieved its quest. In many myths, though, the hero is destroyed through pride or hubris. Just so, civilizations have collapsed, often through their own faults, and many people worry that it could happen again.
+
+I noted at the beginning of this chapter that collapse explanations wax and wane in popularity according to the issues of the day. As related above, in the eighteenth century, Volney, Gibbon, and their contemporaries saw collapse as resulting from the sort of factionalism occurring in their time, which the drafters of the American Constitution tried to counter. Collapse explanations were influenced by the world wars. During the Cold War, we had theories attributing collapse to elite mismanagement, class conflict, and peasant revolts. The environmental movement brought attention to environmental degradation in ancient societies. As global warming became an issue, scholars of the past began to discover that ancient societies collapsed due to climate change. If elite consumption once caused collapses, today the reason must be mass consumerism. 
+
+The trend cannot stop there. Given recent developments in the public arena, inevitably someone must propose that societies are made vulnerable to collapse by inequality and "the 1%." In fact, some authors already have. Such a model has been proposed by Motesharrei, Rivas, and Kalnay (2014). Their research was sponsored by that bastion of historical inquiry, NASA's Goddard Space Flight Center, and was based on sociological research published in obscure physics journals (Kloor 2014).
+
+Collapse theories are influenced by contemporary issues. They are influenced by our need for an ancestor myth, which the phenomenon of collapse seems to contradict. They are even influenced by the structure of folk tales. 
+
+These influences will never end. After 3,000 years of literature on collapse and related phenomena, we cannot fail to be disappointed that 44% of collapse explanations answer the question "What causes collapse?" with the reply 
+"Nothing in particular, just bad luck."
+Surely we can do better.
+
+Acknowledgment
+
+I am pleased to express my appreciation to Walter Scheidel and Temis Taylor for comments on an earlier version of this chapter.
+
+References
+
+Adams, Robert M. C. 1981. 
+
+Heartland of Cities
+
+. Chicago: Aldine. Bergin, Thomas Goddard and Max Harold Fisch, trans. 1948 [1744]. The New Science of Giambattista Vico (3rd edition). Ithaca: Cornell University Press.
+
+Binford, Michael W., Alan L. Kolata, Mark Brenner, John W. Janusek, Matthew T. Seddon, Mark Abbott and Jason H. Curtis. 1997. Climate Variation and the Rise and Fall of an Andean Civilization. 
+
+Quaternary Research
+
+ 47(2): 235–248.
+
+Boak, Arthur E. and William G. Sinnigen. 1965. 
+
+A History of Rome to A.D. 565
+
+ (5th edition). New York: MacMillan.
+
+Brown, Lester R. 2001. 
+
+Eco-economy: Building an Economy for the Earth
+
+. New York: Norton. Bury, J. B. 1923. 
+
+History of the Later Roman Empire
+
+. London: MacMillan. Butzer, Karl W. 1976. 
+
+Early Hydraulic Civilization in Egypt
+
+. Chicago: University of Chicago Press.
+
+Carpenter, Rhys. 1966. 
+
+Discontinuities in Greek Civilisation
+
+. Cambridge: Cambridge University Press.
+
+Carr, Edward Hallett. 1961. 
+
+What Is History?
+
+ London: MacMillan. Caudwell, Christopher. 1971. 
+
+Further Studies in a Dying Culture
+
+. New York: Monthly Review Press.
+
+Chew, Sing C. 2001. 
+
+World Ecological Degradation: Accumulation, Urbanization, and Deforestation
+
+ 3000 B.C.–A.D. 2000. Walnut Creek: AltaMira.
+
+Chew, Sing C. 2007. 
+
+The Recurring Dark Ages: Ecological Stress, Climate Changes, and System
+
+ Transformation. Lanham: AltaMira.
+
+Cooke, C. Wythe. 1931. Why the Mayan Cities of the Peten District, Guatemala, Were Abandoned. 
+
+Journal of the Washington Academy of Sciences
+
+ 21(13): 283–287.
+
+Costanza, Robert, Lisa J. Graumlich and Will Steffen (eds.). 2007. 
+
+Sustainability or Collapse?
+
+ 
+An Integrated History and Future of People on Earth. Dahlem Workshop Report 96. Cambridge: The MIT Press.
+
+Costanza, Robert, Lisa J. Graumlich, Will Steffen, Carole Crumley, John Dearing, Kathy Hibbard, Rik Leemans, Charles Redman and David Schimel. 2007. Sustainability or 
+
+Collapse: What Can We Learn From Integrating the History of Humans and the Rest of Nature? 
+
+Ambio - A Journal of the Human Environment
+
+ 36(7): 522–527.
+
+Culbert, T. Patrick. 1988. The Collapse of Classic Maya Civilization. In 
+
+The Collapse of
+
+ Ancient States and Civilizations, edited by Norman Yoffee and George L. Cowgill, pp. 69–101. Tucson: University of Arizona Press.
+
+deMenocal, Peter B. 2001. Cultural Responses to Climate Change During the Late Holocene. 
+
+Science
+
+ 292(5517): 667–673.
+
+Diamond, Jared. 2005. 
+
+Collapse: How Societies Choose to Fail or Succeed
+
+. New York: 
+Viking.
+
+Dill, Samuel. 1899. 
+
+Roman Society in the Last Century of the Western Empire
+
+ (2nd edition). 
+
+London: MacMillan.
+
+Fagan, Brian. 2000. 
+
+The Little Ice Age: How Climate Made History, 1300–1850
+
+. New York: 
+Basic Books.
+
+Fairbank, John K., Edwin O. Reischauer and Albert M. Craig. 1973. 
+
+East Asia: Tradition and
+
+ Transformation. Boston: Houghton Mifflin.
+
+Flenley, John and Paul Bahn. 2002. 
+
+The Enigmas of Easter Island
+
+ (2nd edition). Oxford: 
+Oxford University Press.
+
+Forde, C. Darryl. 1934. 
+
+Habitat, Economy and Society: A Geographical Introduction to Ethnology
+
+. 
+
+London: Methuen.
+
+Frank, Tenney. 1940. An Economic Survey of Ancient Rome, Volume V: Rome and Italy of the Empire. Baltimore: Johns Hopkins Press.
+
+Gibbon, Edward. 1776–1788. 
+
+The Decline and Fall of the Roman Empire
+
+. New York: Modern Library.
+
+Hack, John T. 1942. The Changing Physical Environment of the Hopi Indians of Arizona. 
+
+Papers of the Peabody Museum of American Archaeology and Ethnology 35(1).
+
+Haug, Gerald H., Detlef Günther, Larry C. Peterson, Daniel M. Sigman, Konrad A. 
+
+Hughen and Beat Aeschlimann. 2003. Climate and the Collapse of Maya Civilization. Science 299(5613): 1731–1735.
+
+Heinberg, Richard. 2003. 
+
+The Party's Over: Oil, War and the Fate of Industrial Societies
+
+. 
+
+Gabriola Island: New Society Publishers.
+
+Heinberg, Richard. 2004. 
+
+Power Down: Options and Actions for a Post-carbon World
+
+. Gabriola Island: New Society Publishers.
+
+Hodel, David A., Jason H. Curtis and Mark Brenner. 1995. Possible Role of Climate in the Collapse of Classic Maya Civilization. 
+
+Nature
+
+ 375(6530): 391–394.
+
+Holling, C. S. 2001. Understanding the Complexity of Economic, Ecological, and Social Systems. 
+
+Ecosystems
+
+ 4(5): 390–405.
+
+Hsu, Cho-yun and Katheryn M. Linduff. 1988. 
+
+Western Chou Civilization
+
+. New Haven: 
+Yale University Press.
+
+Huntington, Ellsworth. 1915. 
+
+Civilization and Climate
+
+. New Haven: Yale University Press. Huntington, Ellsworth. 1917. Climatic Change and Agricultural Exhaustion as Elements in the Fall of Rome. 
+
+Quarterly Journal of Economics
+
+ 31(2): 173–208.
+
+Ibn Khaldun. 1958. 
+
+The Muqaddimah: An Introduction to History
+
+, translated by Franz Rosenthal. Pantheon, New York.
+
+Kloor, Keith. 2014. Judging the Merits of a Media-Hyped 'Collapse' Study. Discover, March 21. Online: http://blogs.discovermagazine.com/collideascape/2014/03/21/ judging-merits-media-hyped-collapse-study/#.V8ib1W25xZg.
+
+Kroeber, Alfred L. 1939. 
+
+Cultural and Natural Areas of Native North America
+
+. Berkeley: 
+University of California Press.
+
+Lamb, H. H. 1982. 
+
+Climate, History and the Modern World
+
+. London: Methuen.
+
+Landau, Misia. 1984. Human Evolution as Narrative. 
+
+American Scientist
+
+ 72: 262–268.
+
+Lattimore, Owen. 1940. 
+
+Inner Asian Frontiers of China
+
+. Boston: Beacon Press. McGovern, Thomas H. 1994. Management for Extinction in Norse Greenland. In Historical Ecology: Cultural Knowledge and Changing Landscapes. Carole L. Crumley ed., pp. 127– 154. Santa Fe: School of American Research Press.
+
+McIntosh, Roderick J., Joseph A. Tainter and Susan Keech McIntosh (eds.). 2000a. 
+
+The Way the Wind Blows: Climate, History, and Human Action. New York: Columbia University Press.
+
+McIntosh, Roderick J., Joseph A. Tainter and Susan Keech McIntosh. 2000b. Climate, History, and Human Action. In 
+
+The Way the Wind Blows: Climate, History, and Human
+
+ Action. Roderick J. McIntosh, Joseph A. Tainter and Susan Keech McIntosh eds., pp. 1–42. New York: Columbia University Press.
+
+Middleton, Guy D. 2017. 
+
+Understanding Collapse: Ancient History and Modern Myths
+
+. 
+
+Cambridge: Cambridge University Press.
+
+Montesquieu, Charles Louis. 1968. 
+
+Considerations on the Causes of the Greatness of the Romans
+
+ and Their Decline, translated by David Lowenthal. Ithaca: Cornell University Press.
+
+Motesharrei, Safa, Jorge Rivas and Eugenia Kalnay. 2014. Human and Nature Dynamics 
+(HANDY): Modeling Inequality and Use of Resources in the Collapse or Sustainability of Societies. 
+
+Ecological Economics
+
+ 101: 90–102.
+
+Mulrooney, Mara A., Thegn N. Ladefoged, Christopher M. Stevenson and Sonia Haoa. 
+
+Empirical Assessment of a Pre-European Societal Collapse on Rapa Nui (Easter Island). In 
+
+The Gotland Papers: Selected Papers From the VII International Conference on
+
+ Easter Island and the Pacific: Migration, Identity, and Cultural Heritage. P. Wallin and H. Martinsson-Wallin eds., pp. 141–154. Visby: Gotland University Press.
+
+Netting, Robert M. 1972. Sacred Power and Centralization: Aspects of Political Adaptation in Africa. In 
+
+Population Growth: Anthropological Implications
+
+. Brian Spooner ed., pp. 219– 244. Cambridge: Massachusetts Institute of Technology Press.
+
+Ponting, Clive. 1991. 
+
+A Green History of the World
+
+. New York: St. Martin's. Redman, Charles L. 1999. 
+
+Human Impacts on Ancient Environments
+
+. Tucson: University of Arizona Press.
+
+Reed, Erik K. 1944. The Abandonment of the San Juan Basin. 
+
+El Palacio
+
+ 51: 61–74. Rostovtzeff, M. 1926. 
+
+The Social and Economic History of the Roman Empire
+
+. Oxford: Oxford University Press.
+
+Sanders, William T. 1962. Cultural Ecology of the Maya Lowlands, Part I. 
+
+Estudios de
+
+ Cultura Maya 2: 79–121.
+
+Sanders, William T. 1963. Cultural Ecology of the Maya Lowlands, Part II. Estudios de Cultura Maya 3: 203–241.
+
+Spengler, Oswald. 1962. 
+
+Decline of the West
+
+, edited by Helmut Werner, translated by Charles Francis Atkinson. New York: Vintage.
+
+Steward, Julian H. 1938. Basin-Plateau Aboriginal Sociopolitical Groups. Bureau of American Ethnology, 
+
+Bulletin
+
+ 120.
+
+Tainter, Joseph A. 1988. 
+
+The Collapse of Complex Societies
+
+. Cambridge: Cambridge University Press.
+
+Tainter, Joseph A. 2000. Global Change, History, and Sustainability. In 
+
+The Way the Wind
+
+ Blows: Climate, History, and Human Action. Roderick J. McIntosh, Joseph A. Tainter and Susan Keech McIntosh eds., pp. 331–356. New York: Columbia University Press.
+
+Tainter, Joseph A. 2019. Cahokia: Urbanization, Metabolism, and Collapse. Frontiers in Sustainable Cities 1(6). http://doi.org/10.3389/frsc.2019.00006.
+
+Thomas, William L., Jr. (ed.). 1956. 
+
+Man's Role in Changing the Face of the Earth
+
+. Chicago: 
+University of Chicago Press.
+
+Toynbee, Arnold J. 1962. 
+
+A Study of History
+
+. Oxford: Oxford University Press. .
+
+Turchin, Peter. 2003. 
+
+Historical Dynamics: Why States Rise and Fall
+
+. Princeton: Princeton University Press.
+
+van der Leeuw, Sander E. 1998. Introduction. In The Archaeomedes Project: Understanding the Natural and Anthropogenic Causes of Land Degradation and Desertification in the Mediterranean Basin. S. E. van der Leeuw ed., pp. 2–22. Luxembourg: Office for Official Publications of the European Communities.
+
+van der Leeuw, Sander E. and the Archaeomedes Research Team. 2000. Land Degradation as a Socionatural Process. In 
+
+The Way the Wind Blows: Climate, History, and Human
+
+ Action. Roderick J. McIntosh, Joseph A. Tainter and Susan Keech McIntosh eds., pp. 357–383. New York: Columbia University Press.
+
+van der Leeuw, Sander E. and Charles L. Redman. 2002. Placing Archaeology at the Center of Socio-natural Studies. 
+
+American Antiquity
+
+ 67(4): 597–605.
+
+Volney, C. F. 1793. 
+
+The Ruins; or Meditations on the Revolutions of Empires
+
+. New York: 
+Calvin Blanchard.
+
+Weaver, Muriel Porter. 1972. 
+
+The Aztecs, the Maya, and Their Predecessors
+
+. New York: 
+Seminar Press.
+
+Weiss, H., M.-A. Courty, W. Wetterstrom, F. Guichard, L. Senior, R. Meadow and A. 
+
+Curnow. 1993. The Genesis and Collapse of Third Millennium North Mesopotamian Civilization. 
+
+Science
+
+ 261(5124): 995–1004.
+
+West, Louis C. 1933. The Economic Collapse of the Roman Empire. 
+
+The Classics Journal
+
+ 28: 96–106.
+
+Winkless, Nels and Iben Browning. 1975. 
+
+Climate and the Affairs of Men
+
+. New York: 
+Harper's Magazine Press.
+
+Wissler, Clark. 1917. 
+
+The American Indian; an Introduction to the Anthropology of the New
+
+ World. New York: D. C. McMurtrie.
+
+Yoffee, Norman. 1988. The Collapse of Ancient Mesopotamian States and Civilization. In The Collapse of Ancient States and Civilizations. Norman Yoffee and George L. Cowgill eds., pp. 44–68. Tucson: University of Arizona Press.
+
+Diminishing Returns On Extraction
+
+How Inequality and Extractive Hierarchy Create Fragility Luke Kemp
+
+Luke Kemp 
+
+Diminishing Returns On Extraction
+
+ 10.4324/9781003331384-5 3 3.1 Introduction: The Iatrogenic Theory Of Collapse
+
+Do societies lose resilience over time? Joseph Tainter's theory of diminishing returns on complexity (TDRC) answers yes (Tainter 1988, 1995, 2011). The theory rests on four key points:
+    • First, complex societies are problem-solving organizations that gain in socio-political complexity to address problems.
+
+• Second, increased socio-political complexity entails an energy cost. - Third, building socio-political complexity to solve problems eventually reaches a point of declining marginal returns. The costs of complexity grow faster than the benefits.
+
+• Fourth, the diminishing returns result in economic decline and popular disaffection, leaving a complex but vulnerable society, which is unable to cope with new challenges.
+
+Socio-political complexity, past a certain point, becomes "iatrogenic": As with many medical treatments, the cure can become worse than the disease. Tainter defines collapse as a rapid, significant loss of an established level of socio-political complexity (Tainter 1988). For the purposes of this chapter, I define collapse in this case as the relatively rapid (within decades), significant, and enduring loss of population and physical capital, and an accompanied failure of the state (including its ability to maintain a monopoly on violence and taxation) and change in political identity. It is (at least historically) primarily an elite and urban problem, and one that can be less damaging, perhaps barely noticeably or even beneficial in some cases, for most of the population outside of palatial centers (Haldon, Chase, et al. 2020). It is a rare but real phenomenon in human history.
+
+Tainter focuses on two specific pathways that lead from diminishing returns to crisis. The first is economic decline: As societies lose their budget, they also lose their ability to respond to new crises. They lack a buffer of resources to address new shocks, whether they be invasion or climate change. The second 
+
+3
+
+Doi: 10.4324/9781003331384-5 38 Luke Kemp
+
+is mass disaffection and discontent. Non-elite workers are expected to do more and more for either the same, or less, benefit (Tainter 1988).
+
+TDRC is perhaps the foremost unifying theory of societal aging (a loss of resilience over time). There is much to admire in it. It meshes well with both human ecological work on socio-economic metabolism and complexity theory. It coincides with modern-day concerns about an "energy cliff" due to the declining Energy Return on Investment (EROI) (Hall, Balogh, and Murphy 2009) of fossil fuels, knowledge of tipping points (Lenton 2011), and provides a theory that is amenable to modeling. The emphasis that collapse is an (often adaptive) disaggregation into smaller political units is a point that both collapse proponents and skeptics can agree on.
+
+TDRC also echoes other emerging theories of societal collapse and resilience. 
+
+Some have suggested through complexity modeling that increases in complexity can lead to a condition of "self-organized criticality," which is precariously unstable (Brunk 2002). Others have pointed toward the accumulation of regulatory feedbacks over time as slowly engraining fragility in complex systems from the biological to the social (Anderies and Levin 2023). Most recently, empirical analysis using the Seshat Databank (Turchin et al. 2015) suggests that there could be a general scale threshold: societies need to develop greater information processing, such as writing, to move beyond a certain size. Some have even tried to develop a general biophysical theory and model of societal collapse based on Tainter's hypothesis 
+(Bardi, Falsini, and Perissi 2019).
+
+Yet, as a theory, it can be improved on by considering multiple factors of resilience and decay (Butzer 2012; Middleton 2012) as well as the role of politics and power. In this chapter, I revise TDRC to create a more nuanced, political, and empirical theory. I will begin by outlining some of the key problems with the theory, present a revised theory of "Diminishing Returns on Extraction," and highlight how diminishing returns apply to the specific category of empires.
+
+In short, TDRC has a partly correct diagnosis, but faulty theoretical foundations. TDRC confuses complexity with hierarchy, and makes a problematic assumption that states are rational problem-solvers of collective problems with collective solutions. A more realistic picture is that states build capital, not complexity. Their problem-solving efforts address largely elite-selected problems with elite-derived benefits. Tainter is right to highlight diminishing returns on energy and resource extraction. For empires and expansionary states, this includes diminishing returns on conquest. For elites, this is accompanied by declining returns on economic development, inequality, corruption, and oligarchy. These drive intra-elite competition and further state capture, hollowing out the state. Eventually, the state falls alongside elites.
+
+The underlying dynamic is one of extractive political systems. All states are extractive in the sense of taking a certain share of resources from their populace. This exists on a spectrum, and extractive institutions here refers to those which are marked by more exclusive political arrangements, which result in decisions and resource distributions that disproportionately benefit a small elite at the expense of wider society. Collapse is a case of diminishing returns on extraction.
+
+3.2 The Problems Of Tdrc
+
+TDRC is elegant and compelling in its simplicity. Despite this, it faces several problems as a unifying theory of societal collapse.
+
+First, complexity is a vague concept and TDRC conflates its characteristics with the attributes of state hierarchies. If we use a more intuitive and sensible definition of complexity, it becomes clear that states increase complexity in some areas and decrease it in others. We should instead focus on capital, which is more easily, precisely measured and correlates with energy use.
+
+Second, different lines of evidence suggest that economic complexity and large-scale coordination do not require a state hierarchy.
+
+Third, states rarely efficiently and rationally address collective problems. 
+
+Instead, efforts are often wasteful, avoid the most pressing problems, or are counterproductive. We should be careful not to naturalize or glorify the state and its problem-solving (Yoffee 2019).
+
+Fourth, states are not uniform in their political structure and goals. These differences lead to widely disparate levels of vulnerability and resilience.
+
+3.2.1 Capital, Not Complexity
+
+Complexity in systems has several common characteristics, but no consensus definition. Key indicators often include the diversity and interconnectivity of parts, non-linear behavior, the presence of feedback loops, and scale. Socio-political complexity also lacks an official definition, but Tainter provides a useful one: 
+"Complex societies are problem-solving organizations, in which more parts, different kinds of parts, more social differentiation, more inequality, and more kinds of centralization and control emerge as circumstances require" (Tainter 1988). This has some overlap with the typical notions of complexity, but differs most in its emphasis on inequality, centralization, and control (sometimes termed "information processing"). It is, rather, a closer description of hierarchy. There is a tension between complexity in the broad sense, and this definition of socio-political complexity. Scholars of complexity are split on what defines a hierarchy and its role in complex systems, particularly given its apparent tension with common ideas of emergence, self-organization, and distributed control (Lane 2006). Synchronized swarm behavior in schools of fish and flocks of birds are the more usual fare for complexity studies rather than topdown chains of command.
+
+I suggest we rely on a definition of complexity that aligns with its usage in the field of complex systems. Collective dynamic systems exhibit nonlinear and difficult-to-predict behaviors due to the interconnectivity and diversity of their constituent parts. Hence, the complexity of these systems can be defined and measured by this diversity and interconnectivity. Scale is an amplifier: it allows for greater degrees of interconnectivity and diversity. Measuring an overall level of complexity will be partly a subjective judgement. Agrarian states appear to have had a greater diversity in occupations and economic goods than stateless foragers. Stateless hunter-gatherers had more diverse diets, movement patterns, 
+
+40 Luke Kemp
+
+and individual skillsets (Scott 2017). Calculating an overall level of complexity will depend on how much we value the complexity of certain domains, and which ones can be tracked.
+
+I define states as centralized institutions that coercively extract resources from, and impose rules on, a territorially circumscribed population. Note that Tainter's characteristics of complexity—centralization, control, and inequality —are fundamental markers of the state. They are not however, attributes of the more broadly used and common-sense definition of complexity (scale and interconnectivity of parts leading to nonlinear and difficult-to-predict behavior). Hence there appears to be a confusion between complexity and the state.
+
+Statehood does not exist as an on–off switch. It exists by degradations. This is particularly apparent in the earliest states such as Mesopotamian city-states and pre-dynastic Egypt (Stevenson 2016), which were marked more by varying, fluctuating degrees of centralization and hierarchy. Permanent coercive hierarchies did eventually rise, but it was not a single, clear causal trajectory. There were multiple pathways as well as reversals. This distinction between statehood and socio-political complexity is crucial. States should not be confused with complexity. They are a particular template for political organization that can reduce and increase complexity in different domains.
+
+The imposition of a state hierarchy has frequently shrunk rather than grown socio-political complexity. James C. Scott's influential Seeing Like a State argues that state hierarchies simplify the world to make it legible and controllable (Scott 1999). A multitude of languages and dialects are replaced by a common standard tongue. The numerous contextual names of an individual are stamped out in favor of a single surname for purposes of taxation, census tracking, and conscription. That is, even though government bureaucracy and institutions may become larger, more interconnected, and more diverse, there is a decrease in the linguistic and social diversity. Often, resistance to such simplification and attempts to "shackle the leviathan" of the state (Acemoglu and Robinson 2020) are perhaps more likely to induce an overall increase in socio-political complexity rather than top-down homogenization.
+
+Capital is a more useful measurement for the TDRC. If we are interested in what states tend to accumulate over time to address new problems and what correlates to energy usage, then it is economic capital. I define capital in the same way as Thomas Piketty: A saleable, tangible, or intangible asset that can be owned and receives a monetary return1 (Piketty and Zucman 2014). This definition of capital only includes humans when they are traded as slaves. In pre-monetary societies, a monetary return can be replaced by a general material return based on exchange value. This provides a much more precise and measurable idea than broader notions of capital that includes social, natural, or human capital.
+
+Other forms of capital are more difficult to estimate over time and follow less simple trajectories. Take, for instance, social capital. One of the most famous definitions of social capital comes from Putnam, who views it as networks of relationships, trust, and norms that facilitate cooperation for mutual benefit (Putnam 1993). 
+
+While other definitions vary, they share many of these common characteristics of interpersonal ties and norms such as reciprocity. While there are no deep historical measurements of social capital, it appears dubious that it has experienced the same exponential growth as economic capital has since the Neolithic revolution. The most recent evidence suggests that modern foragers have extensive networks of social relationships across bands and with non-kins. For many individuals, up to 90% of relations were not kin-based (Bird et al. 2019). This maintenance between tight, small-scale groups and much larger social networks suggests that in terms of social capital, modern and ancient foragers may not differ substantially from contemporary city-dwellers (Wengrow 2019).
+
+It is hard to definitively show that the Western Roman Empire was more diverse and interconnected than the Germanic "barbarians" to the North, with their multiple dialects, diverse customs, intricate overlapping social relations, and deliberative assemblies. It did, however, undoubtedly possess far more capital.
+
+Economic capital also more closely tracks what Tainter and others are most concerned about: Energy capture. Tainter has put forward the case that complexity precedes and drives resource and energy consumption (Tainter 2006b). This is not straightforward to address due to the ambiguity of defining, let alone measuring, complexity.2 However, the relationship between economic capital and energy use is clear. Most recent systematic reviews and evidence suggest that GDP, a decent proxy for levels of economic capital and activity, is innately tied to energy use (Hickel and Kallis 2020; Haberl et al. 2020).
+
+Complexity should not be confused with hierarchy. Hierarchies by nature are intended to simplify relations. States have likely made some areas of life, such as economic activity and bureaucracy, more complex while simplifying others, such as languages, measurements, ecology, politics, and many social practices.
+
+For understanding collapse and diminishing returns, it would be more prudent to focus on states and capital accumulation. Capital has an easily measured and proven relationship with energy use and leaves a clear archaeological footprint. Complexity does not.
+
+It is reflective of emerging evidence that complexity does not inherently need hierarchy, nor does problem-solving always need increased energy or economic capital.
+
+3.2.2 Economic Complexity Without Hierarchy
+
+The idea that state hierarchies drove complexity is a standard narrative. Across the vast expanse of history, the rise of states has tended to result in undeniable, long-term trends of increasing energy capture, information processing, population density, and sheer population (Marcus 2008; Morris 2010). It remains unclear which of the variables drove which, including whether population scale and density pushed ecological exploitation and energy extraction (Ellis et al. 2018). These also are not synonymous with complexity. As noted earlier, stateless foragers likely possess greater complexity than large states in certain areas, including diets, individual skills, and ecology.
+
+42 Luke Kemp
+
+Even if we narrow our lens to just the diversity and interconnectedness of economic activities, it is difficult to contend that complexity required statelevel hierarchies. Scholars have recently challenged the state-complexity link, drawing on examples such as seasonal foragers in the Upper Paleolithic, early cities, the Celts, and nomadic pastoralists. Complex grave goods that would have required thousands of hours of work, monumental public works made of mammoth bones, megalithic stone works requiring coordinated workforces and detailed design (most famously in Göbekli Tepe), and seasonal variation between hierarchal structures and more distributed forager groups were present during the Upper Paleolithic (Wengrow and Graeber 2015). None of these should be conflated with complexity writ large; they are simply the most archaeologically visible proxies for certain areas of complexity. That is, they are useful proxies for the diversity and interconnectedness of forms of labor and economic activity, not of political practices, languages, or social relations.
+
+Many of the earliest cities display aspects of complexity (coordinated and interconnected labor, long-distance trade, as well as diverse jobs, skills, and social practices) without centralized hierarchy (Wengrow 1972). For the large, ancient city of Teotihuacan, evidence of egalitarianism has been sidelined due to the persistent belief that economic complexity and large-scale urbanism require centralization. This has led scholars to undertake mathematical modeling to prove an idea that should be uncontroversial: That large-scale cooperation in the city could have been distributed and self-organized (Froese, Gershenson, and Manzanilla 2014). In Mesopotamia, while the earliest states were "fragile and short-lived," (Scott 2017) the cities they sought to conquer and bind were remarkably resilient (Yoffee and Seri 2019). Even when states did reign, the actual responsibilities of urban governance appear to have largely been decentralized (Van De Mieroop 1999). The Harappan is perhaps the most notable contradiction to the evolutionary state hypothesis. This cultural zone of settlements is exceptional in its size (encompassing multiple large urban sites), trade networks extending into Mesopotamia, longevity (at least 800 years during the "mature" phase), and slow decline over multiple centuries rather than abrupt collapse (Middleton 2017). Despite all this long-lasting urbanization and economic complexity, there is little evidence that it required a state-based hierarchy. As the most recent review of the evidence summarized:
+Urbanization, collective action, and technological innovation are not driven by the agendas of an exclusionary ruling class and can occur in their total absence. The priest-king is dead. The Indus civilization was egalitarian, but this is not because it lacked complexity; rather, it is because a ruling class is not a prerequisite for social complexity (Green 2020).
+
+These are provisional and contested findings. Such is true of much in ancient archaeology. Evidence of hierarchy could be archaeologically invisible, and absence of evidence is not evidence of absence. While further work is needed, it provides an important, promising data point.
+
+In the modern world, there also seems to be no iron rule that higher complexity requires more hierarchy. In Bali, the traditional, complex, and largescale water irrigation management system has existed since the eleventh century by not just operating outside of the state but deliberately evading state control 
+(Wengrow 2017). There are similar long-lived, complex, and sustainable irrigation management structures in Amazonia, the Maya Lowlands, Angkor, and West Africa characterized by cooperation, heterarchy, and specialized occupations rather than hierarchy (Scarborough and Lucero 2010). These are notable since coordinated labor for irrigation was one of the original proposals for why states were a functional adaptation.
+
+The evidence suggests a more nuanced picture of the links between certain indicators of economic complexity and hierarchy. As archaeologist David Wengrow noted while drawing on the work of anthropologist Jack Goody: "[T]here was no universal or law-like connection between urban life, state sovereignty, and bureaucracy. These are instead parts of a distinct 'package' of developments that coalesced under a particular set of historical circumstances." (Wengrow 2015) The exact relationship between these elements remains unclear. There is a still speculative, tenuous, and emerging picture that cities, trade, and specialization tend to have their roots in some particular, localized needs for integration. States and hierarchy were more frequently the outcomes of coercive efforts to capitalize on the opportunity presented by the large labor-grain concentrations that urbanism offered (Scott 2017). Trade preceded the flag, and the town square preceded the king.
+
+The earliest states often simplified many domains of life, a point that archaeologists have made for aesthetic labor (in the Neolithic Near East) (Wengrow 2001) 
+and administration (Yoffee 2016). States frequently increased complexity in some domains while simplifying others. It is a complex picture (pun intended).
+
+3.2.3 Broken Returns
+
+Viewing societies as problem-solving entities that build complexity to address new problems is enticing. It is alluringly simple and easy to model. But if we assume that states build complexity for problem-solving, the question arises: Whose problems and for whose benefit? This unravels into several problems.
+
+First, there is the issue that problem-solving often does not require increasing net complexity (or capital), and often would benefit from reducing it. Abolishing fossil fuel subsidies, for instance, would incur a range of benefits, not least of which would be tackling climate change, and overall would likely reduce at least bureaucratic complexity.
+
+Second, many problems are better addressed by reducing energy use. Energy efficiency would reduce overall energy demand, reduce emissions, and offer significant net-economic benefit (World Resources Institute 2014), particularly due to alleviating the health and productivity impacts of air pollution (Haines 2017). A new modeling exercise suggests that the world could meet the basic material needs of a population three times the current size by 2050 while simultaneously shrinking
